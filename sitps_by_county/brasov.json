@@ -1,0 +1,2867 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Brasov",
+    "description": "Stații ITP autorizate RAR din județul Brasov. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/brasov",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Brasov",
+                "item": "https://itpgo.ro/judet/brasov"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 101,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/4m-auto-erv-service-srl",
+                    "name": "4M Auto ERV Service",
+                    "image": "https://itpgo.rob1f1bf53-be41-4114-956a-a783a59a5bf1/b1f1bf53-be41-4114-956a-a783a59a5bf1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CALEA BUCUREȘTI, BRAȘOV, ROMÂNIA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.619854,
+                        "longitude": 25.650108
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adciel-srl",
+                    "name": "Adciel",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Brazilor Nr. 4a, Zarnesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.575759,
+                        "longitude": 25.344264
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/agropop-service-srl",
+                    "name": "AGROPOP SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA VASILE GOLDIȘ NR. 41, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.683191,
+                        "longitude": 25.614882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aic-service-network-srl",
+                    "name": "AIC SERVICE NETWORK – Service camioane si vehicule comerciale Brasov",
+                    "image": "https://itpgo.ro8d66f883-5bf2-43bd-b732-c79546c18abe/8d66f883-5bf2-43bd-b732-c79546c18abe.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BULEVARDUL GRIVIȚEI NR. 1W, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.662564,
+                        "longitude": 25.593376
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV145"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ancri-kron-srl",
+                    "name": "ANCRI KRON SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "FUNDATURA HARMANULUI NR. 7D, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.673624,
+                        "longitude": 25.648472
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV127"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/anidav-automat-srl",
+                    "name": "Anidav Automat",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Azotului Nr. 9, Fagaras"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.843987,
+                        "longitude": 24.982697
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV098"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/arinovis-motors-srl",
+                    "name": "ARINOVIS MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. FELDIOAREI NR. 57, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.71845,
+                        "longitude": 25.580245
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV095"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-checks-cod",
+                    "name": "AUTO CHECKS COD",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "PRINCIPALA NR. FN,  BL.FN, SERCAIA, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.830167,
+                        "longitude": 25.142922
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV086"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-checks-cod-srl",
+                    "name": "AUTO CHECKS COD SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "str. COMUNA SERCAIA nr. FN, SAT SERCAIA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.117477,
+                        "longitude": 27.379224
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autokov-srl",
+                    "name": "Autokov",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Ciucas Nr. 45, Sacele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.620631,
+                        "longitude": 25.679179
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autokpb-serv-srl",
+                    "name": "AUTOKPB ITP & SERVICE",
+                    "image": "https://itpgo.ro29d2c50e-c931-43f4-a29c-d7d3a517ca82/29d2c50e-c931-43f4-a29c-d7d3a517ca82.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, CALEA FĂGĂRAŞULUI NR. 8 A, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.661652,
+                        "longitude": 25.573439
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV122"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autokronfast-srl",
+                    "name": "Autokronfast",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Cimpului Nr. 82, Sacele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.622903,
+                        "longitude": 25.698975
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV142"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automobile-bavaria",
+                    "name": "Automobile Bavaria",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Calea Bucuresti Nr. 33, Sacele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.647189,
+                        "longitude": 25.620718
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV101"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autostart-sa",
+                    "name": "AUTOSTART SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA LUNGĂ NR. 261, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.664932,
+                        "longitude": 25.577941
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV112"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-tit-itp-srl",
+                    "name": "AUTO TIT ITP S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA CĂRĂMIDĂRIEI NR. 6,  BL.STATIE ITP, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.655081,
+                        "longitude": 25.565152
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV156"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bam-itp-srl",
+                    "name": "BAM ITP",
+                    "image": "https://itpgo.ro825cad30-b707-43cd-a4ee-5edf531e61ef/825cad30-b707-43cd-a4ee-5edf531e61ef.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "SOSEAUA CRISTIANULUI NR. 11,  BL.IN INCINTA PLATFORMEI BRAITEX DEPOT, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.65809,
+                        "longitude": 25.562476
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV154"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bart-garage-srl",
+                    "name": "Bart Garage",
+                    "image": "https://itpgo.ro65cc8ba4-f4ba-4bb0-953d-1156e6c6ddef/65cc8ba4-f4ba-4bb0-953d-1156e6c6ddef.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. ZIZINULUI NR. 109 BIS, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.651909,
+                        "longitude": 25.635347
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV120"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/claunic-itp-brasov",
+                    "name": "CLAUNIC ITP BRASOV",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA CĂRĂMIDĂRIEI NR. 6,  BL.6, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.655081,
+                        "longitude": 25.565152
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV104"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/clinica-rapid-auto-srl",
+                    "name": "CLINICA RAPID AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA BRAȘOVULUI NR. FN, FELDIOARA, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.817489,
+                        "longitude": 25.585725
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV119"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/clybo-piese-srl",
+                    "name": "CLYBO PIESE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRANULUI NR. FN, ZARNESTI, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.536607,
+                        "longitude": 25.376666
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV089"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cmo-auto-brasov-srl",
+                    "name": "Inspectie Tehnica Periodica * ITP * CMO Auto Brasov",
+                    "image": "https://itpgo.rodd5df669-faa7-4853-9e8d-b223029cebae/dd5df669-faa7-4853-9e8d-b223029cebae.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. GRIGORE URECHE NR. 14, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.668498,
+                        "longitude": 25.587864
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV126"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cod-paint-srl",
+                    "name": "COD PAINT SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "INTRAREA CARPINIS,  BL.872F, TARLUNGENI, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.64913,
+                        "longitude": 25.608617
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV114"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/codreanu-automotors-srl",
+                    "name": "CODREANU AUTOMOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "TĂRLUNGENI, STR. INTRAREA CĂRPINIŞ NR. 872F, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.127405,
+                        "longitude": 25.109272
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/comtrans-sa",
+                    "name": "Comtrans",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Crinului Nr. 5, Fagaras"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.844324,
+                        "longitude": 24.958658
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/conica-srl",
+                    "name": "Conica",
+                    "image": "https://itpgo.roe31c5176-d964-41a6-a8c1-3b15e95180cd/e31c5176-d964-41a6-a8c1-3b15e95180cd.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Noua Nr. 52, Codlea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.695998,
+                        "longitude": 25.450988
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/davirel-serv-auto-srl",
+                    "name": "Davirel Serv Auto",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Branului Tohanul Nou Nr. 36, Zarnesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.536607,
+                        "longitude": 25.376666
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV100"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/delcar-tehnic-services-srl",
+                    "name": "Delcar Tehnic Services",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Dn 1, Km 174+507 Nr. -, Ghimbav"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.469019,
+                        "longitude": 26.131553
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dg-customs-srl",
+                    "name": "D.G. CUSTOMS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA TIMIȘUL SEC NR. 4,  BL.4, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.644502,
+                        "longitude": 25.654893
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV141"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/diamar-itp-srl",
+                    "name": "Diamar ITP",
+                    "image": "https://itpgo.ro9389cb71-0b88-4ae8-a4e5-66bec3496173/9389cb71-0b88-4ae8-a4e5-66bec3496173.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BULEVARDUL GRIVIȚEI NR. 1W, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.662564,
+                        "longitude": 25.593376
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV109"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dip-motors-srl",
+                    "name": "DIP-MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, CALEA BUCUREŞTI NR. 168, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.625445,
+                        "longitude": 25.642321
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/druelon-srl",
+                    "name": "Druelon",
+                    "image": "https://itpgo.roa1372c3b-4663-4bd1-9e32-f51522258c8f/a1372c3b-4663-4bd1-9e32-f51522258c8f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA GAROFIȚEI NR. 758, HARMAN, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.706487,
+                        "longitude": 25.685987
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV088"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/duvenbeck-logistik-srl",
+                    "name": "DUVENBECK LOGISTIK SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "ALEEA DUVENBECK NR. 1, CRISTIAN, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.643662,
+                        "longitude": 25.513939
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eleyos-garage-srl",
+                    "name": "ELEYOS GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. DIMITRIE ANGHEL NR. 18E, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.671522,
+                        "longitude": 25.575654
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV155"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/enik-mt-srl",
+                    "name": "Enik M.t.",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Targului Nr. 37, Rupea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.090914,
+                        "longitude": 25.281037
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV146"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/e-res-activities-srl",
+                    "name": "E-Res Auto",
+                    "image": "https://itpgo.ro427aeff6-d63b-4d44-8a9b-9e510997a452/427aeff6-d63b-4d44-8a9b-9e510997a452.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CALEA FELDIOAREI NR. 64, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.71822,
+                        "longitude": 25.580255
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV135"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-motor-srl",
+                    "name": "EURO-MOTOR SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CALEA BUCURESTI NR. 132, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.630897,
+                        "longitude": 25.63644
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV009"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-nova-srl",
+                    "name": "Euro Nova",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. D-na. Stanca Nr. 80, Fagaras"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.788978,
+                        "longitude": 23.571496
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/fast-boys-auto-service",
+                    "name": "Fast boys service.",
+                    "image": "https://itpgo.ro8abcade6-d16a-4e3d-84c9-88594a27608d/8abcade6-d16a-4e3d-84c9-88594a27608d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA NUCULUI NR. 28, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.618331,
+                        "longitude": 25.64257
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV106"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/florea",
+                    "name": "FLOREA",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "SAMBATA DE SUS, - nr. 604, jud. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.044398,
+                        "longitude": 25.273887
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MIRCEA"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/florea-mircea-mihai-intreprindere-individuala",
+                    "name": "FLOREA (MIRCEA) MIHAI INTREPRINDERE INDIVIDUALA",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "SÂMBĂTA DE SUS, - NR. 604, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.044398,
+                        "longitude": 25.273887
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV137"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/free-lancer-srl",
+                    "name": "FREE LANCER SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STR. LIVEZII NR. 29, SANPETRU, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.612292,
+                        "longitude": 25.700489
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV116"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/fulcom-itp",
+                    "name": "Fulcom Itp",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Lunga Nr. 182, Codlea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.69932,
+                        "longitude": 25.44676
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV148"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gaspar-andrei-persoana-fizica-autorizata",
+                    "name": "GASPAR ANDREI PERSOANA FIZICA AUTORIZATA",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BAZALTULUI NR. 3, RACOS, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.023471,
+                        "longitude": 25.419577
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV138"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gav-auto-team-srl",
+                    "name": "Service auto - ITP - GavAutoTeam",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. NARCISELOR NR. 56, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.612182,
+                        "longitude": 25.687118
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV121"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gavro-team-co-srl",
+                    "name": "Gavro Team Co",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Izvor, Birou 1 Nr. 33, Codlea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.691207,
+                        "longitude": 25.443304
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV128"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gobllin-serv-srl",
+                    "name": "Gobllin Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Timis Nr. 34, Sacele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.615938,
+                        "longitude": 25.658587
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gta-quick-movements-srl",
+                    "name": "Punct ITP | GM Garage Service Auto",
+                    "image": "https://itpgo.ro9257e35c-acd9-4882-ad37-3eb2414a8057/9257e35c-acd9-4882-ad37-3eb2414a8057.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CRISTIAN, STR. STEJARILOR NR. 1D, HALA 4, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.638488,
+                        "longitude": 25.505221
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV139"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iager-itpro-srl",
+                    "name": "IAGER-ITP.RO SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "SAT ACRIȘ, COMUNA VAMA BUZĂULUI, JUDEȚUL BRAȘOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.64913,
+                        "longitude": 25.608617
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV140"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ila-servicii-srl",
+                    "name": "Ila Servicii",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Republicii Nr. 110, Rupea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.038611,
+                        "longitude": 25.222203
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV038"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ila-test-srl",
+                    "name": "ILA TEST SRL",
+                    "image": "https://itpgo.ro6a148e74-9be8-4092-a079-a6b88df80655/6a148e74-9be8-4092-a079-a6b88df80655.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA TIMIȘUL SEC,  BL.FN, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.644502,
+                        "longitude": 25.654893
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-auto-expres-srl",
+                    "name": "Itp Auto Expres",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Industriilor, Camera 1 Nr. 1b, Codlea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.706432,
+                        "longitude": 25.45977
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV144"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-dd-expres-srl",
+                    "name": "I.t.p. Dd Expres",
+                    "image": "https://itpgo.ro191c5033-94d1-4c09-bcd1-ad2790e0a5f5/191c5033-94d1-4c09-bcd1-ad2790e0a5f5.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Industriilor Nr. 1b, Codlea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.706432,
+                        "longitude": 25.45977
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV132"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-la-victor-srl",
+                    "name": "ITP la Victor",
+                    "image": "https://itpgo.roef92646f-2a0d-4aa9-8563-81b210a3cf61/ef92646f-2a0d-4aa9-8563-81b210a3cf61.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. ZIZINULUI, SPAŢIUL D3-C-P-01 NR. 106A, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.649269,
+                        "longitude": 25.632975
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV125"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/kratos-srl",
+                    "name": "sc Kratos srl",
+                    "image": "https://itpgo.rof8ef0c5b-94a2-412f-a971-17a5f9b27d6d/f8ef0c5b-94a2-412f-a971-17a5f9b27d6d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "NICOLAE POP NR. 6, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.67063,
+                        "longitude": 25.587194
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/labell-autoservice-srl",
+                    "name": "Labell Autoservice",
+                    "image": "https://itpgo.ro1587767f-4e09-48f3-9641-ddc3e3505801/1587767f-4e09-48f3-9641-ddc3e3505801.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, NUCULUI NR. 28, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.618331,
+                        "longitude": 25.64257
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV117"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/la-codreanu-servicii-publice-srl",
+                    "name": "ITP Brasov - La Codreanu",
+                    "image": "https://itpgo.ro5b1fb40b-af80-4c46-95a1-e56937ebbfa0/5b1fb40b-af80-4c46-95a1-e56937ebbfa0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "13 DECEMBRIE NR. 135, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.684465,
+                        "longitude": 25.61633
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/la-romica-itp-srl",
+                    "name": "LA ROMICA ITP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "SAT HĂLCHIU, COM. HĂLCHIU, STR. BODULUI NR. 738F, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.664358,
+                        "longitude": 25.5686
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV129"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lucinspectii-srl",
+                    "name": "LUCINSPECTII SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STR. PE HILL, NR. 17B, LOC. RUPEA, ORAȘ RUPEA, , JUDEȚUL BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.127405,
+                        "longitude": 25.109272
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV160"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mancorsrl",
+                    "name": "Mancor",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Depozitelor Nr. 7, Codlea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.708078,
+                        "longitude": 25.462066
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV103"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mar-auto-company-srl",
+                    "name": "ITP Brasov",
+                    "image": "https://itpgo.ro258596e3-f6f7-4f65-94bd-b35f465da721/258596e3-f6f7-4f65-94bd-b35f465da721.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "FUNDATURA HARMANULUI NR. 1 BIS,  BL.1 BIS, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.672791,
+                        "longitude": 25.650401
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV158"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/materom-autombile-srl",
+                    "name": "MATEROM AUTOMBILE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. HĂRMANULUI NR. 49 A, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.669833,
+                        "longitude": 25.636829
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV102"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mbt-grup-motors-srl",
+                    "name": "Mbt Grup Motors",
+                    "image": "https://itpgo.rof7921f10-a73a-4495-b634-a5ac1ab11c3a/f7921f10-a73a-4495-b634-a5ac1ab11c3a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Ecologistilor Nr. 10, Sacele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.651637,
+                        "longitude": 25.65773
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV113"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mecanex-itp-srl",
+                    "name": "MECANEX ITP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA BODULUI NR. 738F, HALCHIU, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.7573,
+                        "longitude": 25.551702
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV151"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mgm-standard-srl",
+                    "name": "M.G.M. STANDARD SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "DRUMUL CERNATULUI NR. 38,  BL.HALA 292 MP, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.647558,
+                        "longitude": 25.652943
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV150"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mhs-truck-service",
+                    "name": "MHS TRUCK SERVICE",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA IOAN CLOPOȚEL NR. 2, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.661263,
+                        "longitude": 25.536498
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/munfit-itp-srl",
+                    "name": "MUNFIT ITP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA CARPAȚILOR NR. 60, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.63089,
+                        "longitude": 25.620776
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV152"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ni-cot-serv-srl",
+                    "name": "Ni Cot Serv",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Victoriei Nr. 20, Victoria"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.734154,
+                        "longitude": 24.700425
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV123"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 68,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pkw-acord-auto-srl",
+                    "name": "PKW Acord Auto",
+                    "image": "https://itpgo.ro25f51bdd-9b78-4c4e-96c7-1b4af0020bc8/25f51bdd-9b78-4c4e-96c7-1b4af0020bc8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA ZIZINULUI NR. 111, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.650934,
+                        "longitude": 25.63752
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV133"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 69,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pop-service-motoare-srl",
+                    "name": "Pop Service, ITP auto",
+                    "image": "https://itpgo.ro8095f117-1cc6-4a3b-965f-413a665a3026/8095f117-1cc6-4a3b-965f-413a665a3026.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA VASILE GOLDIȘ NR. 41, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.683191,
+                        "longitude": 25.614882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV077"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 70,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/premium-itp-ddm-srl",
+                    "name": "Premium Itp Ddm",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Noua Nr. 52, Codlea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.695998,
+                        "longitude": 25.450988
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV153"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 71,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/probeta-srl",
+                    "name": "PROBETA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "RÂŞNOV, STR. PREDEAL NR. 150, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.952237,
+                        "longitude": 26.007475
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV149"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 72,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/radacini-motors-brasov-srl",
+                    "name": "RADACINI MOTORS BRASOV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CALEA BUCUREȘTI NR. 124-126, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.629628,
+                        "longitude": 25.638891
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV096"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 73,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ratbv-sa",
+                    "name": "RATBV SA",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA HĂRMANULUI NR. 49, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.669833,
+                        "longitude": 25.636829
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV003"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 74,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/recon-sa",
+                    "name": "Recon",
+                    "image": "https://itpgo.roc19533f5-a1f2-4376-9e20-4a04caf29b5a/c19533f5-a1f2-4376-9e20-4a04caf29b5a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "AGRICULTORILOR NR. 27, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.666294,
+                        "longitude": 25.572816
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 75,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rmg-inspect-srl",
+                    "name": "RMG INSPECT S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "JUD.BRASOV, SAT TARLUNGENI, COMUNA TARLUNGENI, STRADA ZIZINULUI, NR.975/ I, CAMERA 2"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.648493,
+                        "longitude": 25.772227
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV164"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 76,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rosenau-junior-serv-srl",
+                    "name": "ROSENAU JUNIOR SERV SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "RÂŞNOV, CALEA BRAŞOVULUI C.F. NR. 111345, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.662425,
+                        "longitude": 25.52082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV093"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 77,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rrs-technic-cars-srl",
+                    "name": "ITP Brasov RRS Technic Cars",
+                    "image": "https://itpgo.ro0873626b-c599-4022-b7fb-0a4acd9de47e/0873626b-c599-4022-b7fb-0a4acd9de47e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA ZIZINULUI NR. 119 TRONSON I,  BL.OBIECTIV 11.1, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.649375,
+                        "longitude": 25.64263
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV131"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 78,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/safe-inspect-srl",
+                    "name": "SAFE INSPECT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. VASILE GOLDIŞ NR. 41, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.683191,
+                        "longitude": 25.614882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV108"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 79,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sandu-itp-new",
+                    "name": "SANDU ITP NEW",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA UNIRII NR. 19, GHIMBAV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.667331,
+                        "longitude": 25.503459
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV162"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 80,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/scania-romania-srl",
+                    "name": "SCANIA ROMANIA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "str. CALEA FELDIOAREI nr. 99, BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.694144,
+                        "longitude": 25.583216
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 81,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ioiosco-srl",
+                    "name": "SC IOIOS&CO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "FUNDĂTURA HĂRMANULUI NR. 1 BIS, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.672791,
+                        "longitude": 25.650401
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 82,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-premium-itp-ddm-srl",
+                    "name": "S.C PREMIUM ITP DDM S.R.L",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA INDUSTRIILOR NR. 1B, CODLEA, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.706432,
+                        "longitude": 25.45977
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV157"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 83,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-sicaro-srl",
+                    "name": "Renault Sicaro Brașov",
+                    "image": "https://itpgo.ro90f6e603-ec08-4d03-8612-b335860e6676/90f6e603-ec08-4d03-8612-b335860e6676.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRASOV, STR. HARMANULUI nr. 49W, jud. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.664825,
+                        "longitude": 25.632843
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 84,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-sig-per-test-srl",
+                    "name": "Sig Per Test",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Negoiu Nr. 147, Fagaras"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.829469,
+                        "longitude": 24.978594
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV085"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 85,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/servisim",
+                    "name": "Servisim",
+                    "image": "https://itpgo.ro5038a90b-0036-46ae-b631-9142334a52a1/5038a90b-0036-46ae-b631-9142334a52a1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Unirii Nr. 466, Ghimbav"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.666132,
+                        "longitude": 25.502302
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 86,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sicaro-srl",
+                    "name": "ASV Auto",
+                    "image": "https://itpgo.ro75745f99-c2e5-4d59-844f-7816b3a0ae23/75745f99-c2e5-4d59-844f-7816b3a0ae23.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA AVRAM IANCU NR. 36, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.655145,
+                        "longitude": 25.591976
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV159"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 87,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sig-per-test-srl",
+                    "name": "SIG PER TEST SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "SAT VISTEA DE JOS, NR. 95, COMUNA VISTEA, JUDET BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.027102,
+                        "longitude": 25.396142
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV026"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 88,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sitomserv-srl",
+                    "name": "Sitomserv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Libertatii Nr. 54, Fagaras"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.847063,
+                        "longitude": 24.968984
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 89,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/szakal-auto-serv-srl",
+                    "name": "SZAKAL AUTO SERV",
+                    "image": "https://itpgo.ro6c44c760-fb17-481e-bad3-8f9c5abce5c2/6c44c760-fb17-481e-bad3-8f9c5abce5c2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "NR. 174, TARLUNGENI, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.64913,
+                        "longitude": 25.608617
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV111"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 90,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tci-service-srl",
+                    "name": "TCI SERVICE S.R.L.",
+                    "image": "https://itpgo.roe48361a9-6a52-435d-90e3-cc8a65b82722/e48361a9-6a52-435d-90e3-cc8a65b82722.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA CARIEREI NR. 160,  BL.CORP A, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.649907,
+                        "longitude": 25.559328
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 91,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tehno-trust-srl",
+                    "name": "Statie ITP | Tehno Trust | Brasov",
+                    "image": "https://itpgo.rofa412718-2020-454a-b604-9475137ef9e6/fa412718-2020-454a-b604-9475137ef9e6.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CALEA FELDIOAREI NR. 26E, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.694165,
+                        "longitude": 25.583214
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV143"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 92,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/todfax-comex-srl",
+                    "name": "TODFAX COMEX SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CALEA FELDIOAREI NR. 73U, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.694165,
+                        "longitude": 25.583214
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV090"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 93,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/topkron-minigaraj-srl",
+                    "name": "Top Kron Statie ITP",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "BRAŞOV, STR. MIHAI VITEAZUL, HALA 1 NR. 166A, JUD. BRAŞOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.657922,
+                        "longitude": 25.595017
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV107"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 94,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tudumi-srl",
+                    "name": "Tudumi - Statie ITP",
+                    "image": "https://itpgo.roaee874cd-8472-4be6-b83f-106b5d461c6e/aee874cd-8472-4be6-b83f-106b5d461c6e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA BACIULUI IE 104034 NR. 8, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.714085,
+                        "longitude": 25.584077
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 95,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/universitatea-transilvania-din-brasov",
+                    "name": "UNIVERSITATEA TRANSILVANIA DIN BRASOV",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA CASTELULUI NR. 148, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.642848,
+                        "longitude": 25.597122
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV005"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 96,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ursmotors-srl",
+                    "name": "Ursmotors",
+                    "image": "https://itpgo.ro77eb4a7b-34a6-4059-8768-7e3f39b3d67c/77eb4a7b-34a6-4059-8768-7e3f39b3d67c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "SAT TARLUNGENI, COMUNA TARLUNGENI, STRADA ZIZINULUI NR.975/I, JUDET BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.653197,
+                        "longitude": 25.705421
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV134"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 97,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vectra-international-tehnic-srl",
+                    "name": "VECTRA INTERNATIONAL TEHNIC S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "STRADA VULCANULUI NR. 26 CORP 6-HALA SERVICE, CODLEA, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.681884,
+                        "longitude": 25.446929
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV161"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 98,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vital-serv-srl",
+                    "name": "Vital Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Calea Fagarasului Nr. 44, Ghimbav"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.66289,
+                        "longitude": 25.57633
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV130"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 99,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/volvo-romania-srl",
+                    "name": "VOLVO ROMANIA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "str. DN73 KM 129+170 nr. , GHIMBAV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.657905,
+                        "longitude": 25.561792
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 100,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vrt-carsmotors-srl",
+                    "name": "VRT CARS&MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "CALEA FAGARASULUI NR. 8,  BL.HALA B3/2 SI B3/3, BRASOV, JUD. BRASOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.661652,
+                        "longitude": 25.573439
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV115"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 101,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/zecheru-m-bogdan-ionut-persoana-fizica-autorizata",
+                    "name": "Zecheru M. Bogdan Ionut Pfa",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Brasov",
+                        "streetAddress": "Str. Branului Tohanul Nou Nr. Fn, Zarnesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.536607,
+                        "longitude": 25.376666
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BV147"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Brasov",
+            "alternateName": "BV"
+        }
+    }
+}

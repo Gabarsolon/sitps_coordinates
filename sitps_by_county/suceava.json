@@ -1,0 +1,3371 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Suceava",
+    "description": "Stații ITP autorizate RAR din județul Suceava. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/suceava",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Suceava",
+                "item": "https://itpgo.ro/judet/suceava"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 119,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/abtor-srl",
+                    "name": "ABTOR SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "str. COMUNA GRANICESTI nr. 237A, SAT ROMANESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.778343,
+                        "longitude": 26.077929
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV021"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adivalex-srl",
+                    "name": "ADIVALEX SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT FÂNTÂNA MARE, COMUNA FÂNTÂNA MARE, STRADA LA TEMELIE, NR. 4, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.64528,
+                        "longitude": 26.259123
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV127"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adria-srl",
+                    "name": "Adria",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "B-dul. Sofia Vicoveanca Nr. 54, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.62298,
+                        "longitude": 26.238415
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV022"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adyrad-srl",
+                    "name": "Adyrad",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Ciprian Porumbescu Nr. 1, Gura Humorului"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.545842,
+                        "longitude": 25.876655
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alcostin-prod-com-srl",
+                    "name": "ALCOSTIN PROD COM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT POJORÂTA, COMUNA POJORÂTA, NR. 724, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV125"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/altium-serv-srl",
+                    "name": "ALTIUM SERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT MARGINEA, COM. MARGINEA, - NR. 3089, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.809067,
+                        "longitude": 25.8219
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV113"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amaxprest-srl",
+                    "name": "AMAXPREST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT SADOVA, COMUNA SADOVA, ZONA IRIC, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV131"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/angeltrans-srl",
+                    "name": "ANGELTRANS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ŞCHEIA, COMUNA ŞCHEIA, STRADA SĂLIŞTE, NR. 17, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.643818,
+                        "longitude": 26.215613
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV080"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autobesthq-itp-srl",
+                    "name": "Autobesthq Itp",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Fagului Nr. 20 D, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.679446,
+                        "longitude": 26.267517
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV099"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoden-srl",
+                    "name": "Autoden",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Gheorghe Doja Nr. 89, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.676082,
+                        "longitude": 26.263165
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV147"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-drive-cars-srl",
+                    "name": "Cars Center - ITP / Service",
+                    "image": "https://itpgo.rob9395d23-7505-4a4f-b913-b15dfabd61c5/b9395d23-7505-4a4f-b913-b15dfabd61c5.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ȘCHEIA, COMUNA ȘCHEIA, STRADA HUMORULUI, NR. 73, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.649043,
+                        "longitude": 26.226676
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV101"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-fabi-andu-srl",
+                    "name": "Itp",
+                    "image": "https://itpgo.ro7238421e-bb48-4e63-a2b3-6c7adb59c365/7238421e-bb48-4e63-a2b3-6c7adb59c365.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ȘCHEIA, COMUNA ȘCHEIA, STRADA HUMORULUI, NR. 144, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.646406,
+                        "longitude": 26.228613
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV159"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-fabrar-best-srl",
+                    "name": "Auto Fabrar Best",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Traian Vuia Nr. 7, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.661446,
+                        "longitude": 26.252523
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV145"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-gml-srl",
+                    "name": "AUTO GML SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ŞCHEIA, COMUNA ȘCHEIA, STR. HUMORULUI, NR. 105, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.650587,
+                        "longitude": 26.210499
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV092"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-mingiuc-srl",
+                    "name": "Auto Mingiuc",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Armatei Nr. 3 K, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.454944,
+                        "longitude": 26.317284
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV102"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automotive-center-werkstat-srl",
+                    "name": "Automotive Center Werkstat",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Magazia Garii Nr. 3 F, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.46558,
+                        "longitude": 26.312225
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV154"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-naharneac-srl",
+                    "name": "Auto Naharneac",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Gheorghe Doja Nr. 113b, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.676082,
+                        "longitude": 26.263165
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-pio-service-srl",
+                    "name": "AUTO PIO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ARBORE, COMUNA ARBORE, NR. 1600, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV161"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-service-mrs-srl",
+                    "name": "AUTO SERVICE MRS S.R.L",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ONICENI, COMUNA FORĂŞTI, NR. 116, JUDEȚ SUCEAVA, COD POȘTAL 727239"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.323098,
+                        "longitude": 26.459341
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV160"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoservice-srl",
+                    "name": "Autoservice",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Campului Nr. 1, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.848775,
+                        "longitude": 25.899666
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV003"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-test-bucovina",
+                    "name": "Auto Test Bucovina",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Ion Irimescu Nr. 1, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.629864,
+                        "longitude": 26.221415
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV068"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autotibiserv-srl",
+                    "name": "Autotibiserv",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Plesesti Gane Nr. 36 B, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.475313,
+                        "longitude": 26.311757
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoturist-srl",
+                    "name": "Autoturist",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Transilvaniei Nr. 137, Vatra Dornei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.348034,
+                        "longitude": 25.348582
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV017"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autozof-srl",
+                    "name": "Autozof",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Primaverii Nr. 1, Gura Humorului"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.13996,
+                        "longitude": 28.889601
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/azeta-constructii-srl",
+                    "name": "AZETA CONSTRUCTII SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT MĂLINI, COMUNA MĂLINI, STRADA PRINCIPALĂ, NR. 1152 A, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.707782,
+                        "longitude": 26.335671
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV155"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/best-itp-andrei",
+                    "name": "Best Itp Andrei",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Mihail Sadoveanu Nr. 9a, Campulung Moldovenesc"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.525966,
+                        "longitude": 25.582906
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV157R"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/best-itp-andrei-srl",
+                    "name": "BEST ITP ANDREI SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "CÂMPULUNG MOLDOVENESC, STR. MIHAIL SADOVEANU NR. 9A, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.656439,
+                        "longitude": 26.2494
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV157"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bianco-ely-srl",
+                    "name": "Castrol Service Bianco Ely",
+                    "image": "https://itpgo.ro86ec46be-569f-4e1d-b8a5-1aa631fc064a/86ec46be-569f-4e1d-b8a5-1aa631fc064a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "COM. UDEŞTI, SAT LUNCUŞOARA NR. 48 A, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.450996,
+                        "longitude": 26.119781
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bogdarod-prod-com-srl",
+                    "name": "BOGDAROD PROD COM SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT DORNA CANDRENILOR, COM. DORNA CANDRENILOR, - NR. 500B, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.355667,
+                        "longitude": 25.270739
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV118"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bramih-srl",
+                    "name": "BRAMIH SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT GĂLĂNEȘTI, COMUNA GĂLĂNEȘTI, NR.312, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV126"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/btl-performance-srl",
+                    "name": "Btl Performance",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Cernauti Nr. 15, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.844059,
+                        "longitude": 25.923073
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV095"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bucovina-customs-srl",
+                    "name": "BUCOVINA CUSTOMS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT VAMA, COMUNA VAMA, STR. TELEFOANE, NR. 4, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.566017,
+                        "longitude": 25.689865
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV140"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/calancea-stefan-ionel-intreprindere-individuala",
+                    "name": "Calancea Stefan Ionel Intreprindere Individuala",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Calea Cernauti Nr. 512 A, Vicovu de Sus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.934507,
+                        "longitude": 25.644991
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV109"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/carautotom-srl",
+                    "name": "Carautotom",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Gheorghe Doja Nr. 87 A, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.676082,
+                        "longitude": 26.263165
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV120"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/celsy-prod-com-srl",
+                    "name": "Celsy Prod Com",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Strandului Nr. 30, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.666453,
+                        "longitude": 26.248175
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cezar-plus-itp-srl",
+                    "name": "Cezar Plus I.t.p.",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Mun. Suceava, Gheorghe Doja Nr. 131, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.676082,
+                        "longitude": 26.263165
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV141"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/chindris-autoservice-srl",
+                    "name": "CHINDRIS AUTOSERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "LOC. CAJVANA, ORAŞ CAJVANA, NR. 1571Z, JUDEȚ SUCEAVA,"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV137"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cosmi-vas-impex-srl",
+                    "name": "COSMI-VAS IMPEX SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "STRADA VILELOR NR. 272, SFANTU ILIE, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.631331,
+                        "longitude": 26.222799
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV009"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/creative-service-solution-srl",
+                    "name": "Creative Service Solution",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Unirii Nr. 18, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.461982,
+                        "longitude": 26.306262
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV089"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cristi-pintiliuc-srl",
+                    "name": "CRISTI PINTILIUC SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT BURLA, COMUNA BURLA, NR. 373, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV111"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cupola-truck-service-srl",
+                    "name": "CUPOLA TRUCK SERVICE S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT PATRAUTI, COM. PATRAUTI, NR.1220, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV142"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dady-iry-srl",
+                    "name": "DADY & IRY SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT BOROAIA, COMUNA BOROAIA, NR. 680, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.34829,
+                        "longitude": 26.336897
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV106"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/danadi-prod-com-srl",
+                    "name": "DANADI PROD COM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT CAPU CODRULUI, COM. PĂLTINOASA,  NR. 773, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.521637,
+                        "longitude": 25.570516
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/daniel-garage-bucovina-srl",
+                    "name": "DANIEL GARAGE BUCOVINA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT PODU COŞNEI, COMUNA COŞNA, STR. PRINCIPALĂ, NR. 41, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.47984,
+                        "longitude": 25.27826
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV136"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/danisol-srl",
+                    "name": "DANISOL SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "str. CALEA BUCOVINEI nr. 300, CAMPULUNG MOLDOVENESC"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.527159,
+                        "longitude": 25.568257
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV019"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/darex-auto-srl",
+                    "name": "Darex Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Calea Bucovinei Nr. 62, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.840209,
+                        "longitude": 25.92509
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV090"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/denson-electronica-srl",
+                    "name": "Denson Electronica",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Calea Cernauti Nr. 107, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.920026,
+                        "longitude": 25.69372
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV070"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/diesel-service-bosanci-srl",
+                    "name": "DIESEL SERVICE BOSANCI SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT BOSANCI, COMUNA BOSANCI, STRADA MORII I, NR. 34, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.652899,
+                        "longitude": 26.258232
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV078"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eurocars-srl",
+                    "name": "Eurocars",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "B-dul. Sofia Vicoveanca Nr. 38, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.623469,
+                        "longitude": 26.23793
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV139"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-fratello-srl",
+                    "name": "Euro Fratello",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Plutonier Ghinita Nr. 5, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.449998,
+                        "longitude": 26.283017
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eurospeed-srl",
+                    "name": "EUROSPEED SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ŞCHEIA, COM. ŞCHEIA, STR. HUMORULUI NR. 81, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.649043,
+                        "longitude": 26.226676
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/family-srl",
+                    "name": "FAMILY SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "MUN. SUCEAVA, STR. APEDUCTULUI NR. 8A, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.653504,
+                        "longitude": 26.262917
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV165"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/fetcom-srl",
+                    "name": "FETCOM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "MOARA, B-DUL SOFIA VICOVEANCA, ŞOS. SUCEAVA-FĂLTICENI NR. 7, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.621934,
+                        "longitude": 26.239453
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gab-autosport-srl",
+                    "name": "GAB AUTOSPORT SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT FRUMOSU, COMUNA FRUMOSU, NR. 383 A, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV088"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gheza-trans-srl",
+                    "name": "Gheza Trans",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Statia Cf Frasin, Nr Inventar 21140829, - Nr. -, Frasin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.864125,
+                        "longitude": 26.111384
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV123"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/girdain-com-prod-srl",
+                    "name": "Girdain Com Prod",
+                    "image": "https://itpgo.ro0798e7eb-70bb-4b17-b34e-fa33f5e6a75e/0798e7eb-70bb-4b17-b34e-fa33f5e6a75e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Calea Unirii Nr. 30, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.666492,
+                        "longitude": 26.274113
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV086"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/goscom-sa",
+                    "name": "Goscom",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. 13 Decembrie Nr. 25, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.458373,
+                        "longitude": 26.306266
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/harter-paling-srl",
+                    "name": "Harter Paling",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Gheorghe Doja, Corp C6 Nr. 87a, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.676082,
+                        "longitude": 26.263165
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/icosil-com-srl",
+                    "name": "Icosil Com",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Calea Cernauti Nr. 291, Vicovu de Sus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.926011,
+                        "longitude": 25.660882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV129"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/i-mob-styn-srl",
+                    "name": "I-MOB STYN S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT MITOCU DRAGOMIRNEI, COMUNA MITOCU DRAGOMIRNEI, STR. UNIRII, NR. 29, DC 57 R4, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.340898,
+                        "longitude": 25.367377
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV166"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ing-service-srl",
+                    "name": "ING SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "MUNICIPIUL CÂMPULUNG MOLDOVENESC, STR. TRANDAFIRILOR, NR. 4, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.641628,
+                        "longitude": 26.253628
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/khinezu-beton-srl",
+                    "name": "KHINEZU BETON SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT CORNU LUNCII, COM. CORNU LUNCII, STR. PRINCIPALĂ NR. 62, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.104099,
+                        "longitude": 25.691697
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV115"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/labirint-com-srl",
+                    "name": "LABIRINT-COM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "FRĂTĂUŢII VECHI, LOC. FRĂTĂUŢII VECHI NR. 50, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.803078,
+                        "longitude": 24.685138
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/leal-aeg-srl",
+                    "name": "LEAL A.E.G. SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "str. EROILOR nr. 66, SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.355649,
+                        "longitude": 25.360811
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV010"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/little-star-srl",
+                    "name": "Little Star",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Chiliei Nr. 51 A, Vatra Dornei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.195495,
+                        "longitude": 28.645117
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV150"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lucmareli-srl",
+                    "name": "Lucmareli",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Calea Sucevei Nr. 82 A, Liteni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.463368,
+                        "longitude": 26.301186
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV091"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lupus-cito-srl",
+                    "name": "LUPUS CITO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ȘCHEIA, COMUNA ȘCHEIA, STR. AVIATORULUI, NR. 21, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.653304,
+                        "longitude": 26.217797
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV138"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 68,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/malisa-auto-center-srl",
+                    "name": "MALISA AUTO CENTER S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT DOLHEŞTII-MARI, COMUNA DOLHEŞTI, NR. 242 C, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.64528,
+                        "longitude": 26.259123
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV153"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 69,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/miseda-inspect-srl",
+                    "name": "Miseda Inspect",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Izvoarelor Nr. 2c, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.848668,
+                        "longitude": 25.921623
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV096"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 70,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mobilelux-srl",
+                    "name": "Mobilelux",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Calea Bucovinei Nr. 49b, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.840625,
+                        "longitude": 25.924661
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 71,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mondan-motor-services-srl",
+                    "name": "Mondan Motor Services",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Stefan Cel Mare Nr. 157, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.839919,
+                        "longitude": 25.90301
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV130"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 72,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/morosangroup-srl",
+                    "name": "MOROSANGROUP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "ORAŞ CAJVANA, NR. 1362 B, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 73,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/motor-center-srl",
+                    "name": "Motor Center",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Alexandru Cel Bun Nr. 39b, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.639338,
+                        "longitude": 26.251489
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 74,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nevemarom-srl",
+                    "name": "NEVEMAROM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT HORODNIC DE SUS, COMUNA HORODNIC DE SUS, CF 35553, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.831627,
+                        "longitude": 25.835402
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV132"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 75,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nicolaescu-best-service-srl",
+                    "name": "Nicolaescu Best Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Zona Lidl, Garii Nr. -, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.840337,
+                        "longitude": 25.910284
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV097"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 76,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ovinewproject-srl",
+                    "name": "OVINEWPROJECT S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "ORAŞ LITENI, STR. PĂDURII, NR. 16, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.516036,
+                        "longitude": 26.510103
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV163"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 77,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/polmot-service-srl",
+                    "name": "Polmot Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Alexandru Cel Bun Nr. 39, Siret"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.955999,
+                        "longitude": 26.068581
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 78,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/popescu-florin-sebastian-intreprindere-individuala",
+                    "name": "Popescu Florin Sebastian Intreprindere Individuala",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Calea Bucovinei Nr. 185, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.840625,
+                        "longitude": 25.924661
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV098"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 79,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/railex-sa",
+                    "name": "Railex",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Traian Vuia Nr. 10 B, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.662386,
+                        "longitude": 26.249595
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV152"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 80,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/railex-srl",
+                    "name": "RAILEX SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "STRADA TRAIAN VUIA NR. 10 B, SUCEAVA, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.660982,
+                        "longitude": 26.251806
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 81,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/reimund-autoservice-srl",
+                    "name": "Reimund Autoservice",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "B-dul. Bucovina Nr. 130, Gura Humorului"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.552834,
+                        "longitude": 25.897863
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV117"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 82,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ritmic-com-srl",
+                    "name": "RITMIC COM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ILIȘEȘTI, COMUNA ILIȘEȘTI, NR. 768, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.660894,
+                        "longitude": 25.591306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 83,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/robert-si-andrei-stefan-srl",
+                    "name": "ROBERT SI ANDREI STEFAN SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "COM. GRĂMEŞTI, SAT GRĂMEŞTI, STR. PRINCIPALĂ NR. 220, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.24775,
+                        "longitude": 25.379187
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV143"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 84,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sabiba-auto-srl",
+                    "name": "SABIBA AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT CĂLUGĂRENI, COMUNA ADÂNCATA, STRADA PRINCIPALĂ, NR. 6, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.461117,
+                        "longitude": 25.286944
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV149"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 85,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/saru-dornei-carwash-srl",
+                    "name": "SARU DORNEI CARWASH SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ŞARU DORNEI, COMUNA ŞARU DORNEI, STR. PRINCIPALĂ, NR. 134, JUDEȚ SUCEAVA,"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.280316,
+                        "longitude": 25.362008
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV135"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 86,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sava-adrian-zaharia-intreprindere-individuala",
+                    "name": "SAVA ADRIAN ZAHARIA INTREPRINDERE INDIVIDUALA",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT PÎRTEŞTII DE SUS, COMUNA CACICA, NR. 358 A, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.637054,
+                        "longitude": 25.902042
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV103"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 87,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-adria-srl",
+                    "name": "SC ADRIA SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SUCEAVA, STR GHEORGHE DOJA nr. 119 A, jud. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.676082,
+                        "longitude": 26.263165
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV074"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 88,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-autoservice-srl",
+                    "name": "SC AUTOSERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT BULAI, COM. MOARA, B-DUL SOFIA VICOVEANCA nr. 6, jud. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.62444,
+                        "longitude": 26.23695
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 89,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-azeta-constructii-srl",
+                    "name": "SC AZETA CONSTRUCTII SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "COM. MALINI, SAT MALINI, - nr. 292, jud. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.790598,
+                        "longitude": 26.000825
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 90,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-darex-auto-srl",
+                    "name": "SC DAREX AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SCHEIA, STR. HUMORULUI nr. 96, jud. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.65023,
+                        "longitude": 26.222952
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 91,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-gheza-trans-srl",
+                    "name": "SC GHEZA TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "STULPICANI, Str. Molidului nr. FN, jud. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.697104,
+                        "longitude": 26.283664
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV144"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 92,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ing-service-srl",
+                    "name": "Ing Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Trandafirilor Nr. 4, Campulung Moldovenesc"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.527505,
+                        "longitude": 25.561758
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 93,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-lucmareli-srl",
+                    "name": "SC LUCMARELI SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "LITENI, CALEA SUCEVEI nr. 82 A, jud. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.463368,
+                        "longitude": 26.301186
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV151"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 94,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-automobile",
+                    "name": "Service Automobile",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Calea Transilvaniei Nr. 60, Campulung Moldovenesc"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.534194,
+                        "longitude": 25.544603
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV008"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 95,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-auto-viv-srl",
+                    "name": "SERVICE AUTO VIV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "LOC. BIVOLĂRIA, ORAŞ VICOVU DE SUS, STRADA GĂRII, NR. 14, HALA NR. 2, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.909784,
+                        "longitude": 25.694626
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV105"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 96,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-motoare-nord-srl",
+                    "name": "Service Motoare Nord",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Castelului Nr. 1 B, Salcea"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.222101,
+                        "longitude": 26.050231
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV077"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 97,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-prompt-srl",
+                    "name": "SERVICE PROMPT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ŞCHEIA, COMUNA ŞCHEIA, STR. HUMORULUI, NR. 143, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.652739,
+                        "longitude": 26.209896
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV065"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 98,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sia-auto-truck-srl",
+                    "name": "SIA AUTO TRUCK S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT DUMBRĂVENI, COMUNA DUMBRĂVENI, STRADA HĂLȚII, NR. 62, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.80201,
+                        "longitude": 23.84134
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV158"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 99,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sigur-oil-universal-srl",
+                    "name": "Sigur Oil Universal",
+                    "image": "https://itpgo.ro76be0c40-e0ed-41a2-9d52-88f132340a5b/76be0c40-e0ed-41a2-9d52-88f132340a5b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Calea Unirii Nr. 25 Bis, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.656303,
+                        "longitude": 26.266432
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV128"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 100,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/simfony-prodcom-srl",
+                    "name": "Simfony Prodcom",
+                    "image": "https://itpgo.ro7064b9a8-bef8-4232-943c-2748909841aa/7064b9a8-bef8-4232-943c-2748909841aa.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "B-dul. Sofia Vicoveanca Nr. 44, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.623286,
+                        "longitude": 26.238112
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV122"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 101,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/simprest-srl",
+                    "name": "ITP Simprest",
+                    "image": "https://itpgo.ro00356493-9eb9-440b-b2d0-d8e2cfaa7b3d/00356493-9eb9-440b-b2d0-d8e2cfaa7b3d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "COM. ŞCHEIA, SAT ŞCHEIA, STR. MIHOVENI NR. 5, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.656976,
+                        "longitude": 26.227489
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 102,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sori-nis-srl",
+                    "name": "Sori Nis",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Bogdan Voda Nr. 188, Radauti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.834972,
+                        "longitude": 25.922597
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV107"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 103,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sumec-sa",
+                    "name": "Sumec",
+                    "image": "https://itpgo.ro77c9dcb5-95ed-45c7-8b5e-6edfb9a8ec54/77c9dcb5-95ed-45c7-8b5e-6edfb9a8ec54.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Calea Unirii Nr. 25 Bis, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.656303,
+                        "longitude": 26.266432
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV148"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 104,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tarsincom-srl",
+                    "name": "TARSINCOM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT MARGINEA, COMUNA MARGINEA, NR. 911 A, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.809067,
+                        "longitude": 25.8219
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV076"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 105,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tehno-dinamic-srl",
+                    "name": "TEHNO-DINAMIC SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "COM. BOSANCI, SAT CUMPĂRĂTURA, CALEA FĂLTICENI NR. 30, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.590187,
+                        "longitude": 26.316282
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 106,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tigrygold-srl",
+                    "name": "Tigrygold",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Tomsa Voda Nr. 82, Solca"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.703116,
+                        "longitude": 25.839983
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV119"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 107,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tnc-moon-service-srl",
+                    "name": "Tnc Moon Service",
+                    "image": "https://itpgo.ro556721bb-30b3-4691-a17a-08f69b1f361c/556721bb-30b3-4691-a17a-08f69b1f361c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Gheorghe Doja Nr. 99 A, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.676082,
+                        "longitude": 26.263165
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV110"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 108,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/todtiger-srl",
+                    "name": "Todtiger",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Plutonier Ghinita Nr. 1, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.449998,
+                        "longitude": 26.283017
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 109,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/torsen-sim-srl",
+                    "name": "TORSEN-SIM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT ROMÂNEŞTI, COMUNA GRĂNICEŞTI, NR. 237 A, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.64528,
+                        "longitude": 26.259123
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV072"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 110,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/total-plus-srl",
+                    "name": "Total Plus",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Vasile Alecsandri Nr. 16, Siret"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.953213,
+                        "longitude": 26.072036
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 111,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transfolk-srl",
+                    "name": "TRANSFOLK SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "str. MIHAI VITEAZU nr. 536B, SAT IPOTESTI, COM. IPOTESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.615946,
+                        "longitude": 26.300074
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 112,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transloc-falticeni-sa",
+                    "name": "Transloc Falticeni",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Topitoriei Nr. 1, Falticeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.455768,
+                        "longitude": 26.328007
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 113,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transport-auto-severin-sa",
+                    "name": "Transport Auto Severin",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. Transilvaniei Nr. 135, Vatra Dornei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.348034,
+                        "longitude": 25.348582
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV004"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 114,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trans-ruby-srl",
+                    "name": "TRANS RUBY SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "ORAŞ MILIŞĂUŢI, INTR. BARAJULUI, NR. 8, JUDEȚ SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.697555,
+                        "longitude": 26.242334
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV162"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 115,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trio-zeg-srl",
+                    "name": "TRIO ZEG SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT BAIA, COMUNA BAIA, STRADA ŞTEFAN CEL MARE, NR. 182 A, JUDET SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.642346,
+                        "longitude": 26.258498
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV121"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 116,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/unic-auto-mecanic-srl",
+                    "name": "UNIC AUTO MECANIC SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "COM. DORNA CANDRENILOR, SAT DORNA CANDRENILOR NR. 192, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.355667,
+                        "longitude": 25.270739
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV133"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 117,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/verciuc-auto-srl",
+                    "name": "VERCIUC AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT BULAI, COM. MOARA, STR. UNIRII NR. 326A, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.34034,
+                        "longitude": 25.377068
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV094"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 118,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vidarom-srl",
+                    "name": "Vidarom",
+                    "image": "https://itpgo.ro99f69ebc-249b-4b94-9e72-fd0dad55dc59/99f69ebc-249b-4b94-9e72-fd0dad55dc59.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "Str. 22 Decembrie Nr. 69, Suceava"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.345556,
+                        "longitude": 25.359624
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV156"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 119,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ytehnic-vama-prest-srl",
+                    "name": "YTEHNIC VAMA PREST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Suceava",
+                        "streetAddress": "SAT STRÂMTURA, COM. VAMA, STR. PETRU RAREŞ NR. 13, JUD. SUCEAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.65172,
+                        "longitude": 26.42864
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "SV146"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Suceava",
+            "alternateName": "SV"
+        }
+    }
+}

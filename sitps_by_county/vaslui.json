@@ -1,0 +1,1663 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Vaslui",
+    "description": "Stații ITP autorizate RAR din județul Vaslui. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/vaslui",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Vaslui",
+                "item": "https://itpgo.ro/judet/vaslui"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 58,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/a-a-farms-srl",
+                    "name": "A & A FARMS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "DN24, CLĂDIREA NR. 40, SIMILA, ZORLENI, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.631562,
+                        "longitude": 27.730155
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aa-invent-srl",
+                    "name": "A&a Invent",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Podul Inalt Nr. 4c, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.62713,
+                        "longitude": 27.723314
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adrian-trans-srl",
+                    "name": "AdrianTrans",
+                    "image": "https://itpgo.ro3a203a28-45df-4f1c-80bc-142b9f7b445c/3a203a28-45df-4f1c-80bc-142b9f7b445c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "PRINCIPALA NR. 736, MUNTENII DE JOS, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.122368,
+                        "longitude": 25.78908
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alexa-i-cristian-intreprindere-individuala",
+                    "name": "Alexa I. Cristian Intreprindere Individuala",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Calea Basarabiei Nr. 12, Husi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.671908,
+                        "longitude": 28.083915
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ana-autocenter-srl",
+                    "name": "ANA AUTOCENTER SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "ȘOSEAUA TECUCIULUI NR. 1, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.20755,
+                        "longitude": 27.656267
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS003"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/an-bun-srl",
+                    "name": "An Bun",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Sos. Nationala Nr. 24, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.663002,
+                        "longitude": 26.772983
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-coral-test-srl",
+                    "name": "Auto Coral Test",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Stefan Ciubotarasu Nr. 21, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.642689,
+                        "longitude": 27.753772
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS072"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-house-center-srl",
+                    "name": "AUTO HOUSE CENTER SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA VASILE LUPU,  BL.C1, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.22425,
+                        "longitude": 27.667404
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automatika-test-srl",
+                    "name": "AUTOMATIKA TEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "BL.DN 14C, BACAOANI, MUNTENII DE JOS, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.998999,
+                        "longitude": 25.069693
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS077"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autonovatest-srl",
+                    "name": "AUTONOVATEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "COM. GRIVIŢA, SAT TRESTIANA, - NR. 590, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.559637,
+                        "longitude": 25.327702
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autorom-ala",
+                    "name": "Autorom Ala",
+                    "image": "https://itpgo.roe9748c4f-5cd7-48f7-a76e-2544ebeafc04/e9748c4f-5cd7-48f7-a76e-2544ebeafc04.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Sos. Husi-stanilesti Nr. 3, Husi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.671006,
+                        "longitude": 28.083323
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-safety-checking",
+                    "name": "Auto Safety Checking",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Soseaua Nationala Nr. 24, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.663002,
+                        "longitude": 26.772983
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-servicies-srl",
+                    "name": "AUTO-SERVICIES SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "BÂRLAD, STRADA CONSTANTIN HAMANGIU NR. 6, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.228964,
+                        "longitude": 27.667642
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-vladi-cil-srl",
+                    "name": "Auto Vladi Cil",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Voloseni Nr. 2, Husi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.671613,
+                        "longitude": 28.083391
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS070"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-vtp-srl",
+                    "name": "AUTO VTP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA DECEBAL NR. 12, NEGRESTI, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.833971,
+                        "longitude": 27.466485
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS080"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/axel-serv-consult-srl",
+                    "name": "Axel Serv Consult",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Metalurgiei, Cladire C46 Nr. 1, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.621165,
+                        "longitude": 27.693661
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/buxauto-market-srl",
+                    "name": "Buxauto Market",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Calea Basarabiei Nr. 96j, Husi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.672217,
+                        "longitude": 28.085221
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/checkzone-srl",
+                    "name": "CHECKZONE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "CALEA BASARABIEI NR. 107, HUSI, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.671911,
+                        "longitude": 28.083549
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/club-toma-cuore-srl",
+                    "name": "Club Toma Cuore",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Dobrina Nr. 41 B, Husi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.678872,
+                        "longitude": 28.030425
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/club-t-srl",
+                    "name": "Club T",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Dobrina Nr. 45 H, Husi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.678872,
+                        "longitude": 28.030425
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/comard-auto",
+                    "name": "COMARD AUTO",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "SAT SIMILA, COM. ZORLENI, - NR. 598, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.653716,
+                        "longitude": 25.829
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS021"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/comard-auto-center",
+                    "name": "COMARD AUTO CENTER",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA EUROPEI NR. 87, SIMILA, ZORLENI, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.87113,
+                        "longitude": 24.415633
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS078"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dic-auto-srl",
+                    "name": "DIC AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "SAT SIMILA, COMUNA ZORLENI, JUDET VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.156805,
+                        "longitude": 26.795717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS075"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/didtruck-service-srl",
+                    "name": "DIDTRUCK-SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "TARLA 50, PARCELA 578, TUTOVA, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.150122,
+                        "longitude": 27.591673
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS043"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dmd-service-srl",
+                    "name": "DMD-SERVICE S.R.L",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "TECUCIULUI NR. 7, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.393622,
+                        "longitude": 26.055521
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dysab-consulting-srl",
+                    "name": "DYSAB CONSULTING SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "PRINCIPALA NR. 179, BEREZENI, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.398615,
+                        "longitude": 24.533077
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS068"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/etta-auto-srl",
+                    "name": "ETTA AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "REPUBLICII NR. 320, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.628638,
+                        "longitude": 27.727972
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS010"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/garajul-lui-vladimir-srl",
+                    "name": "Garajul lui Vladimir Service Auto Barlad, ITP Barlad. Revizie Auto, Geometrie Roti, Incarcare Freon Barlad",
+                    "image": "https://itpgo.ro9814f6a0-db44-458c-8a1a-53c0f1284218/9814f6a0-db44-458c-8a1a-53c0f1284218.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA LUCEAFĂRULUI NR. 7, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.233249,
+                        "longitude": 27.681605
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gmv-autotest-srl",
+                    "name": "GMV AUTOTEST SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "ȘOSEAUA TECUCIULUI NR. 7, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.20755,
+                        "longitude": 27.656267
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS074"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/intercar-center-srl",
+                    "name": "Intercar Center",
+                    "image": "https://itpgo.robb16bbc9-f7c1-4330-b6cd-c2f51c0b26e0/bb16bbc9-f7c1-4330-b6cd-c2f51c0b26e0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Sos Nationala, Corp Constructie C1 Nr. 24, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.839087,
+                        "longitude": 23.022398
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-nafnaf-srl",
+                    "name": "Itp Cartehnic",
+                    "image": "https://itpgo.roe9e29d0c-9018-483f-8e27-0e98cb5ba134/e9e29d0c-9018-483f-8e27-0e98cb5ba134.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Stefan Cel Mare Nr. 275, C6,s3, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.632615,
+                        "longitude": 27.730056
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/justin-serv",
+                    "name": "JUSTIN SERV",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "PRINCIPALA NR. 477BIS, SIMILA, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.393091,
+                        "longitude": 25.837098
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/kbatest-srl",
+                    "name": "KBATEST S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "SAT TRESTIANA, COMUNA GRIVIŢA, TECUCIULUI NR. 2A, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.202877,
+                        "longitude": 27.65595
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS083"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/kpushor-srl",
+                    "name": "Kpushor",
+                    "image": "https://itpgo.roadc8593f-ebc5-4b8a-8f1f-d362bd4c564e/adc8593f-ebc5-4b8a-8f1f-d362bd4c564e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Calugareni, Magazie 193 Mp Nr. 133, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.651986,
+                        "longitude": 27.708338
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/maldcar-srl",
+                    "name": "Maldcar",
+                    "image": "https://itpgo.rod6af6378-5d23-4d01-9565-a387f56bf93b/d6af6378-5d23-4d01-9565-a387f56bf93b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Fabricii, Corp Cladire C-12/8 Nr. 4, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.638155,
+                        "longitude": 27.715858
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mivas-srl",
+                    "name": "Mivas",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Soseaua Nationala, Corp Cladire C2 Nr. 24, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.839087,
+                        "longitude": 23.022398
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS015"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/motor-grup-srl",
+                    "name": "Motor Grup",
+                    "image": "https://itpgo.ro2c5ee0a7-013a-4c36-b70e-0f2ae85b8ae4/2c5ee0a7-013a-4c36-b70e-0f2ae85b8ae4.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Calugareni Nr. 106, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.651986,
+                        "longitude": 27.708338
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS007"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nazare-mircea-srl",
+                    "name": "Nazare Mircea",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Decebal Nr. 12, Negresti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.833971,
+                        "longitude": 27.466485
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nedelserv-srl",
+                    "name": "NEDELSERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STR. ALEXANDRU VLAHUŢĂ NR. 154, BÂRLAD, JUDEŢUL VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.22623,
+                        "longitude": 27.678084
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/new-white-house-srl",
+                    "name": "NEW WHITE HOUSE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "VASILE LUPU NR. 60BIS, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.65328,
+                        "longitude": 27.734264
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nilcom-servtrans-srl",
+                    "name": "NILCOM SERVTRANS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "COMUNA DRANCENI NR. 125, RASESTI, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.67864,
+                        "longitude": 28.066107
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/old-white-house-srl",
+                    "name": "OLD WHITE HOUSE S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA VASILE LUPU NR. 60 BIS, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.22425,
+                        "longitude": 27.667404
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/oniov-srl",
+                    "name": "ONIOV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA CĂLUGĂRENI NR. 106, VASLUI, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.651986,
+                        "longitude": 27.708338
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pacarsbest-srl",
+                    "name": "Pacarsbest",
+                    "image": "https://itpgo.ro6a262ded-50be-43e1-af8c-5d7ea0baa9aa/6a262ded-50be-43e1-af8c-5d7ea0baa9aa.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Calugareni Nr. 213, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.658334,
+                        "longitude": 27.703418
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rma-coral-auto-srl",
+                    "name": "Rma Coral Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Stefan Cel Mare, Cam. 13, Corp C1 Nr. 11, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.637945,
+                        "longitude": 27.732819
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rotrans-sa",
+                    "name": "Rotrans",
+                    "image": "https://itpgo.robf2af58a-337a-494d-ac33-c9607d1f4ba9/bf2af58a-337a-494d-ac33-c9607d1f4ba9.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Calugareni Nr. 103, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.651986,
+                        "longitude": 27.708338
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rovitest-auto-srl",
+                    "name": "Rovitest Auto",
+                    "image": "https://itpgo.ro579de8e6-16fd-4a75-98ff-88edce6a0219/579de8e6-16fd-4a75-98ff-88edce6a0219.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Delea, Corp C5 Nr. 3, Vaslui"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.654646,
+                        "longitude": 27.725353
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-wash-expert-srl",
+                    "name": "SC WASH EXPERT SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "BARLAD, STR. VASILE PARVAN nr. 45, jud. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.641268,
+                        "longitude": 27.758924
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS022"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sianmi-auto-srl",
+                    "name": "SIANMI AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "SAT SIMILA, COM. ZORLENI, - NR. 591, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.653716,
+                        "longitude": 25.829
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/total-servicetrans-srl",
+                    "name": "TOTAL SERVICETRANS S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "SAT COROIU, COMUNA TUTOVA, - NR. 86, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.151054,
+                        "longitude": 27.588757
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transmir-srl",
+                    "name": "TRANSMIR SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "SAT SĂLCIOARA, COM. BANCA, - NR. 01, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.687295,
+                        "longitude": 26.593533
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tugulea-auto-serv-srl",
+                    "name": "Tugulea Auto Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Garii, Oras Negresti Nr. 65, Negresti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.82748,
+                        "longitude": 27.454599
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS076"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/unitatea-militara-01358-barlad",
+                    "name": "UNITATEA MILITARA 01358 BARLAD",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "ȘOSEAUA TECUCIULUI NR. 1-2, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.20755,
+                        "longitude": 27.656267
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS065"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/universal-autoservice-srl",
+                    "name": "UNIVERSAL AUTOSERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "ȘOSEAUA TECUCIULUI NR. 6, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.20755,
+                        "longitude": 27.656267
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS026"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vali-pav-serv-srl",
+                    "name": "Vali Pav Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "Str. Decebal Nr. 74, Negresti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.827186,
+                        "longitude": 27.480056
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/wash-expert-srl",
+                    "name": "Wash Expert",
+                    "image": "https://itpgo.rodea1a7b5-b576-4de0-8d23-17c0e92cdf99/dea1a7b5-b576-4de0-8d23-17c0e92cdf99.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "COMUNA ZORLENI, SAT SIMILA, - NR. 429, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.653716,
+                        "longitude": 25.829
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/white-house-center-srl",
+                    "name": "WHITE HOUSE CENTER SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA VASILE LUPU NR. 60 BIS, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.22425,
+                        "longitude": 27.667404
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/world-auto-service",
+                    "name": "WORLD AUTO SERVICE",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vaslui",
+                        "streetAddress": "STRADA GENERAL VASILE MILEA NR. 2, BARLAD, JUD. VASLUI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.214061,
+                        "longitude": 27.668581
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VS085"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Vaslui",
+            "alternateName": "VS"
+        }
+    }
+}

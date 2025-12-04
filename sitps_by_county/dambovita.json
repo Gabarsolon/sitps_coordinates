@@ -1,0 +1,1714 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Dambovita",
+    "description": "Stații ITP autorizate RAR din județul Dambovita. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/dambovita",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Dambovita",
+                "item": "https://itpgo.ro/judet/dambovita"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 60,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/acr-auto-turism-srl",
+                    "name": "Acr Auto Turism",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Al. I. Cuza Nr. 3, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.632793,
+                        "longitude": 25.41419
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alure-service-srl",
+                    "name": "ALURE SERVICE SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "BULEVARDUL 22 DECEMBRIE 1989 NR. 7E, MORENI,  MORENI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.969979,
+                        "longitude": 25.651644
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB083"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amg-ang-service-srl",
+                    "name": "Amg Ang Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Calea Campulung Nr. 194, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.926881,
+                        "longitude": 25.424065
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aurall-auto-srl",
+                    "name": "Aurall Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. 22 Decembrie 1989 Nr. 7 E, Moreni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.910204,
+                        "longitude": 26.102207
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-best-srl",
+                    "name": "Auto Best",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Calea Campulung Nr. 166, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.926831,
+                        "longitude": 25.423477
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-csm-rarom-srl",
+                    "name": "AUTO CSM RAROM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT COLANU, COM. ULMI, STR. MUNCII NR. 1, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.507216,
+                        "longitude": 25.579253
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-riv-srl",
+                    "name": "Auto Riv",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Laminorului Nr. 8, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.918875,
+                        "longitude": 25.435942
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB015"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoservice-davcar-grup-srl",
+                    "name": "AUTOSERVICE DAVCAR GRUP S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "STR. PRINCIPALĂ NR. 85A, ULMI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.903874,
+                        "longitude": 25.538022
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/beb-trans-srl",
+                    "name": "Beb Trans",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Ilfovului Nr. 25, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.648284,
+                        "longitude": 25.719001
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB068"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/beda-impex-srl",
+                    "name": "Beda Impex",
+                    "image": "https://itpgo.ro074f4032-42ad-44f1-89bf-d4e810a6ec31/074f4032-42ad-44f1-89bf-d4e810a6ec31.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "B-dul. Eroilor Nr. 26, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.934726,
+                        "longitude": 25.439849
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/beda-tahograf-srl",
+                    "name": "BEDA TAHOGRAF SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "str. BD. EROILOR nr. 26, TARGOVISTE"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929827,
+                        "longitude": 25.439533
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/burlacu-trans-com-srl",
+                    "name": "BURLACU TRANS COM SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT DUMBRAVA, COM. ULMI, STR W NR. 91B, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.891845,
+                        "longitude": 25.43306
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB080"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/calin-vlady-testari-auto-srl",
+                    "name": "CALIN VLADY TESTARI AUTO SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT FERESTRE, COM RUNCU, STR. ISTRATESTI, NR. 18, JUDET DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.738403,
+                        "longitude": 25.59835
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/camf-srl",
+                    "name": "C.a.m.f.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Republicii Nr. 18 A, Moreni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.979699,
+                        "longitude": 25.652028
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cassili-concept-srl",
+                    "name": "Cassili Concept - Statie ITP",
+                    "image": "https://itpgo.roea5e5329-e2f2-4b0e-a278-81dfa95c8fd3/ea5e5329-e2f2-4b0e-a278-81dfa95c8fd3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT VALEA VOIEVOZILOR, COM. RĂZVAD, STR. CĂRĂMIDARI NR. 40, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.200756,
+                        "longitude": 27.341028
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cata-mim-grup-service-srl",
+                    "name": "CATA MIM GRUP SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT VISINA, COM VISINA, STR. MIHAI VITEAZU, NR. 22, JUD. DB"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.976006,
+                        "longitude": 24.619399
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB070"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/claunic-expert-itp-srl",
+                    "name": "ITP Claunic",
+                    "image": "https://itpgo.rof01a0ed5-3f53-4b23-a935-5cffe9abc5f9/f01a0ed5-3f53-4b23-a935-5cffe9abc5f9.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT BUNGETU, COM .VACARESTI, STR. CALEA BUCURESTI, NR. 431A, CAM 1"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.8476649,
+                        "longitude": 25.5373172
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/concept-speed-car-srl",
+                    "name": "Concept Speed Car",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Sat Salcuta Nr. 160, Titu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446315,
+                        "longitude": 26.124218
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cosmin-srl",
+                    "name": "Cosmin",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "B-dul. Eroilor Nr. 7a, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.932394,
+                        "longitude": 25.439407
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB043"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/critys-srl",
+                    "name": "CRITYS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "STR. PRINCIPALĂ, NR. 173 NR. 173, LUNGULETU, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.006958,
+                        "longitude": 25.840843
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/david-tsc-srl",
+                    "name": "David Tsc",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Nicolae Titulescu Nr. 22, Gaesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.721618,
+                        "longitude": 25.31459
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/delta-asm",
+                    "name": "DELTA ASM",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": " Aleea sinaia Nr.82 "
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/delta-racom-impex-srl",
+                    "name": "DELTA RACOM IMPEX SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "STRADA ION GHICA NR. 3, BL. 6B, ET. 1, AP. 7, TARGOVISTE, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.930452,
+                        "longitude": 25.44799
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DJ084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/elpatand-prod-serv-srl",
+                    "name": "Elpatand Prod Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Aleea Terra Nr. 2, Titu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.652585,
+                        "longitude": 25.576153
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB011"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/essence-tgr-autoserv-srl",
+                    "name": "ESSENCE TGR AUTOSERV SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT LUCIENI, COM. LUCIENI, - NR. 991-A, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.53696,
+                        "longitude": 24.568302
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/florin-boss-itp-crangurile-srl",
+                    "name": "FLORIN BOSS ITP CRANGURILE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "COM. CRÂNGURILE, SAT BĂDULEŞTI NR. 169A, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.53696,
+                        "longitude": 24.568302
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB078"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gamido-serv-srl",
+                    "name": "Gamido Serv",
+                    "image": "https://itpgo.roa833f2a1-32db-418e-98c2-60b3f368cd21/a833f2a1-32db-418e-98c2-60b3f368cd21.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Libertatii Nr. 11, Gaesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.103017,
+                        "longitude": 24.375065
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ghimexjan-service-impex-com-srl",
+                    "name": "GHIMEXJAN SERVICE IMPEX COM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT CREVEDIA, CREVEDIA, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.53696,
+                        "longitude": 24.568302
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/igerom-com-srl",
+                    "name": "Igerom Com",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Pucioasa,, Str. Independentei Nr. 2-4, Pucioasa"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.05832,
+                        "longitude": 25.440857
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lancosa-srl",
+                    "name": "Lancosa",
+                    "image": "https://itpgo.roa394fdaf-aa39-4bd8-9326-381423300be4/a394fdaf-aa39-4bd8-9326-381423300be4.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Sos. Gaesti Nr. 11k, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.914806,
+                        "longitude": 25.451035
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/locanda-la-stefan-srl",
+                    "name": "LOCANDA LA STEFAN SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT SUDULENI, COM. VOINEŞTI, STR. PRINCIPALĂ NR. 189, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.104609,
+                        "longitude": 25.227104
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB065"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/luxury-auto-leca-srl",
+                    "name": "LUXURY AUTO LECA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT BREZOAELE, COM. BREZOAELE, - NR. 139 C, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.53696,
+                        "longitude": 24.568302
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/macab-autotest-srl",
+                    "name": "Macab Autotest",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Invatator Constantin Popescu Nr. 4a1, Fieni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.027243,
+                        "longitude": 23.628818
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mag-alx-inspectii-srl",
+                    "name": "MAG ALX INSPECTII SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "COM. CORNEȘTI, SAT CORNEȘTI, STR. CALEA BUCUREȘTI, NR. 366, JUD. DÂMBOVIȚA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.607212,
+                        "longitude": 25.655669
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB077"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mavexim",
+                    "name": "MAVEXIM",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "ALEEA MĂNĂSTIREA DEALU NR. 197, TARGOVISTE, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.953349,
+                        "longitude": 25.483171
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB017"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mavexim-srl",
+                    "name": "MAVEXIM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT DRAGODANA, COM. DRAGODANA,, ŞOS. BUCUREŞTI NR. 101, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.792642,
+                        "longitude": 23.890016
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB026"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/melidra-cars-srl",
+                    "name": "MELIDRA CARS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "ALEEA SINAIA NR. 241, DOICESTI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.946183,
+                        "longitude": 25.45617
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mild-auto-srl",
+                    "name": "I T P Crevedia",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "CREVEDIA, ŞOS. BUCUREŞTI-TÂRGOVIŞTE NR. 671, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.5905632,
+                        "longitude": 25.9210354
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mondo-aty-inspect-srl-d",
+                    "name": "Mondo Aty Inspect Srl D",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "B-dul. Eroilor Nr. 38, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.931269,
+                        "longitude": 25.439471
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/morex-srl",
+                    "name": "Morex",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Unirii Nr. 77, Moreni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.983552,
+                        "longitude": 25.634507
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/muraturi-de-dambovita-srl",
+                    "name": "MURATURI DE DAMBOVITA S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "STRADA PRINCIPALA NR. 33, LUNGULETU, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.816019,
+                        "longitude": 25.474389
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/naditimi-itp-srl",
+                    "name": "NADITIMI ITP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "SAT MIRCEA VODA, COM. SALCIOARA, CALEA BUCURESTI, NR. 102, DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.76645,
+                        "longitude": 25.587851
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nord-trans-sa",
+                    "name": "NORD TRANS SA",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "str. INDEPENDENTEI nr. 4, PUCIOASA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.05832,
+                        "longitude": 25.440857
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB001"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/oil-dp-srl",
+                    "name": "OIL DP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "ȘOSEAUA BUCUREȘTI - TÂRGOVIȘTE NR. 99, BALENI-ROMANI, BALENI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.819474,
+                        "longitude": 25.650971
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB074"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pantilin-laura-ancuta-pfa",
+                    "name": "PANTILIN LAURA ANCUTA PFA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "STRADA PRINCIPALA NR.1F, VACARESTI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.853711,
+                        "longitude": 25.488121
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/priseaca-serv-srl",
+                    "name": "Priseaca Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Crangului Nr. 4 A, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.923603,
+                        "longitude": 25.400661
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/profesional-trans-srl",
+                    "name": "PROFESIONAL TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "STRADA STEJARULUI NR.75, MATRACA, ULMI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.892475,
+                        "longitude": 25.515318
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB075"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/prosig-trafic-srl",
+                    "name": "Prosig Trafic",
+                    "image": "https://itpgo.ro8711451f-19fc-4626-a772-bffc7309bd30/8711451f-19fc-4626-a772-bffc7309bd30.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "B-dul. Trandafirilor Nr. 303, Pucioasa"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.071665,
+                        "longitude": 25.435365
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/radu-professional-auto-center-i-srl",
+                    "name": "Radu Professional Auto Center 1",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "B-dul. Republicii Nr. 67, Moreni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942321,
+                        "longitude": 26.019932
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/raiman-capucino-srl",
+                    "name": "Raiman Capucino",
+                    "image": "https://itpgo.rob955dce6-738f-4f0e-b917-ded97fa97c0e/b955dce6-738f-4f0e-b917-ded97fa97c0e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Aleea Sinaia Nr. 6-8, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.946183,
+                        "longitude": 25.45617
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/roadman-auto-srl",
+                    "name": "ROADMAN AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "COMUNA ULMI, SAT DUMBRAVA, STR. PRINCIPALĂ NR. 7, JUD. DÂMBOVIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.891073,
+                        "longitude": 25.437472
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/roby-cars-test-srl",
+                    "name": "ROBY CARS TEST S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "CALEA GAESTI NR. 171, DRAGODANA, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.53696,
+                        "longitude": 24.568302
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/servicii-municipale-targoviste-srl",
+                    "name": "Servicii Municipale Targoviste",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "B-dul. Unirii Nr. 6, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.923442,
+                        "longitude": 25.442468
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sfera-auto-center-srl",
+                    "name": "Sfera Auto Center",
+                    "image": "https://itpgo.rofcaed47d-82c5-4c61-bfcc-09e87fca8ba0/fcaed47d-82c5-4c61-bfcc-09e87fca8ba0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Tudor Vladimirescu Nr. 47, Racari"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.623806,
+                        "longitude": 25.738287
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/timnad-itp-srl",
+                    "name": "TIMNAD ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "PRINCIPALA NR. 127, DUMBRAVA, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.949059,
+                        "longitude": 25.481819
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trans-titu-sa",
+                    "name": "Trans Titu",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Garii Nr. 54, Titu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.84413,
+                        "longitude": 24.962561
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/um-01558",
+                    "name": "U.m. 01558",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "Str. Nicolae Balcescu Nr. 3-5, Targoviste"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942456,
+                        "longitude": 25.438667
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/universal-auto-micu-srl",
+                    "name": "UNIVERSAL AUTO MICU SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "PRINCIPALA NR. 518, COJASCA, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.3174,
+                        "longitude": 21.790228
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB072"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vio-transgrup-srl",
+                    "name": "VIO TRANSGRUP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "PRINCIPALA NR. 2, UNGURENI, DRAGOMIRESTI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.212012,
+                        "longitude": 25.435882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/wrd-mega-group-srl",
+                    "name": "WRD MEGA GROUP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Dambovita",
+                        "streetAddress": "STRADA CONSTANTIN BRANCOVEANU NR. 45B,  BL.CONSTRUCTIA C1,  ET.PARTER, POTLOGI, JUD. DAMBOVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.567627,
+                        "longitude": 25.590063
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "DB076"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Dambovita",
+            "alternateName": "DB"
+        }
+    }
+}

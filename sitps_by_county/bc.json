@@ -1,0 +1,2251 @@
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Stații ITP Bacau",
+        "description": "Stații ITP autorizate RAR din județul Bacau. Programări rapide și informații complete despre stațiile ITP.",
+        "url": "https://itpgo.ro/judet/bacau",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Judete",
+                    "item": "https://itpgo.ro/judet"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Stații ITP Bacau",
+                    "item": "https://itpgo.ro/judet/bacau"
+                }
+            ]
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "numberOfItems": 79,
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/4a-solutions-srl",
+                        "name": "4a Solutions",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Avram Iancu Nr. 4, Targu Ocna"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.88115,
+                            "longitude": 24.055622
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC091"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/abc-total-auto-srl",
+                        "name": "ABC TOTAL AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA VADUL BISTRIȚEI NR. 48, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.573553,
+                            "longitude": 26.915689
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC037"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/adycla-auto-srl",
+                        "name": "ADYCLA AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR.GĂRII, F N, SAT HEMEIUȘ, COM. HEMEIUȘ, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.50209,
+                            "longitude": 26.19801
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC123"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/aen-testing-srl",
+                        "name": "AEN TESTING SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BUHUȘI, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.50209,
+                            "longitude": 26.19801
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC072"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/asacom-spedition-srl",
+                        "name": "Asacom Spedition ITP Bacau. Statie ITP Bacau. ITP Programare Bacau. ITP Pret Bacau. Itp Camioane, Verificare Tahograf Bacau",
+                        "image": "https://itpgo.ro40fb56c2-04f3-44a2-93ec-9dd2479ad028/40fb56c2-04f3-44a2-93ec-9dd2479ad028.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT MĂRGINENI, COMUNA MĂRGINENI, CALEA MOINEȘTI, NR.6, CORP CONSTRUCȚIE C7, JUDETUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.601113,
+                            "longitude": 26.800848
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC077"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-best-center-srl",
+                        "name": "AUTO BEST CENTER SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.421025,
+                            "longitude": 26.134373
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC033"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autodav-invest-srl",
+                        "name": "ITP TURBINEI (S.C. AUTODAV INVEST S.R.L)",
+                        "image": "https://itpgo.ro1dabe4e0-9f61-4d04-8e09-e356fd36cb56/1dabe4e0-9f61-4d04-8e09-e356fd36cb56.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. TURBINEI, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.575706,
+                            "longitude": 26.91681
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC069"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autoinspect-srl",
+                        "name": "Autoinspect",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Garii Nr. 16, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.258124,
+                            "longitude": 26.781463
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC034"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-keep-srl",
+                        "name": "AUTO KEEP SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "TEIULUI,  BL.21 BIS, PODU TURCULUI, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.200677,
+                            "longitude": 27.3856
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autoluk-center-srl",
+                        "name": "Autoluk Center ITP / TAHOGRAFE MOTO-ATV-MAL BACAU",
+                        "image": "https://itpgo.rod5b6606c-fc8f-45eb-b02c-50f09a700cc5/d5b6606c-fc8f-45eb-b02c-50f09a700cc5.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA ALEXANDRU IOAN CUZA, NR. 302 A, RUSI-CIUTEA, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.265074,
+                            "longitude": 26.683151
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC063"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/automobil-center-impex-srl",
+                        "name": "AUTOMOBIL CENTER IMPEX SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "COMUNA SĂRATA, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.32628,
+                            "longitude": 26.567972
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC064"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-moto-invest-srl",
+                        "name": "AUTO MOTO INVEST SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "CALEA MOLDOVEI NR. 191, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.596334,
+                            "longitude": 26.9079
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC021"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 13,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-plus-srl",
+                        "name": "Auto Plus",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Emil Rebreanu Nr. 11a, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.244364,
+                            "longitude": 26.758714
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC062"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 14,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-pro-consulting-srl",
+                        "name": "Auto Pro Consulting",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Forestierului Nr. Fn, Darmanesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.367474,
+                            "longitude": 26.49901
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC074"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 15,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autoreparatur-srl",
+                        "name": "Autoreparatur SRL (Service auto multimarcă, ITP, GPL, aer condiționat)",
+                        "image": "https://itpgo.roa780e708-63cb-4002-aed3-7b6f7a162373/a780e708-63cb-4002-aed3-7b6f7a162373.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.421025,
+                            "longitude": 26.134373
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC049"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 16,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autoserv-izvoare-srl",
+                        "name": "SC ITP IZVOARE S.R.L.",
+                        "image": "https://itpgo.ro491b93ef-02ca-41b9-8fa7-8861658c88f8/491b93ef-02ca-41b9-8fa7-8861658c88f8.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA IZVOARE, NR.52, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.548029,
+                            "longitude": 26.929601
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC112"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 17,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autotest-center-srl",
+                        "name": "AUTOTEST CENTER SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACĂU, STR. IZVOARE NR. 52, JUD. BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.702868,
+                            "longitude": 26.638901
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC052"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 18,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autotest-narcisa-srl",
+                        "name": "Statie ITP Autotest Narcisa",
+                        "image": "https://itpgo.ro91af970c-4349-421e-8ad7-c4f685d37484/91af970c-4349-421e-8ad7-c4f685d37484.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA NARCISELOR, CLĂDIREA NR. NR.19, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.539045,
+                            "longitude": 26.913408
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC073"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 19,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-vuvi-srl",
+                        "name": "Auto Vuvi",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Atelierelor Nr. 43, Moinesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.484807,
+                            "longitude": 26.507354
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC067"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 20,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/bundi-flor-srl",
+                        "name": "Bundi Flor",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Calea Bacaului Nr. 19, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.273195,
+                            "longitude": 26.766912
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC082"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 21,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ciobanis-serv-srl",
+                        "name": "Ciobanis Serv",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Pietei Nr. 2a, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.244981,
+                            "longitude": 26.768322
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC022"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 22,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cocis-sandu-srl",
+                        "name": "Cocis Sandu",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Calea Marasesti Nr. 21, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.256605,
+                            "longitude": 26.778991
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC006"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 23,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/complex-favorit-logistic-srl",
+                        "name": "COMPLEX FAVORIT LOGISTIC SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. NARCISELOR, NR.30, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.539045,
+                            "longitude": 26.913408
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC118"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 24,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/complex-favorit-soft-srl",
+                        "name": "SC Complex Favorit SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. NARCISELOR, NR. 30, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.538636,
+                            "longitude": 26.907847
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC093"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 25,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cybernet-auto-center-srl",
+                        "name": "CYBERNET AUTO CENTER SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "CALEA MOLDOVEI,  BL.239, BOGDAN VODA, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.59525,
+                            "longitude": 26.908676
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC028"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 26,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/daren-automobile-srl",
+                        "name": "I.T.P. Daren Automobile",
+                        "image": "https://itpgo.roa6e30f1a-d58f-48e7-bd4b-a8be1568153d/a6e30f1a-d58f-48e7-bd4b-a8be1568153d.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACĂU, STR. REPUBLICII NR. 185, JUD. BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.525485,
+                            "longitude": 26.921162
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC018"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 27,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dar-tud-auto-srl",
+                        "name": "Dar Tud Auto",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Combinatului Nr. 20, Comanesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.417852,
+                            "longitude": 26.466413
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC108"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 28,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/daseri-company-srl",
+                        "name": "DASERI COMPANY SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT VALEA MICĂ, COM. CLEJA, CALEA MĂRĂŞEŞTI NR. 44, JUD. BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.560291,
+                            "longitude": 26.912456
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC095"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 29,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/discovolante-trans-srl",
+                        "name": "DISCOVOLANTE TRANS SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. I.L.CARAGIALE, NR. 1 B, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.176928,
+                            "longitude": 25.288446
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC079"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 30,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/drg-rapid-service-srl",
+                        "name": "DRG RAPID SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "NR.161, DN2, PLATFORMA IRIC, ETAJ P., SASCUT, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.168993,
+                            "longitude": 27.132234
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC104"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 31,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/fabrox-srl",
+                        "name": "Fabrox",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Minerului Nr. 135, Comanesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.432019,
+                            "longitude": 26.396558
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC113"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 32,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/filtrans-srl",
+                        "name": "ITP Auto Bacau Filltras SRL",
+                        "image": "https://itpgo.ro18fc9999-edd4-4be3-917a-56abe3c4a9fd/18fc9999-edd4-4be3-917a-56abe3c4a9fd.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA GHEORGHE DONICI,  BL.2 BIS, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.566935,
+                            "longitude": 26.891721
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC030"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 33,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ged-dalma-inspectii-auto",
+                        "name": "GED DALMA INSPECTII AUTO",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT VAMA, COMUNA VAMA, NR. 265C, JUDEȚ SATU MARE"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.354994,
+                            "longitude": 27.183282
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "SM055"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 34,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/gelu-sebi-auto-srl",
+                        "name": "GELU & SEBI AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "PRINCIPALĂ,  BL.63, ZEMES, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.578996,
+                            "longitude": 26.436528
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC106"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 35,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/global-net-srl",
+                        "name": "GLOBAL NET SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA IZVOARE,  BL.1 BIS, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.548029,
+                            "longitude": 26.929601
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC061"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 36,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/hasimag-serv-srl",
+                        "name": "Hasimag Serv",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Calea Bacaului Nr. 205a, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.273195,
+                            "longitude": 26.766912
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC110"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 37,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ideal-auto-service-srl",
+                        "name": "Ideal Auto Service",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Costache Negri Nr. 2, Targu Ocna"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.315053,
+                            "longitude": 26.51493
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC026"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 38,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/itp-cars-md-srl",
+                        "name": "ITP CARS MD SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR.LIBERTĂȚII, NR. 38 A, BUHUȘI, JUDEȚUL BACĂU."
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.50209,
+                            "longitude": 26.19801
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC083"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 39,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/itp-fix-auto-srl",
+                        "name": "ITP FIX AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA VADUL BISTRIȚEI,  BL.36, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.573483,
+                            "longitude": 26.915936
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC109"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 40,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/itp-izvoare-srl",
+                        "name": "ITP IZVOARE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. IZVOARE, NR. 52, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.702868,
+                            "longitude": 26.638901
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC042"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 41,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/klassauto-moto-srl",
+                        "name": "Castrol Service Klass Auto",
+                        "image": "https://itpgo.ro3c300ab2-9b1a-46cd-a8e1-1fdb32a0e69d/3c300ab2-9b1a-46cd-a8e1-1fdb32a0e69d.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACĂU, STR. ARINILOR NR. 1 C, JUD. BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.468767,
+                            "longitude": 26.23932
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC059"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 42,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/km-auto-srl",
+                        "name": "K&M AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "VASILE LUPU,  BL.169, PARJOL, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.594789,
+                            "longitude": 26.605912
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC107"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 43,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/lwd-autocomplex-srl",
+                        "name": "Lwd Autocomplex",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Mihail Eminescu Nr. 129f, Moinesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.490339,
+                            "longitude": 26.511533
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC101"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 44,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/marytrans-srl",
+                        "name": "Marytrans",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Calea Bacaului Nr. 42, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.273195,
+                            "longitude": 26.766912
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC051"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 45,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/medeea-auto-center-srl",
+                        "name": "MEDEEA AUTO CENTER SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "COMUNA TÂRGU TROTUȘ, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.72223,
+                            "longitude": 26.699529
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC111"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 46,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/met-tem-srl",
+                        "name": "Met Tem",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Alexandru Ioan Cuza Nr. 5, Moinesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.833221,
+                            "longitude": 27.458092
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC094"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 47,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mhs-truck-service-srl",
+                        "name": "MHS TRUCK SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT NICOLAE BĂLCESCU, COM. NICOLAE BĂLCESCU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.567263,
+                            "longitude": 26.91139
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC080"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 48,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mihoc-srl",
+                        "name": "Mihoc",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Redului Nr. 135, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.250499,
+                            "longitude": 26.786362
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC012"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 49,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mla-muji-drivesafe-srl",
+                        "name": "MLA MUJI DRIVESAFE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA PRINCIPALĂ,  BL.NR. 452 D, TARGU TROTUS, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.205594,
+                            "longitude": 26.628705
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC102"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 50,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/moto-joy-srl",
+                        "name": "MOTO JOY SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "CALEA REPUBLICII, NR.138, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.529538,
+                            "longitude": 26.92058
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC121"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 51,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nicolassy-inspect-srl",
+                        "name": "NICOLASSY INSPECT SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "str. GARII nr. 16A, ONESTI"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.25663,
+                            "longitude": 26.780569
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC038"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 52,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nic-serv-auto-com-srl",
+                        "name": "Nic Serv Auto Com",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Poieni Nr. 55, Targu Ocna"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.248944,
+                            "longitude": 26.541978
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC041"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 53,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/niltrans-express-srl",
+                        "name": "NILTRANS EXPRESS SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. DUMBRAVEI, NR.2, COMĂNEȘTI, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.567783,
+                            "longitude": 26.915334
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC115"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 54,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nova-mix-invest-srl",
+                        "name": "NOVA MIX INVEST SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA VADUL BISTRIȚEI,  BL.48, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.573483,
+                            "longitude": 26.915936
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC100"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 55,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nyt-cim-itp-srl",
+                        "name": "NYT CIM ITP S.R.L.",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT URLETA, COM. BRĂNEŞTI, - NR. 465, JUD. PRAHOVA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.458182,
+                            "longitude": 26.528657
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "PH197"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 56,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/orange-autoparts-srl",
+                        "name": "Orange Autoparts",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Calea Adjudului Nr. 85a, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.240575,
+                            "longitude": 26.821728
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC103"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 57,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/orhserv-888-srl",
+                        "name": "ORHSERV 888 SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "CALEA BACĂULUI, NR.36, ONEȘTI, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.273195,
+                            "longitude": 26.766912
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC114"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 58,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/pops-auto-concept-srl",
+                        "name": "ITP Bacău & Service Pop’s Auto",
+                        "image": "https://itpgo.ro695b7f5b-65f9-43e5-9b74-58ab9957d7e2/695b7f5b-65f9-43e5-9b74-58ab9957d7e2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. ALEXANDRU IOAN CUZA, NR.285, SAT NICOLAE BĂLCESCU, COM. NICOLAE BĂLCESCU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.476006,
+                            "longitude": 26.918941
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC116"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 59,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/rgv-service-dinamic-srl",
+                        "name": "Rgv Service Dinamic",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Cpt Paul Zaganescu Nr. 2, Moinesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.318584,
+                            "longitude": 25.07722
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC078"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 60,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/roatanel-srl",
+                        "name": "ROATANEL SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACĂU, REPUBLICII NR. NR. 136, JUD. BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.525485,
+                            "longitude": 26.921162
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC044"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 61,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-daren-automobile-srl",
+                        "name": "Daren Automobile",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Calea Slanicului Nr. 10a, Onesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.262575,
+                            "longitude": 26.731767
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC031"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 62,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-moto-joy-srl",
+                        "name": "SC MOTO JOY SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACAU, Str. Republicii nr. 138, jud. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.525485,
+                            "longitude": 26.921162
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC081"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 63,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-roatanel-srl",
+                        "name": "SC ROATANEL SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "BACAU, STR. NARCISELOR nr. 28, jud. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.538187,
+                            "longitude": 26.907362
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC056"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 64,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/service-velauto-srl",
+                        "name": "SERVICE VELAUTO SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "COMUNA SECUIENI, SAT SECUIENI, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.643303,
+                            "longitude": 27.099436
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC098"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 65,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/stil-tedalex-srl",
+                        "name": "Stil Tedalex",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Combinatului Nr. 20, Comanesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.417852,
+                            "longitude": 26.466413
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC055"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 66,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/super-voiaje-srl",
+                        "name": "Super Voiaje",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Cucuteni Nr. 10, Moinesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.486899,
+                            "longitude": 26.508967
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC090"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 67,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tavis-tex-srl",
+                        "name": "TAVIS TEX SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. MIHAIL EMINESCU, NR. 65, MOINEȘTI, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.566498,
+                            "longitude": 26.901291
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC117"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 68,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tehnic-trans-2021-srl",
+                        "name": "TEHNIC TRANS 2021 SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "str. CUCUTENI nr. 10, MOINESTI"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.486899,
+                            "longitude": 26.508967
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC046"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 69,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tehno-motors-exclusiv-srl",
+                        "name": "Castrol Service Tehno Motors Exclusiv Service Auto 2",
+                        "image": "https://itpgo.roc084ba9e-51dd-48a2-a4e5-e2508bf75aea/c084ba9e-51dd-48a2-a4e5-e2508bf75aea.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "CALEA ROMANULUI,  BL.23, BACAU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.587929,
+                            "longitude": 26.930242
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC076"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 70,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tehnopost-business-srl",
+                        "name": "Staţie Itp -Tehnopost Bacau",
+                        "image": "https://itpgo.ro15372aba-6cb1-48bc-84a0-a03aff2b1e12/15372aba-6cb1-48bc-84a0-a03aff2b1e12.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. GĂRII, NR.1 BIS, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.5711,
+                            "longitude": 26.892596
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC092"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 71,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/the-topservice-srl",
+                        "name": "THE TOPSERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT SULȚA, STR. POIENII, NR.15, COMUNA AGĂȘ, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.248926,
+                            "longitude": 26.5418
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC119"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 72,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/th-trucks-bc-srl",
+                        "name": "TH TRUCKS S.R.L.",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STRADA PRINCIPALĂ,  BL.NR.1232, NICOLAE BALCESCU, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.567263,
+                            "longitude": 26.91139
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC024"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 73,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/titserv-srl",
+                        "name": "Titserv",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Atelierelor Nr. 57, Moinesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.484807,
+                            "longitude": 26.507354
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC065"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 74,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/trepadus-m-iulian-ii",
+                        "name": "TREPADUS M. IULIAN I.I.",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT SĂNDULENI NR. 145, SANDULENI, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.675788,
+                            "longitude": 26.597332
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC0001"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 75,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/universal-automeister-srl",
+                        "name": "UNIVERSAL AUTOMEISTER SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "STR. TURBINEI, NR. 2 A, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.575706,
+                            "longitude": 26.91681
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC120"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 76,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/vio-com-srl",
+                        "name": "VIO & COM SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT CAȘIN, CASIN, JUD. BACAU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.947546,
+                            "longitude": 27.481694
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC105"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 77,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/vitara-com-srl",
+                        "name": "Vitara Com",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "Str. Atelierelor Nr. 132, Moinesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.484908,
+                            "longitude": 26.507759
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC032"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 78,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/viticam-trust-srl",
+                        "name": "VITICAM TRUST SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "SAT OITUZ,COMUNA OITUZ, - NR. -, JUD. BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.567858,
+                            "longitude": 26.906461
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC122"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 79,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/zaher-auto-srl",
+                        "name": "ZAHER AUTO SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bacau",
+                            "streetAddress": "CALEA ROMANULUI, NR. 59, BACĂU, JUDEȚUL BACĂU"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.579727,
+                            "longitude": 26.929948
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BC124"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "about": {
+            "@type": "Service",
+            "name": "Inspecție Tehnică Periodică Auto",
+            "areaServed": {
+                "@type": "AdministrativeArea",
+                "name": "Bacau",
+                "alternateName": "BC"
+            }
+        }
+    }

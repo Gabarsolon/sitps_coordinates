@@ -1,0 +1,1131 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Ialomita",
+    "description": "Stații ITP autorizate RAR din județul Ialomita. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/ialomita",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Ialomita",
+                "item": "https://itpgo.ro/judet/ialomita"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 39,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/4-cars-srl",
+                    "name": "4 Cars",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Calarasi Nr. 503, Fetesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.400563,
+                        "longitude": 27.834121
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aca-exim-srl",
+                    "name": "ACA EXIM SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "str. SOS. BRAILEI nr. 17, SLOBOZIA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.573635,
+                        "longitude": 27.385543
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL001"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adimar-asig-srl",
+                    "name": "Adimar Asig",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Brailei, Lot Nr.3 Nr. 38184, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.573604,
+                        "longitude": 27.385761
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adm-logistic-prest-2019-srl",
+                    "name": "Stație ITP",
+                    "image": "https://itpgo.ro7edf301a-a2e2-48a5-92b2-98a94eb9a32b/7edf301a-a2e2-48a5-92b2-98a94eb9a32b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "SOSEAUA SLOBOZIA-TANDAREI NR 174, MARCULESTI, JUD. IALOMITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.557611,
+                        "longitude": 27.428698
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ady-mar-transporte-srl",
+                    "name": "ADY MAR TRANSPORTE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "STR. STADIONULUI NR.1, SAT BĂRCĂNEȘTI, COMUNA BĂRCĂNEȘTI, JUDEȚUL IALOMIȚA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.650046,
+                        "longitude": 26.629766
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amd-autobad-srl",
+                    "name": "Amd Autobad",
+                    "image": "https://itpgo.ro6b4a2976-0662-40ed-a170-4ceff5259181/6b4a2976-0662-40ed-a170-4ceff5259181.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Bucuresti-buzau Nr. Km. 57,5, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.083531,
+                        "longitude": 26.77668
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amd-pieseauto-srl",
+                    "name": "Amd Pieseauto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Bucuresti-buzau, Corp C1 Si Corp C2 Nr. Km. 57.9, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.083531,
+                        "longitude": 26.77668
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-gold-business-srl",
+                    "name": "Auto Gold Business",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Amara, Lot 2 Nr. 17, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.336403,
+                        "longitude": 23.589318
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoservice-complete-srl",
+                    "name": "Autoservice Complete",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Calarasi Nr. 503, Fetesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.400563,
+                        "longitude": 27.834121
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL027"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoservice-sa",
+                    "name": "Autoservice",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Mihai Viteazu Nr. 5, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.711749,
+                        "longitude": 26.631331
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL003"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-test-expert-service-srl",
+                    "name": "Auto Test Expert Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Calea Urziceni, Oras Fierbinti-targ, Sat Fierbinti De Sus Nr. 62a, Fierbinti Targ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.680039,
+                        "longitude": 26.392889
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bacsim-srl",
+                    "name": "BACSIM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "SAT COŞERENI, COM. COŞERENI, DN 2, NR. 192, JUD. IALOMIŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.160447,
+                        "longitude": 21.065458
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bebbyr-service-srl",
+                    "name": "Bebbyr Service",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Constanta Nr. 43, Tandarei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.776593,
+                        "longitude": 23.593541
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL043"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bogyat-prest-srl",
+                    "name": "Bogyat Prest",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Calarasi Nr. 545, Fetesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.407109,
+                        "longitude": 27.829109
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL017"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/buzea-tibi-traian-intreprindere-individuala",
+                    "name": "Buzea Tibi Traian Intreprindere Individuala",
+                    "image": "https://itpgo.rodf82b13a-f947-4954-8c27-475b47a9e815/df82b13a-f947-4954-8c27-475b47a9e815.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Brailei , Incinta Parc Industrial Imm Nr. Cad. 38201, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.573604,
+                        "longitude": 27.385761
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ciril-petroleum-srl",
+                    "name": "Ciril Petroleum",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Calea Bucuresti Nr. 90, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.715046,
+                        "longitude": 26.650072
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/crismih-logistic-srl",
+                    "name": "CRISMIH LOGISTIC SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "STR. DIGULUI NR. 18, LACUSTENI, PLATONESTI, JUD. IALOMITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.691614,
+                        "longitude": 26.567591
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/db-service-holding-srl",
+                    "name": "DB SERVICE HOLDING SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "STRADA BRUTĂRIEI NR. 87A, GHEORGHE DOJA, JUD. IALOMITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.715025,
+                        "longitude": 27.095884
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dean-garaj-srl",
+                    "name": "DEAN GARAJ SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "1 DECEMBRIE NR 10A, BUCU, JUD. IALOMITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.637501,
+                        "longitude": 27.453926
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/drimo-inter-trans-srl",
+                    "name": "Drimo Inter Trans",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Calea Bucuresti Nr. 107a, Fierbinti Targ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.678219,
+                        "longitude": 26.363927
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL038"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/endless-energy-green-srl",
+                    "name": "ENDLESS ENERGY GREEN SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "MORII NR. 2A, TANDAREI, JUD. IALOMITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.64113,
+                        "longitude": 27.679022
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/finscl-srl",
+                    "name": "Finscl",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Zona Statiei Cf Urziceni, Cap Y, Garii Nr. 1, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.719401,
+                        "longitude": 26.642407
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/finserv-cars-auto-srl",
+                    "name": "Finserv Cars Auto",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Regiei Nr. 21e, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.718997,
+                        "longitude": 26.647242
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/international-service-slobozia-sa",
+                    "name": "International Service Slobozia",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Bucuresti-constanta Nr. Km 110, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.164095,
+                        "longitude": 28.462042
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-autobad-srl",
+                    "name": "Itp Autobad",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Bucuresti-buzau, Corpul A1.6(c6) Nr. Km. 57,5, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.083531,
+                        "longitude": 26.77668
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/kiwi-service-srl",
+                    "name": "KIWI SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "str. CALEA BUCURESTI nr. 90, URZICENI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.715046,
+                        "longitude": 26.650072
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL015"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lecoms-societate-cooperativa",
+                    "name": "LECOMS SOCIETATE COOPERATIVA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "STRADA MATEI BASARAB NR. 75,  SC.B,  AP.P, SLOBOZIA, JUD. IALOMITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.633301,
+                        "longitude": 27.454595
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mit-auto-test-srl",
+                    "name": "MIT AUTO TEST S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "SAT BOTENI, COMUNA BOTENI, NR.186, JUDETUL ARGES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.569922,
+                        "longitude": 26.451621
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "AG147"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/npn-srl",
+                    "name": "Npn",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Amara Nr. 3-4, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.419506,
+                        "longitude": 26.089831
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/piese-motor-srl",
+                    "name": "Piese Motor",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Amara Nr. 14, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.746853,
+                        "longitude": 26.054672
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/promotor-test",
+                    "name": "Promotor Test",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Amara, Constructia C1 Si C3 Nr. 1, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.746853,
+                        "longitude": 26.054672
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rafcompany-service-srl",
+                    "name": "Rafcompany Service",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Depoului Nr. 56, Fetesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.416781,
+                        "longitude": 27.807451
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-carfloauto-srl",
+                    "name": "Carfloauto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Calarasi Nr. 608a, Fetesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.357292,
+                        "longitude": 27.793525
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/selena-business-group-srl",
+                    "name": "ITP & Verificări Tahografe Slobozia Selena",
+                    "image": "https://itpgo.roa8a62341-5312-489d-8247-4c915ab165ff/a8a62341-5312-489d-8247-4c915ab165ff.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "STR. GENERAL MAGHERU NR. 73, BORA, SLOBOZIA, JUD. IALOMITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.561728,
+                        "longitude": 27.386415
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/simserv-srl",
+                    "name": "Simserv",
+                    "image": "https://itpgo.ro43bbc295-2b27-4aa9-865b-d9fd522a33be/43bbc295-2b27-4aa9-865b-d9fd522a33be.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Ianache Lot 3 Nr. -, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.568913,
+                        "longitude": 27.373376
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL009"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/spm-gaz-srl",
+                    "name": "Spm Gaz",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Calarasi Nr. 507, Fetesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.409838,
+                        "longitude": 27.82706
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL005"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tachorom-service-srl",
+                    "name": "Tachorom Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Filaturii Nr. 2, Slobozia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.570977,
+                        "longitude": 27.33665
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/termocenter-srl",
+                    "name": "Termocenter",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Sos. Brailei Nr. 62a, Tandarei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.648626,
+                        "longitude": 27.655312
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/xteh-srl",
+                    "name": "Xteh",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ialomita",
+                        "streetAddress": "Str. Mihai Vitezu Nr. 31, Urziceni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.711749,
+                        "longitude": 26.631331
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "IL042"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Ialomita",
+            "alternateName": "IL"
+        }
+    }
+}

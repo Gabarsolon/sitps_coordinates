@@ -1,0 +1,2745 @@
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Stații ITP Arges",
+        "description": "Stații ITP autorizate RAR din județul Arges. Programări rapide și informații complete despre stațiile ITP.",
+        "url": "https://itpgo.ro/judet/arges",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Judete",
+                    "item": "https://itpgo.ro/judet"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Stații ITP Arges",
+                    "item": "https://itpgo.ro/judet/arges"
+                }
+            ]
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "numberOfItems": 97,
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/alin-cmb-auto-srl",
+                        "name": "ALIN CMB AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "COM. SCHITU GOLEŞTI, SAT LĂZĂREŞTI NR. 608A, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.134485,
+                            "longitude": 24.370541
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/alion-consult-servcar-srl",
+                        "name": "Alion Consult Servcar",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Regimentului Nr. 32, Curtea de Arges"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.381725,
+                            "longitude": 26.046368
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG113"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/alpin-star-srl",
+                        "name": "ALPIN STAR SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "MUNICIPIUL PITEŞTI, B-DUL PETROCHIMISTILOR, BL. B26, SC. D, ET. 1, AP. 5 NR. -, JUD. ARGEŞ"
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG145"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/amat-sa",
+                        "name": "Amat",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Nicolae Balcescu Nr. 204, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.224295,
+                            "longitude": 26.486228
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG039"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/and-auto-itp-srl",
+                        "name": "AND AUTO ITP S.R.L.",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT BASCOV, COMUNA BASCOV, STR. SERELOR, NR. 58 B, JUDET ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.238547,
+                            "longitude": 26.514914
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG139"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/andromeda-styl81-srl",
+                        "name": "Andromeda Styl`81",
+                        "image": "https://itpgo.rof1717737-a040-4a51-b293-906f9837c958/f1717737-a040-4a51-b293-906f9837c958.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Valea Iasului Nr. 71 F, Curtea de Arges"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.166169,
+                            "longitude": 24.674456
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG107"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/anomis-srl",
+                        "name": "Anomis",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "I.c.bratianu Nr. 36-38, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.432935,
+                            "longitude": 26.77609
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG072"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/asiv-auto-tehnic-srl",
+                        "name": "ASIV AUTO TEHNIC SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "STEFANESTI, SOS. BUCURESTI-PITESTI, KM 110, HALA STATIA ITP, JUD.ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.862564,
+                            "longitude": 24.874739
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG133"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/atc-impact-autoserv-srl",
+                        "name": "ATC IMPACT AUTOSERV SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT VRĂNEŞTI, COM. CĂLINEŞTI, - NR. 394 C, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.042918,
+                            "longitude": 27.260075
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG125"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/atlas-motors-smc-srl",
+                        "name": "Atlas Motors Smc",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Gavenii Nr. 37, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.774045,
+                            "longitude": 23.599496
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG050"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auradi-top-serv-srl",
+                        "name": "Itp Auto-Moto Pitesti",
+                        "image": "https://itpgo.ro7b7a1598-7820-4694-8313-9f76d8597d43/7b7a1598-7820-4694-8313-9f76d8597d43.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT GEAMĂNA, COMUNA BRADU, STR. PRELUNGIREA CRAIOVEI NR. 91, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.847684,
+                            "longitude": 24.879713
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG100"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autec-autotechnik-srl",
+                        "name": "AUTEC AUTOTECHNIK SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT GEAMANA, COM. BRADU, DN 65B, NR. 22, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.819482,
+                            "longitude": 24.889721
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG030"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 13,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-csm-rarom-societate-cu-raspundere-limitata",
+                        "name": "AUTO CSM RAROM SOCIETATE CU RASPUNDERE LIMITATA",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT SLOBOZIA, COMUNA SLOBOZIA, STR.EROILOR, NR.109, JUDET ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.035766,
+                            "longitude": 23.232026
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG132"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 14,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-general-motor-sa",
+                        "name": "AUTO GENERAL MOTOR S.A.",
+                        "image": "https://itpgo.ro4721a772-1c13-4a6b-a341-fec070cc05fe/4721a772-1c13-4a6b-a341-fec070cc05fe.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT ARGESELU, COMUNA MARACINENI, DN 73, NR. 487, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.910206,
+                            "longitude": 24.876373
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG006"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 15,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-global-solution-srl",
+                        "name": "AUTO GLOBAL SOLUTION SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "COM. BRADU, STR. PRELUNGIREA CRAIOVEI NR. 91, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.847684,
+                            "longitude": 24.879713
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG121"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 16,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-itp-micky-srl",
+                        "name": "Auto Itp Micky",
+                        "image": "https://itpgo.roe58382f1-ddf3-4513-a843-8d700f8a358c/e58382f1-ddf3-4513-a843-8d700f8a358c.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Constantin D. Statescu Nr. 3, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.868514,
+                            "longitude": 24.857544
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG109"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 17,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-mondostar-mobil-srl",
+                        "name": "Auto Mondostar Mobil",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 14b, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG110"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 18,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-myrmax-perfect-ag-srl",
+                        "name": "Auto Myrmax Perfect Ag",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Calea Bucuresti Nr. 45, Topoloveni"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.811963,
+                            "longitude": 25.076186
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG056"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 19,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/axa-auto-test-srl",
+                        "name": "Axa Auto Test",
+                        "image": "https://itpgo.robc818783-00ce-47d4-8652-5c62ba159bb1/bc818783-00ce-47d4-8652-5c62ba159bb1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Costache Negri Nr. 18, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.575406,
+                            "longitude": 26.912205
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG123"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 20,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/bonisa-bis-srl",
+                        "name": "BONISA BIS SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT ARGESELU, COMUNA MARACINENI, STR. DN 73, NR. 519BIS, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.926966,
+                            "longitude": 24.869472
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG142"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 21,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/bora-auto-parts-srl",
+                        "name": "BORA AUTO PARTS SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "STR. CALEA MAGURII, NR. 3M, CAMPULUNG, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.289515,
+                            "longitude": 25.057249
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG138"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 22,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/car-test-direct-srl",
+                        "name": "Car Test Direct",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor, Hala 1 Nr. 49, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG071"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 23,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/car-trac-srl",
+                        "name": "CAR TRAC SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "STR. STICLELOR,  NR.68, STEFANESTI, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.850397,
+                            "longitude": 24.923281
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG128"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 24,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cerlot-trading-srl",
+                        "name": "Tahograf Cerlot",
+                        "image": "https://itpgo.ro456fa022-2abf-4cad-81fd-c16b5b1071b0/456fa022-2abf-4cad-81fd-c16b5b1071b0.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT ALBOTA, COM. ALBOTA, - NR. 795D, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.783993,
+                            "longitude": 24.851505
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG106"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 25,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/class-auto-consulting-srl",
+                        "name": "SC CLASS AUTO CONSULTING SRL-Bosch Car Service",
+                        "image": "https://itpgo.ro72693083-70ad-4738-b336-2d9d49cef42f/72693083-70ad-4738-b336-2d9d49cef42f.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT GEAMĂNA, COM. BRADU, STR. PRELUNGIREA CRAIOVEI NR. 111, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.112588,
+                            "longitude": 24.33164
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG104"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 26,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cncd-auto-invest-srl",
+                        "name": "CNCD AUTO INVEST S.R.L.",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "PITESTI, STRADA DEPOZITELOR, NR. 17, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.873226,
+                            "longitude": 24.860654
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG136"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 27,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cncd-sa",
+                        "name": "Cncd",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 17, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.873226,
+                            "longitude": 24.860654
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG017"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 28,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/com-auto-center-srl",
+                        "name": "Com Auto Center",
+                        "image": "https://itpgo.ro6d8dede8-9284-4cb4-b759-ccd46e337b67/6d8dede8-9284-4cb4-b759-ccd46e337b67.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 2b, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG033"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 29,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/com-divers-auto-ro-sa",
+                        "name": "COM DIVERS AUTO RO SA",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "STRADA SERELOR NR. 41, BASCOV, JUD. ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.89333,
+                            "longitude": 24.829973
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG058"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 30,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/company-drumpod-mec-srl",
+                        "name": "COMPANY DRUMPOD MEC SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT BASCOV, COM. BASCOV, STR. SERELOR NR. 58 B, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.238547,
+                            "longitude": 26.514914
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG077"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 31,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/concret-ro-grup-srl",
+                        "name": "Concret Ro Grup",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 23, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.873226,
+                            "longitude": 24.860654
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG041"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 32,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/control-cars-itp-srl",
+                        "name": "Control Cars Itp",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Calea Bucuresti Nr. 246, Topoloveni"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.800898,
+                            "longitude": 25.101257
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG103"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 33,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/costan-best-serv-srl",
+                        "name": "COSTAN BEST SERV S.R.L.",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT VLADUTA, COMUNA BUZOIESTI, NR.15C, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.549909,
+                            "longitude": 24.574314
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG140"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 34,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dacia-service-curtea-de-arges-srl",
+                        "name": "Dacia Service Curtea De Arges",
+                        "image": "https://itpgo.roac9331ee-78c3-4ba9-9c3e-59c6ebf2f2ed/ac9331ee-78c3-4ba9-9c3e-59c6ebf2f2ed.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Albesti Nr. 7, Curtea de Arges"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.17063,
+                            "longitude": 24.670379
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG012"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 35,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/daperom-grup-auto-srl",
+                        "name": "Daperom Grup Auto",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Targul Din Vale Nr. 3a, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.854221,
+                            "longitude": 24.881993
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG059"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 36,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/delta-plus-trading-srl",
+                        "name": "Delta Plus Trading",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "A. Pitesti-bucuresti, Dn 65b Nr. Km 3+750, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.862564,
+                            "longitude": 24.874739
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG029"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 37,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dma-service-mega-cars-srl",
+                        "name": "D.M.A. Service Auto",
+                        "image": "https://itpgo.roa2c3f711-3fee-4f68-8339-1b9838125f9e/a2c3f711-3fee-4f68-8339-1b9838125f9e.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT BOŢÂRCANI, ORAŞ TOPOLOVENI, - NR. 21, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.420559,
+                            "longitude": 26.021302
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG120"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 38,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dutch-truck-services-srl",
+                        "name": "Dutch Truck Services",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 20 A, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.873226,
+                            "longitude": 24.860654
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG078"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 39,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/edg-edil-pitesti-srl",
+                        "name": "EDG EDIL PITESTI SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT ZAVOI, ORAS STEFANESTI, STRADA ZAVOIUL MIC, NR. 2A, JUDET ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.859997,
+                            "longitude": 24.891711
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG130"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 40,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/eliomar-pan-aliment-srl",
+                        "name": "AutoCarrera ITP",
+                        "image": "https://itpgo.ro47c45c91-c774-4381-a857-b958d37a06de/47c45c91-c774-4381-a857-b958d37a06de.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT TURCULEŞTI, COM. CĂLINEŞTI, PCT PRIMĂRIA VECHE, STR. PRINCIPALĂ NR. 770A, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.812854,
+                            "longitude": 25.646772
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG118"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 41,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/empi-srl",
+                        "name": "Empi",
+                        "image": "https://itpgo.roe0c3d63c-8bcd-4332-90cb-8a745a762f46/e0c3d63c-8bcd-4332-90cb-8a745a762f46.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Vlad Tepes Nr. 13, Curtea de Arges"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.161864,
+                            "longitude": 24.669614
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG042"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 42,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/enache-alexandru-marius-intreprindere-individuala",
+                        "name": "ENACHE ALEXANDRU MARIUS INTREPRINDERE INDIVIDUALA",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT SCHITU GOLESTI, COMUNA SCHITU GOLESTI, NR.415, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.836396,
+                            "longitude": 24.956792
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG141"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 43,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/euro-tehno-group-srl",
+                        "name": "Euro Tehno Group",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "B-dul. Petrochimistilor Nr. 34, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.831901,
+                            "longitude": 24.908254
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG036"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 44,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/feridoctor-service-depozitelor-srl",
+                        "name": "FERIDOCTOR SERVICE DEPOZITELOR SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "STR.DEPOZITELOR, NR. 2P, PITESTI, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.674232,
+                            "longitude": 24.881246
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG143"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 45,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/first-truck-service-srl",
+                        "name": "FIRST TRUCK SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "COM. BRADU, SOS. DN 65 B, NR. 2, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.779903,
+                            "longitude": 24.896214
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG048"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 46,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/geo-drag-test-srl",
+                        "name": "GEO DRAG TEST SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT BASCOV, COMUNA BASCOV, STR.ROTARESTI DN, NR.57C, JUDET ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.549909,
+                            "longitude": 24.574314
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG129"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 47,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/gizy-autoserv-team-srl",
+                        "name": "Gizy Autoserv Team",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "B-dul. 1 Decembrie 1918 Nr. 1 A, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.17081,
+                            "longitude": 28.636705
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG094"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 48,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/hanul-lui-marian-mitran-srl",
+                        "name": "HANUL LUI MARIAN MITRAN SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "COM. POIANA LACULUI, SAT POIANA LACULUI NR. 126, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.467056,
+                            "longitude": 26.01763
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG108"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 49,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/iatsa-dacia-cimpulung-sa",
+                        "name": "IATSA DACIA CIMPULUNG SA",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT VOINEŞTI, COM LEREŞTI, STR. GENERAL VASILE MILEAA NR. 592, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.424012,
+                            "longitude": 23.377866
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG004"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 50,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/iatsa-platforma-stefanesti-sa",
+                        "name": "Itp Iatsa",
+                        "image": "https://itpgo.ro5f0ea641-0b52-4a04-9442-444459926461/5f0ea641-0b52-4a04-9442-444459926461.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "ŞTEFĂNEŞTI, ŞOS. BUCUREŞTI-PITEŞTI NR. KM 110, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.865707,
+                            "longitude": 24.904329
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG001"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 51,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/international-lazar-company-srl",
+                        "name": "INTERNATIONAL LAZAR COMPANY SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "BASCOV, STR. SERELOR NR. 19, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.89333,
+                            "longitude": 24.829973
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG038"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 52,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/intretinerea-societate-cooperativa-mestesugareasca",
+                        "name": "Intretinerea Societate Cooperativa Mestesugareasca",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Mica Nr. 7, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.651285,
+                            "longitude": 26.981899
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG046"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 53,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/kamado-tahostil-srl",
+                        "name": "Kamado Tahostil",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Grigore Alexandrescu Nr. 15a, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.251812,
+                            "longitude": 25.031681
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG055"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 54,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/manolo-auto-zob-srl",
+                        "name": "Manolo Auto Zob",
+                        "image": "https://itpgo.ro4577df73-b4bf-477a-ab15-ed002e8ed877/4577df73-b4bf-477a-ab15-ed002e8ed877.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Albesti Nr. 10, Curtea de Arges"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.170318,
+                            "longitude": 24.670196
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG037"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 55,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/marcom-master-auto-srl",
+                        "name": "Marcom Master Auto",
+                        "image": "https://itpgo.ro674ea33a-42d6-47f8-9384-ead2892ab0f4/674ea33a-42d6-47f8-9384-ead2892ab0f4.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Calea Magurii Nr. 3m, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.289515,
+                            "longitude": 25.057249
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG098"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 56,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mario-faster-consulting-srl",
+                        "name": "MARIO FASTER CONSULTING SRL I.T.P RAR AG073",
+                        "image": "https://itpgo.rod25094a6-0c76-47ff-aa70-441f96e32c1f/d25094a6-0c76-47ff-aa70-441f96e32c1f.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "COM. BĂICULEŞTI, PUNCTUL \"LA RAMPĂ\", SAT ZIGONENI NR. -, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.089598,
+                            "longitude": 24.672931
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG073"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 57,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/md-mecanic-benz-2003",
+                        "name": "M.d. Mecanic Benz 2003",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 31 Bis, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.873226,
+                            "longitude": 24.860654
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG075"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 58,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mechanics-garage-srl",
+                        "name": "Mechanics Garage",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor, Hala 39f Nr. 20, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG137"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 59,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nicoaleade-testari-srl",
+                        "name": "Nicoaleade Testari",
+                        "image": "https://itpgo.rof7fd42ad-e125-4124-9c0a-479069e9d82e/f7fd42ad-e125-4124-9c0a-479069e9d82e.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Grigore Alexandrescu Nr. 1, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.251812,
+                            "longitude": 25.031681
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG049"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 60,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nyc-new-business-srl",
+                        "name": "Nyc New Business",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Grigore Alexandrescu Nr. 2, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.251812,
+                            "longitude": 25.031681
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG102"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 61,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/paneuro-piese-si-accesorii-auto-srl",
+                        "name": "PANEURO PIESE SI ACCESORII AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "COMUNA CĂTEASCA, SAT RECEA NR. 110C, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.809177,
+                            "longitude": 24.962625
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG054"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 62,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/pelegrin-top-service-srl",
+                        "name": "PELEGRIN TOP SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "PITEŞTI, CALEA DEPOZITELOR,NR.8 (INCINTA SECTIEI DE IMPLETITURI), JUD.ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.676569,
+                            "longitude": 24.882656
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG111"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 63,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/pitmiovcom-pitesti-societate-cooperativa",
+                        "name": "STATIE I.T.P. (AG027) - PITMIOVCOM",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "MIOVENI, BD. DACIA NR. 47, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.950234,
+                            "longitude": 24.924972
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG027"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 64,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/pit-stop-muntenia-srl",
+                        "name": "Pit Stop Muntenia",
+                        "image": "https://itpgo.rob38b3e89-0fba-4bd3-aedd-412cc4c2ed71/b38b3e89-0fba-4bd3-aedd-412cc4c2ed71.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "B-dul. Nicolae Balcescu Nr. 210, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.884278,
+                            "longitude": 24.828448
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG061"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 65,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/popov-autosolution-srl",
+                        "name": "POPOV AUTOSOLUTION SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "PITEŞTI, CALEA CRAIOVEI, BL. 38, SC. A, ET. 4, AP. 17 NR. 128, JUD. ARGEŞ"
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG144"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 66,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/popov-racing-technology-srl",
+                        "name": "Popov Racing Technology",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "B-dul. Republicii Nr. 200-202, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.853322,
+                            "longitude": 24.87715
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG096"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 67,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/prezident-trans-srl",
+                        "name": "Prezident Trans",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Marasti Nr. 4f, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.534899,
+                            "longitude": 25.546785
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG101"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 68,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/professional-tools-ag-srl",
+                        "name": "Professional Tools Ag",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 38g, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG134"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 69,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/proinvest-design-comp-srl",
+                        "name": "PROINVEST DESIGN COMP SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "COM. BASCOV, SAT BASCOV, STR. MIERLUŞEŞTI NR. 13, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.896587,
+                            "longitude": 24.843839
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG146"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 70,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/publitrans-2000-sa",
+                        "name": "Publitrans 2000",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 2, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG005"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 71,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ramycom-service",
+                        "name": "Ramycom Service",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Fratii Golesti Nr. 34 Bis, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.277549,
+                            "longitude": 25.051624
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG053R"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 72,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ramycom-service-srl",
+                        "name": "RAMYCOM SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "CAMPULUNG, STR. FRATII GOLESTI NR. 34 BIS, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.95462,
+                            "longitude": 24.934395
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG053"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 73,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/restart-multimarca-srl",
+                        "name": "Restart Multimarca Stație ITP",
+                        "image": "https://itpgo.ro1fce9047-7a22-4e58-aa64-dca52d10da68/1fce9047-7a22-4e58-aa64-dca52d10da68.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "NR. 105 B, MUSTATESTI, VALEA IASULUI, JUD. ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.167137,
+                            "longitude": 24.675068
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG126"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 74,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/royal-motors-srl",
+                        "name": "ROYAL MOTORS SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "BRADU, DN 65B, KM 5+315 NR. -, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.779903,
+                            "longitude": 24.896214
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG045"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 75,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sapte-din-sapte-srl",
+                        "name": "Sapte Din Sapte",
+                        "image": "https://itpgo.ro23a33b63-a5fb-432d-bd1a-776d5e866a8d/23a33b63-a5fb-432d-bd1a-776d5e866a8d.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. 1 Mai, Cartier Confectii\"centrala Termica Si Depozit Nr. -, Curtea de Arges"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.957675,
+                            "longitude": 24.943108
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG089"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 76,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-auto-global-solution-srl",
+                        "name": "Auto Global Solution",
+                        "image": "https://itpgo.ro14eb8fa4-9a5d-4825-a95a-aab71bb5f195/14eb8fa4-9a5d-4825-a95a-aab71bb5f195.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Alexandriei Nr. 21a, Costesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.661937,
+                            "longitude": 24.882103
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG105"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 77,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-dma-itp-srl",
+                        "name": "SC DMA ITP SRL",
+                        "image": "https://itpgo.ro6c9976df-6232-8415-8234-c41888831b10/a78d5859-9b87-419b-91fb-c97fad4b5cf9.jpeg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "TOPOLOVENI, CALEA BUCURESTI nr. 17, jud. ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.8131829,
+                            "longitude": 25.072364
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG149"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 78,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-gt-re-auto-service-srl",
+                        "name": "SC GT RE AUTO SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "PITEŞTI, STR. DEPOZITELOR NR. 38, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.879596,
+                            "longitude": 24.850292
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG115"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 79,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/servcar-safe-autotruck-srl",
+                        "name": "SERVCAR SAFE AUTOTRUCK SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "str. DINICU GOLESCU nr. 107, MIOVENI"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.690529,
+                            "longitude": 27.178635
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG044"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 80,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/service-oprescu-4-you-srl",
+                        "name": "SERVICE OPRESCU 4 YOU SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT MICESTI, COMUNA MICESTI, NR.74C, HALA1, JUDET ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.696545,
+                            "longitude": 23.577525
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG135"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 81,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/servicii-edilitare-pentru-comunitate-mioveni-srl",
+                        "name": "SERVICII EDILITARE PENTRU COMUNITATE MIOVENI SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "MIOVENI, B-DUL DACIA, CARTIER COLIBAŞI, PUNCTUL \"LA CIMITIR\" NR. FN, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.951104,
+                            "longitude": 24.926577
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG092"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 82,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sigma-sa",
+                        "name": "Sigma",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "B-dul. Ion Mihalache Nr. 46, Campulung"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.264259,
+                            "longitude": 25.044754
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG013"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 83,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/suavcram-srl",
+                        "name": "SUAVCRAM SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "BULEVARDUL DACIA NR. 245, MIOVENI, JUD. ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.9519,
+                            "longitude": 24.927995
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG069"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 84,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tacho-test-mrt-srl",
+                        "name": "Tacho Test Mrt",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor, Hala Nr. 2 Nr. Fn, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG093"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 85,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/taholim-new-lre-srl",
+                        "name": "SC TAHOLIM NEW LRE SRL",
+                        "image": "https://itpgo.rocfad5bc8-9a2d-46ab-b7e6-1952cec19608/cfad5bc8-9a2d-46ab-b7e6-1952cec19608.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT BASCOV, COMUNA BASCOV, STR.ROTĂREŞTI DN NR. 60B, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.888508,
+                            "longitude": 24.803184
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG124"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 86,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tara-sa",
+                        "name": "Tara",
+                        "image": "https://itpgo.ro26374a8c-d4f4-48c9-a16c-88ccc05366dd/26374a8c-d4f4-48c9-a16c-88ccc05366dd.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Darzul Nr. 4, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.772189,
+                            "longitude": 23.601085
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG010"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 87,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/teomat-itp-srl",
+                        "name": "TEOMAT ITP SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT BASCOV, COMUNA BASCOV, STR.PAISESTI DN, NR.18D, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.549909,
+                            "longitude": 24.574314
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG095"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 88,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tiriac-auto-srl",
+                        "name": "TIRIAC AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "ALBOTA NR. 2, ALBOTA, JUD. ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.783993,
+                            "longitude": 24.851505
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG068"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 89,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/top-activ-brokeraj-srl",
+                        "name": "Top Activ Brokeraj",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Str. Depozitelor Nr. 8-10, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.876359,
+                            "longitude": 24.856999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG131"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 90,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/truck-diesel-service-srl",
+                        "name": "TRUCK DIESEL SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT GEAMANA, COMUNA BRADU, STRADA CET-ULUI, NR.63, BIROU 1, JUDETUL ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.819482,
+                            "longitude": 24.889721
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG067"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 91,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tvl-top-concept-srl",
+                        "name": "ITP Micesti",
+                        "image": "https://itpgo.ro74ca7865-10f3-4a94-92f0-1e61de0dbaf3/74ca7865-10f3-4a94-92f0-1e61de0dbaf3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT MICESTI, COMUNA MICESTI, NR.115, JUDET ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.696545,
+                            "longitude": 23.577525
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG114"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 92,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ungureanu-graziela-persoana-fizica-autorizata",
+                        "name": "Statie ITP Leresti",
+                        "image": "https://itpgo.ro5873ec46-565b-4b4b-9990-b8836c282491/5873ec46-565b-4b4b-9990-b8836c282491.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "STR. ȚARINĂ NR. 131, LERESTI, JUD. ARGES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.3209,
+                            "longitude": 25.075924
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG112"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 93,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/vector-truck-management-srl",
+                        "name": "ITP TAHOGRAF VECTOR TRUCK PITESTI",
+                        "image": "https://itpgo.rob51f1512-7416-4f4b-be1d-430cd2abbb7f/b51f1512-7416-4f4b-be1d-430cd2abbb7f.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "SAT ALBOTA, COM. ALBOTA, - NR. 793 D, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.783993,
+                            "longitude": 24.851505
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG057"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 94,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/verificare-auto-srl",
+                        "name": "Verificare Auto",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Dn 65-b)km.4+412m), Corp A Nr. -, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.304167,
+                            "longitude": 23.597863
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG119"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 95,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/viator-vektor-ro-srl",
+                        "name": "VIATOR & VEKTOR RO SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "MIOVENI, STR. DINICU GOLESCU NR. 107, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.485957,
+                            "longitude": 25.25306
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG035"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 96,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/voli-car-total-srl",
+                        "name": "VOLI CAR TOTAL SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "ŞTEFĂNEŞTI, ŞOS. NAŢ. BUCUREŞTI-PITEŞTI, CONSTRUCŢIA C4 NR. 17, JUD. ARGEŞ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.805082,
+                            "longitude": 25.08957
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG088"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 97,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/wheels-spedition-srl",
+                        "name": "Wheels Spedition",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arges",
+                            "streetAddress": "Punctul Autostrada Nr. Km 3+721 M, Pitesti"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.772702,
+                            "longitude": 23.60058
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AG084"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "about": {
+            "@type": "Service",
+            "name": "Inspecție Tehnică Periodică Auto",
+            "areaServed": {
+                "@type": "AdministrativeArea",
+                "name": "Arges",
+                "alternateName": "AG"
+            }
+        }
+    }

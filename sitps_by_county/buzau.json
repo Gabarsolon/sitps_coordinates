@@ -1,0 +1,1439 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Buzau",
+    "description": "Stații ITP autorizate RAR din județul Buzau. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/buzau",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Buzau",
+                "item": "https://itpgo.ro/judet/buzau"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 50,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adiserv-srl",
+                    "name": "Adiserv",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "Str. Al. Ioan Cuza Nr. 79, Patarlagele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.31786,
+                        "longitude": 26.360368
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/agrotransport-buzau-sa",
+                    "name": "AGROTRANSPORT BUZAU SA",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "MUNICIPIUL BUZAU, STR.PINULUI, NR.7BIS, JUDET BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.397535,
+                        "longitude": 26.057103
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ027"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alemar-nichita-srl",
+                    "name": "ALEMAR NICHITA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "ȘOSEAUA BRAȘOVULUI NR. 188B,  BL.CAMERA 1, UNGURIU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.246425,
+                        "longitude": 26.707838
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ068"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/andra-si-taticutu-s-rl",
+                    "name": "ANDRA SI TATICUTU S RL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA MIHAI VITEAZU NR. 3,  BL.TARLAUA 16, PARCELELE 344-345, MAGURA, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.314686,
+                        "longitude": 26.36031
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ariondra-autotest-srl",
+                    "name": "ARIONDRA AUTOTEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT BASCENII DE SUS, BASCENII DE SUS, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.024876,
+                        "longitude": 25.416315
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ080"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-gan-tires-srl",
+                    "name": "AUTO GAN TIRES SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "MĂRĂCINENI, STR. EURO 85 NR. 63A, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.127405,
+                        "longitude": 25.109272
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automecanica-socom-societate-cooperativa",
+                    "name": "AUTOMECANICA SOCOM SOCIETATE COOPERATIVA",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "BUZĂU, BD. UNIRII NR. 4, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.139712,
+                        "longitude": 26.804052
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoravenna-motor-srl",
+                    "name": "AUTORAVENNA MOTOR SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STR. DNE 85, NR. 41, GURA CALNAULUI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.459615,
+                        "longitude": 26.856242
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-stop-service-srl",
+                    "name": "AUTO STOP SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT PIETROASELE, COMUNA PIETROASELE, JUDEȚUL BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.159379,
+                        "longitude": 26.82029
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autotranzit-srl",
+                    "name": "ITP ALEX",
+                    "image": "https://itpgo.ro441856b0-8b95-4ede-a307-6f26134df1fe/441856b0-8b95-4ede-a307-6f26134df1fe.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "BUZĂU, ŞOS. SPĂTARU NR. 45, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.779295,
+                        "longitude": 24.705739
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ038"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/best-inspect-bcv-srl",
+                    "name": "Statie ITP",
+                    "image": "https://itpgo.ro5d353e89-2554-440d-a1e6-a42ea64a5da0/5d353e89-2554-440d-a1e6-a42ea64a5da0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA MESTEACĂNULUI NR. 12, BUZAU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.157419,
+                        "longitude": 26.827667
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/best-mechanics-garage-srl",
+                    "name": "BEST MECHANICS GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SOSEAUA SPATARULUI NR. 21, BUZAU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.127974,
+                        "longitude": 26.81084
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/brianna-flory-srl",
+                    "name": "Brianna & Flory",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "B-dul. Balta Alba Nr. 25, Ramnicu Sarat"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.375707,
+                        "longitude": 27.060103
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cmi-star-itp-srl",
+                    "name": "CMI STAR ITP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SOS. BUCURESTI, NR.1A, MUN. BUZAU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.083531,
+                        "longitude": 26.77668
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ092"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/david-motor-srl",
+                    "name": "ITP BUZAU & Service by DM",
+                    "image": "https://itpgo.roc0d6ea96-b116-4142-8212-1e973b8ec13c/c0d6ea96-b116-4142-8212-1e973b8ec13c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA TRANSILVANIEI NR. 237, BUZAU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.161339,
+                        "longitude": 26.795112
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/donoserv-junkyard-srl",
+                    "name": "DONOSERV JUNKYARD SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA PRIMĂVERII NR. 7-9, OREAVUL, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.157184,
+                        "longitude": 26.843935
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/doridoc-itp-auto-srl",
+                    "name": "Doridoc Itp Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "Str. Nicolae Balcescu Nr. 2 B, Pogoanele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.916877,
+                        "longitude": 26.990751
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/elcar-gid-srl",
+                    "name": "ELCAR GID SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "BUZĂU, STR. TRANSILVANIEI NR. 510, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.174287,
+                        "longitude": 26.774699
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/emania-wedding-ballroom-srl",
+                    "name": "EMANIA WEDDING BALLROOM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT CERNATESTI, COM. CERNATESTI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.770409,
+                        "longitude": 23.552961
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/emiva-serv-srl",
+                    "name": "EMIVA SERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "CVARTAL 18 C2-ANEXA, C3-ANEXA NR. P.690, OREAVUL, VALEA RAMNICULUI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.380602,
+                        "longitude": 27.029944
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/general-autocom-srl",
+                    "name": "GENERAL AUTOCOM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "COM. MĂRĂCINENI, SAT MĂRĂCINENI, EURO 85 NR. 160, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.614951,
+                        "longitude": 28.1333
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ012"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/grama-total-divers",
+                    "name": "GRAMA TOTAL DIVERS",
+                    "image": "https://itpgo.roc25ecb4b-1bfc-498f-a83d-1dca0b0e633d/db7cb8aa-dfab-4d7e-a30c-e5d94117e07a.jpeg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT SATUC, COM.BERCA, STR. 1 DECEMBRIE, NR.86 B, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.919465,
+                        "longitude": 27.006608
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gvg-auto-inspect-srl",
+                    "name": "GVG AUTO INSPECT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT SMEENI, STR. AGRICULTURII, NR.2, COM. SMEENI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.145171,
+                        "longitude": 26.833486
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gwr-cav-2020-4-ever-srl",
+                    "name": "GWR & CAV 2020 4 EVER SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT PODGORIA, COM. PODGORIA, - NR. 312 B, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.418385,
+                        "longitude": 27.029593
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ088"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ilie-auto-test-srl",
+                    "name": "ILIE AUTO TEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "DN2 KM 112+625 ITP, BUZAU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.160917,
+                        "longitude": 26.78671
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ089"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/instant-auto-itp-srl",
+                    "name": "INSTANT AUTO ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA EURO 85, SAT MARACINENI, COM. MARACINENI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.127405,
+                        "longitude": 25.109272
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ085"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-alexandra-si-antonia-srl",
+                    "name": "ITP ALEXANDRA SI ANTONIA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA PALTINEANU NR. 7, PALTINENI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.393198,
+                        "longitude": 26.319698
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iulia-trans-srl",
+                    "name": "ITP La Maruntis",
+                    "image": "https://itpgo.roa2da60b5-30e0-4d0e-b428-5e60a2301173/a2da60b5-30e0-4d0e-b428-5e60a2301173.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA TRANSILVANIEI NR. 330, BUZAU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.162446,
+                        "longitude": 26.791234
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/kdb-auto-test-srl",
+                    "name": "KDB AUTO TEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT CHIRLESTI, CALEA ARDEALULUI, NR.37A, ORAS NEHOIU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.161817,
+                        "longitude": 26.813392
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ090"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/la-purice-auto-itp-srl",
+                    "name": "LA PURICE AUTO ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "MĂRĂCINENI, STR. EURO 85 NR. 92-94, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.127405,
+                        "longitude": 25.109272
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ091"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/luc-auto-inspectie-tehnica-srl",
+                    "name": "Luc Auto Inspectie Tehnica",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "Str. Podgoriei Nr. 1, Ramnicu Sarat"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.393399,
+                        "longitude": 27.044815
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/marina-ursu-srl",
+                    "name": "I.T.P. Costesti Buzau Marina & Ursu Radulescu",
+                    "image": "https://itpgo.ro4dd1d8fc-1b09-4cc3-9d37-d8e590f63070/4dd1d8fc-1b09-4cc3-9d37-d8e590f63070.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT COSTEŞTI, COM. COSTEŞTI, - NR. -, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.506644,
+                        "longitude": 26.01581
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mondo-confex-srl",
+                    "name": "MONDO CONFEX SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "BUZĂU, ŞOS. NORDULUI NR. 7, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.160917,
+                        "longitude": 26.78671
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nc-total-itp-srl",
+                    "name": "N&c Total Itp",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "Str. Dunarii Nr. 34, Ramnicu Sarat"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.401416,
+                        "longitude": 27.04766
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nedelcu-i-nicolae-intreprindere-individuala",
+                    "name": "NEDELCU I. NICOLAE INTREPRINDERE INDIVIDUALA",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STR. PALTINEANU, NR.7, SAT PALTINENI, ORAS NEHOIU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.393198,
+                        "longitude": 26.319698
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ093"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pirvu-cosmin-razvan-persoana-fizica-autorizata",
+                    "name": "PIRVU COSMIN-RAZVAN PERSOANA FIZICA AUTORIZATA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT NIŞCOV, COM. VERNEŞTI, NR.24, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.770409,
+                        "longitude": 23.552961
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/plescoy-service-srl",
+                    "name": "PLESCOY SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "SAT PLESCOI, COM BERCA, STR. PADURII NR. 179, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.402472,
+                        "longitude": 26.752239
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/power-sports-europe-srl",
+                    "name": "POWER SPORTS EUROPE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STR. PRINCIPALA NR.132A, LOT 2 (TEREN 615MP), ZARNESTII DE SLANIC, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.19595,
+                        "longitude": 26.603238
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ086"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/premium-trucks-srl",
+                    "name": "PREMIUM TRUCKS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "COM. VADU PAŞII, SAT GURA CÂLNĂULUI, STR. PRINCIPALĂ NR. 2A, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.19595,
+                        "longitude": 26.603238
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ074"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rimni-car-services-srl",
+                    "name": "RIMNI CAR SERVICES SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "BUZĂU, STR. HORTICOLEI, CAM. 2 NR. 60, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.147063,
+                        "longitude": 26.850022
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ065"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-prompt-test-valrom-srl",
+                    "name": "SC PROMPT TEST VALROM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "COM. BERCA, SAT JOSENI, Str. Girlei nr. 337, jud. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.213139,
+                        "longitude": 26.643796
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sdm-tehnic-work-srl",
+                    "name": "SDM TEHNIC WORK SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STR. MICA, NR.9, SAT GALBINASI, COM. GALBINASI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.144459,
+                        "longitude": 26.837243
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/servcom-pana-srl",
+                    "name": "Servcom Pana",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "Str. Balta Alba Nr. 25, Ramnicu Sarat"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.375707,
+                        "longitude": 27.060103
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/surubel-moto-garage-srl",
+                    "name": "SURUBEL MOTO GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "BUZĂU, ŞOS. BUCUREŞTI NR. 1A, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.153008,
+                        "longitude": 26.820683
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ076"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tahoserv-fast-development-srl",
+                    "name": "Tahoserv Fast Development",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "Str. Parcului Nr. 28, Ramnicu Sarat"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.147335,
+                        "longitude": 26.639142
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ083"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/topicar-srl",
+                    "name": "Stație ITP SC TOPICAR S.R.L.",
+                    "image": "https://itpgo.ro5e69b3df-af5e-4552-a694-5ecfd716d415/5e69b3df-af5e-4552-a694-5ecfd716d415.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "BUZĂU, ALEEA SPORTURILOR, TARLAUA 33 NR. CAD. 59627, JUD. BUZĂU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.158302,
+                        "longitude": 26.826095
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trans-bus-sa",
+                    "name": "TRANS BUS SA",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "ȘOS. CONSTANȚEI, NR. 10 NR. 10, BUZĂU, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.153008,
+                        "longitude": 26.820683
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tudorauto-test-srl",
+                    "name": "Statie ITP Tudorauto Brosteni",
+                    "image": "https://itpgo.ro052d0d90-87c1-403a-b1c6-3474297b45c0/052d0d90-87c1-403a-b1c6-3474297b45c0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA SPORTURILOR, NR. 35A, JUD.BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.155281,
+                        "longitude": 26.834336
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vali-mond-agrement-srl",
+                    "name": "VALI MOND AGREMENT SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA DEALUL VIEI NR. TARLAUA 125, PARCELA 2986/1, DEALU VIEI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.09785,
+                        "longitude": 26.591665
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/valmi-cars-express-srl",
+                    "name": "VALMI CARS EXPRESS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Buzau",
+                        "streetAddress": "STRADA EURO 85 ,NR. 82-94, SAT MARACINENI, COMUNA MARACINENI, JUD. BUZAU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.710344,
+                        "longitude": 26.65221
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BZ058"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Buzau",
+            "alternateName": "BZ"
+        }
+    }
+}

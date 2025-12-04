@@ -1,0 +1,2083 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Mures",
+    "description": "Stații ITP autorizate RAR din județul Mures. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/mures",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Mures",
+                "item": "https://itpgo.ro/judet/mures"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 73,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adifeier-srl",
+                    "name": "Adifeier",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "B-dul. Unirii Nr. 64, Reghin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.780771,
+                        "longitude": 24.70794
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/altimec-serv-srl",
+                    "name": "ALTIMEC SERV SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "MUN. TÂRNĂVENI, STR. RAMPEI NR. 16, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.520765,
+                        "longitude": 24.526206
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS125"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amacif-srl",
+                    "name": "AMACIF SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "PRINCIPALA NR. 490, BOGATA, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.200001,
+                        "longitude": 24.963212
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS123"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ar-servicii-auto-asigurari-srl",
+                    "name": "A&R SERVICII AUTO & ASIGURARI SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SAT GĂNEŞTI, COM. GANESTI STR. PRINCIPALĂ NR. 637, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.202654,
+                        "longitude": 24.963815
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS092"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automotive-systems-srl",
+                    "name": "ITP ROUTE 60",
+                    "image": "https://itpgo.ro2c1d1063-c5ee-4527-851a-85cfd846b1b9/2c1d1063-c5ee-4527-851a-85cfd846b1b9.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SAT CORUNCA, COM. CORUNCA, - NR. 385, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.512118,
+                        "longitude": 24.612565
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS111"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-press-sighisoara-srl",
+                    "name": "AUTO PRESS SIGHISOARA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SIGHIŞOARA, STR. MIHAI VITEAZUL NR. 119/A, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.551863,
+                        "longitude": 24.574398
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoprof-srl",
+                    "name": "Autoprof",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. 8 Martie Nr. 40, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.514579,
+                        "longitude": 24.524673
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS114"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cambus-sa",
+                    "name": "CAMBUS SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "STRADA LIBERTĂȚII NR 53, SIGHISOARA, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.22587,
+                        "longitude": 24.797846
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS121"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/catzil-srl",
+                    "name": "CATZIL SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "COM. CORUNCA, SAT CORUNCA NR. 410, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.512118,
+                        "longitude": 24.612565
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/centru-instruire-fomco",
+                    "name": "CENTRU INSTRUIRE FOMCO",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "str. PRINCIPALA nr. 801E, CRISTESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.500997,
+                        "longitude": 24.539878
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS997"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/chill-the-engine-srl",
+                    "name": "CHILL THE ENGINE S.R.L",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "STRADA VIILOR NR. 2,  BL.2, SIGHISOARA, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.229752,
+                        "longitude": 24.804498
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS120"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ctr-service-srl",
+                    "name": "C.t.r. Service",
+                    "image": "https://itpgo.ro83373ad5-ef49-46d6-8a2f-feb20f8eec15/83373ad5-ef49-46d6-8a2f-feb20f8eec15.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Libertatii Nr. 145, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.530591,
+                        "longitude": 24.530443
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dodi-bea-details-srl",
+                    "name": "DODI & BEA DETAILS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SAT ALBEŞTI, STR. FLORILOR NR. 13, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.554861,
+                        "longitude": 24.53085
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dorrad-srl",
+                    "name": "Dorrad",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Marasesti Nr. 12, Ludus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.483702,
+                        "longitude": 24.100734
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS112"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ducautomar-srl",
+                    "name": "DUCAUTOMAR SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "STRADA NATIONALA, CLĂDIREA NR. 66 A, ALBESTI, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.234289,
+                        "longitude": 26.871324
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS122"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/energovert-prod-com-srl",
+                    "name": "ENERGOVERT PROD COM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "NR. 563F, CRISTESTI, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.328021,
+                        "longitude": 24.647213
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS118"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euromaster-group-srl",
+                    "name": "EUROMASTER GROUP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "STEJERIS, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929677,
+                        "longitude": 26.001096
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS117"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euromotor-daso-srl",
+                    "name": "Euromotor Daso",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Armatei Nr. 1, Tarnaveni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.319106,
+                        "longitude": 24.296512
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/fomco-truck-service-srl",
+                    "name": "FOMCO TRUCK SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "str. PRINCIPALA nr. 801E, SAT CRISTESTI COMUNA CRISTESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.500997,
+                        "longitude": 24.539878
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gumirex-srl",
+                    "name": "Gumirex",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Liliacului Nr. 13, Miercurea Nirajului"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.533756,
+                        "longitude": 24.803921
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hispano-auto-serv-srl",
+                    "name": "Hispano Auto Serv",
+                    "image": "https://itpgo.ro6bdd2a03-269f-4445-8d2b-3c4c6c72b814/6bdd2a03-269f-4445-8d2b-3c4c6c72b814.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Mureseni Nr. 47, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.51819,
+                        "longitude": 24.505719
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS116"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/international-transport-auto-sa",
+                    "name": "International Transport Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Libertatii Nr. 120, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.535301,
+                        "longitude": 24.53649
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/karincon-srl",
+                    "name": "KARINCON SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "STRADA SUCEAVA, CLĂDIREA NR. 41, TARGU MURES, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.531436,
+                        "longitude": 24.560563
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS124"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/leus-exclusive-srl",
+                    "name": "Leus Exclusive",
+                    "image": "https://itpgo.roa0e89936-a5ad-4ce8-a0bb-34554fc0e385/a0e89936-a5ad-4ce8-a0bb-34554fc0e385.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Voinicenilor Nr. 110, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.568477,
+                        "longitude": 24.547616
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS068"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/maris-industrial-srl",
+                    "name": "Maris Industrial",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Principala Nr. 465, Ungheni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.493062,
+                        "longitude": 24.473258
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/materom-srl",
+                    "name": "MATEROM SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "COM. CRISTEŞTI, STR. VIILOR NR. 800, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.505325,
+                        "longitude": 24.501087
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS126"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/metalul-societate-cooperativa-mestesugareasca-targu-mures",
+                    "name": "Metalul Societate Cooperativa Mestesugareasca Targu Mures",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Gheorghe Doja Nr. 274, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.531563,
+                        "longitude": 24.550091
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mondo-cars-4-you-srl",
+                    "name": "MONDO CARS 4 YOU SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "CALEA SIGHIȘOAREI NR. 146, CORUNCA, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.530633,
+                        "longitude": 24.593201
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS113"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/monocassion-srl",
+                    "name": "Monocassion",
+                    "image": "https://itpgo.ro2c6c195a-0598-4ba9-ab61-e725ab092e5d/2c6c195a-0598-4ba9-ab61-e725ab092e5d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Libertatii Nr. 110, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.538932,
+                        "longitude": 24.542355
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS106"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ms-auto-check-srl",
+                    "name": "M&S AUTO CHECK SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "COM. CEAUŞU DE CÂMPIE, SAT CÂMPENIŢA NR. 255/C, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.203907,
+                        "longitude": 24.292041
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mures-auto-itp-srl",
+                    "name": "ITP CRISTESTI 806",
+                    "image": "https://itpgo.ro21e83105-755f-4fd9-8e94-c529d6a074f4/21e83105-755f-4fd9-8e94-c529d6a074f4.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "PRINCIPALA NR. 806, CRISTESTI, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.496874,
+                        "longitude": 24.480982
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS115"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mures-auto-shop-srl",
+                    "name": "MURES AUTO SHOP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "PRINCIPALĂ NR. 806/A, CRISTESTI, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.496874,
+                        "longitude": 24.480982
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS119"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/novaservice-srl",
+                    "name": "Novaservice",
+                    "image": "https://itpgo.ro915c02ed-3c9a-46d3-a8e9-92a12c729abd/915c02ed-3c9a-46d3-a8e9-92a12c729abd.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Livezenii Nr. 6/a, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.534732,
+                        "longitude": 24.594779
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rapil-expert-service-srl",
+                    "name": "RAPIL EXPERT SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "STRADA PRINCIPALĂ,  BL.563/C, CRISTESTI, JUD. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.500997,
+                        "longitude": 24.539878
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS104"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ravasz-auto-truck-srl",
+                    "name": "RAVASZ AUTO & TRUCK SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "FÂNTÂNELE, STR. PRINCIPALĂ NR. 126 B, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.23982,
+                        "longitude": 24.935982
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/santa-service-srl",
+                    "name": "SANTA SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SIGHIŞOARA, STR. ŞTEFAN CEL MARE NR. 14, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.540204,
+                        "longitude": 24.566572
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-aliat-ams-srl",
+                    "name": "SC ALIAT AMS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "COM. CORUNCA, SAT CORUNCA, CALEA SIGHISOAREI nr. 21, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.532657,
+                        "longitude": 24.569258
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-alinadiana-team-srl",
+                    "name": "Alinadiana Team",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Mihai Eminescu Nr. 82, Ludus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.709056,
+                        "longitude": 27.251075
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-art-impres-srl",
+                    "name": "Art Impres",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Praidului Nr. 141/b, Sovata"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.578708,
+                        "longitude": 25.068312
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS078"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-body-clinic-srl",
+                    "name": "Auto Body Clinic",
+                    "image": "https://itpgo.ro1681fd9a-ee79-4d81-8401-e6ce35509654/1681fd9a-ee79-4d81-8401-e6ce35509654.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Pandurilor Nr. 108/a, Reghin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.790481,
+                        "longitude": 24.71349
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS086"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-autocomplet-service-srl",
+                    "name": "Autocomplet Service",
+                    "image": "https://itpgo.ro172c3650-9e36-4bbf-b5d4-b92d9a0f509a/172c3650-9e36-4bbf-b5d4-b92d9a0f509a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. P. Chinezu Nr. 10, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.136212,
+                        "longitude": 25.750976
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-oil-top-srl",
+                    "name": "Auto Oil Top",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Foisor Nr. 20, Reghin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.771443,
+                        "longitude": 24.694947
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-autoprestovi-srl",
+                    "name": "Autoprestovi",
+                    "image": "https://itpgo.rocf9f74be-dfe4-4e32-a1f7-b1f6935f5289/cf9f74be-dfe4-4e32-a1f7-b1f6935f5289.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Carpati Nr. 32 A, Reghin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.774187,
+                        "longitude": 24.722743
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS085"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-dantei-allserv-srl",
+                    "name": "SC DANTEI ALLSERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "IERNUT, Str. Energeticii nr. 1A, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.051662,
+                        "longitude": 24.714205
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-dasira-turism-srl",
+                    "name": "Dasira Turism",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Principala Nr. 260/b, Ungheni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.489204,
+                        "longitude": 24.465458
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS098"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-euro-car-trading-srl",
+                    "name": "SC EURO-CAR TRADING SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SAT CORUNCA, COM. CORUNCA, SOS. SIGHISOAREI nr. 398, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.512118,
+                        "longitude": 24.612565
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-eve-alice-mures-srl",
+                    "name": "Eve Alice Mures",
+                    "image": "https://itpgo.ro68352f51-622e-442e-a13b-7dc83b11314a/68352f51-622e-442e-a13b-7dc83b11314a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Barajului Nr. 9, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.542592,
+                        "longitude": 24.534675
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS080"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-fantesy-srl",
+                    "name": "SC FANTESY SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "LOC. SARMASU, ORAS SARMASU, SONDELOR nr. 22, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929849,
+                        "longitude": 26.002862
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-fomco-truck-service-srl",
+                    "name": "SC FOMCO TRUCK SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SAT CRISTESTI, COM. CRISTESTI, STR. PRINCIPALA nr. 801  E, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.203441,
+                        "longitude": 24.964436
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS076"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-grpb-itp-srl",
+                    "name": "Grpb Itp",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Praidului Nr. 113a, Sovata"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.578708,
+                        "longitude": 25.068312
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS099"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ingricop-srl",
+                    "name": "Ingricop",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Gheorghe Doja Nr. 194/a, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.52166,
+                        "longitude": 24.529869
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-meteora-service-srl",
+                    "name": "Meteora Service",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Armatei Nr. 32/a, Tarnaveni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.318037,
+                        "longitude": 24.296754
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-moldoserv-test-itp-srl",
+                    "name": "SC MOLDOSERV TEST ITP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "COM. RUSII-MUNTI, SAT MORARENI nr. 95, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929677,
+                        "longitude": 26.001096
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS101"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-nati-com-srl",
+                    "name": "SC NATI COM SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SIGHISOARA, Str. Mihai Viteazu nr. 2A, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.777543,
+                        "longitude": 24.69984
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-oni-technical-performance-srl",
+                    "name": "Oni Technical Performance",
+                    "image": "https://itpgo.ro59eb5177-2da6-47a8-af0a-ee1dd5bc5edf/59eb5177-2da6-47a8-af0a-ee1dd5bc5edf.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Podeni, Corpul B Nr. 13, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.555028,
+                        "longitude": 24.54357
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS083"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-rh-auto-srl",
+                    "name": "SC RH AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "ERNEI, Str. Principala nr. 587/A, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.202359,
+                        "longitude": 24.963729
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-semis-srl",
+                    "name": "SC SEMIS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SANCRAIU DE MURES, Str. Salciilor nr. 36, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.544984,
+                        "longitude": 24.531284
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS065"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-servicii-tehnice-comunale-sa",
+                    "name": "Servicii Tehnice Comunale",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Praidului Nr. 108b, Sovata"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.578708,
+                        "longitude": 25.068312
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-shl-srl",
+                    "name": "Shl",
+                    "image": "https://itpgo.ro8633f255-c2c5-4c03-a6ae-efa3f91b1d51/8633f255-c2c5-4c03-a6ae-efa3f91b1d51.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Livezeni Nr. 2, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.533507,
+                        "longitude": 24.590112
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS077"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-simex-dez-serv-srl",
+                    "name": "Simex Dez Serv",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Semanatorilor Nr. 32, Miercurea Nirajului"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.860107,
+                        "longitude": 27.913828
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS100"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-tram-srl",
+                    "name": "Tram",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Livezilor Nr. 2, Reghin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.771788,
+                        "longitude": 24.700915
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-versat-srl",
+                    "name": "ITP",
+                    "image": "https://itpgo.rodca2e4d3-4b20-4f69-8817-d39233ad4ea2/dca2e4d3-4b20-4f69-8817-d39233ad4ea2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SANGEORGIU DE MURES, STR. BAILOR nr. 1111, jud. MURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.582992,
+                        "longitude": 24.610993
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-auto-naut-srl",
+                    "name": "SERVICE AUTO NAUT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SAT ALBEŞTI, STR. NAŢIONALĂ NR. 66A, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.234289,
+                        "longitude": 26.871324
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS088"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/societatea-nationala-de-gaze-naturale-romgaz-sa",
+                    "name": "SOCIETATEA NATIONALA DE GAZE NATURALE \"ROMGAZ\" SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SÎNCRAIU DE MUREŞ, STR. SALCIILOR NR. 20, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.54549,
+                        "longitude": 24.548882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS072"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/societate-cooperativa-mestesugareasca-tirnaveanca",
+                    "name": "Societate Cooperativa Mestesugareasca Tirnaveanca",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Rampei Nr. 3, Tarnaveni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.332968,
+                        "longitude": 24.308168
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sovas-auto-19-srl",
+                    "name": "SO&VAS AUTO 19 SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "COM. SOLOVĂSTRU, SAT SOLOVĂSTRU NR. 718, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929677,
+                        "longitude": 26.001096
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS107"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sysmolluk-srl",
+                    "name": "SYSMOL&LUK SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SAT LIVEZENI, STR. LUNGĂ NR. 30A, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.238411,
+                        "longitude": 24.850309
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 68,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tehnoauto-david-srl",
+                    "name": "TEHNOAUTO DAVID SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "SIGHIŞOARA, CARTIERUL VENCHI NR. 25, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929677,
+                        "longitude": 26.001096
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 69,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transilvania-lidercon-ro-srl",
+                    "name": "ITP Transilvania Lidercon Corunca",
+                    "image": "https://itpgo.ro796eaa42-063a-4ddd-8531-2c34a624620c/796eaa42-063a-4ddd-8531-2c34a624620c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "COM. CORUNCA, SAT CORUNCA NR. 377/6, JUD. MUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.512118,
+                        "longitude": 24.612565
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS091"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 70,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transport-local-sa",
+                    "name": "Transport Local",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Bega Nr. 2, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.523046,
+                        "longitude": 24.543328
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS095"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 71,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trif-vlad-mihai-intreprindere-individuala",
+                    "name": "Trif Vlad Mihai Intreprindere Individuala",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Cimpului Nr. 3, Ludus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.2344,
+                        "longitude": 26.502496
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS105"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 72,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/wagen-gec-srl",
+                    "name": "Wagen Gec",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Armatei Nr. 196, Tarnaveni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.319106,
+                        "longitude": 24.296512
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS110"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 73,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/xpol-focus-line-srl",
+                    "name": "Xpol Focus Line",
+                    "image": "https://itpgo.ro3de22edb-804d-4bda-8e10-046c82d271bc/3de22edb-804d-4bda-8e10-046c82d271bc.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mures",
+                        "streetAddress": "Str. Barajului Nr. 15, Targu Mures"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.540844,
+                        "longitude": 24.535978
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MS108"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Mures",
+            "alternateName": "MS"
+        }
+    }
+}

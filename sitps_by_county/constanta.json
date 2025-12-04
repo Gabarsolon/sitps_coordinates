@@ -1,0 +1,3142 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Constanta",
+    "description": "Stații ITP autorizate RAR din județul Constanta. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/constanta",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Constanta",
+                "item": "https://itpgo.ro/judet/constanta"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 111,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/air-truck-serv-srl",
+                    "name": "Air Truck Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Industriala, Cladirea C12 Nr. 9, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.159121,
+                        "longitude": 28.589129
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT159"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alcorex-auto-service-srl",
+                    "name": "Alcorex Auto Service",
+                    "image": "https://itpgo.roa30b797f-ada6-40eb-b462-7caf20e6df96/a30b797f-ada6-40eb-b462-7caf20e6df96.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Aurel Vlaicu Nr. 144, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.18736,
+                        "longitude": 28.60073
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT174"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alcorex-building-srl",
+                    "name": "Alcorex Building",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Aurel Vlaicu Nr. 144, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.18736,
+                        "longitude": 28.60073
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT116"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alemar-expert-auto-srl",
+                    "name": "Alemar Expert Auto",
+                    "image": "https://itpgo.ro0a36812f-eb18-4a98-b580-56eab34c8126/0a36812f-eb18-4a98-b580-56eab34c8126.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Interioara 3 Nr. -, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.178513,
+                        "longitude": 28.601777
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT157"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alex-diagnosis-srl",
+                    "name": "Alex Diagnosis",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Interioara Nr. 3, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.178513,
+                        "longitude": 28.601777
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT131"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alexmar-business-srl",
+                    "name": "ALEXMAR BUSINESS S.R.L.",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STR. RĂSĂRITULUI NR. 4, TARIVERDE, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.19238,
+                        "longitude": 28.631273
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT153"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alliance-auto-development-srl",
+                    "name": "Alliance Auto Development",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Mangaliei, C1, C2, C3, C4, C5 Nr. 74, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.089091,
+                        "longitude": 28.611693
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT095"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/anaconda-prod-construct-srl",
+                    "name": "Anaconda Prod Construct",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. I.c.bratianu, Hala 47 B Nr. 45, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.166928,
+                        "longitude": 21.306075
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/asaroo-wan-partener-srl",
+                    "name": "ASAROO WAN PARTENER S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STR. ATELIERULUI NR. 1, SATU NOU, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.267447,
+                        "longitude": 28.217155
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT161"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/atd-smart-serv-srl",
+                    "name": "ATD SMART SERV SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "SAT AGIGEA, COM. AGIGEA, STR. GEORGE CALBOREANU, LOT 2 NR. 6, JUD. CONSTANŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.096476,
+                        "longitude": 28.608632
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT127"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-check-srl",
+                    "name": "Auto Check",
+                    "image": "https://itpgo.roca69b31a-63ad-4078-869f-db566fe78289/ca69b31a-63ad-4078-869f-db566fe78289.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Interioara 3, Linia 1 Si Cam 5 Nr. -, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.178513,
+                        "longitude": 28.601777
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT124"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-deltony-srl",
+                    "name": "AUTO DEL&TONY S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "CALEA DOBROGEI NR. 287, VALU LUI TRAIAN, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.164731,
+                        "longitude": 28.480802
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT171"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autodex-statie-itp-srl",
+                    "name": "Autodex Statie I.t.p.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Oborului, Incinta Cartech Consulting Srl, Parter, Atelier-statie Itp Nr. 46, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.174628,
+                        "longitude": 28.633866
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT155"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-haus-tudor-srl",
+                    "name": "Auto Haus Tudor",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Centura Dn 2a - Centura De Vest Nr. -, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.201938,
+                        "longitude": 28.624465
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoklass-center-ct-srl",
+                    "name": "Autoklass Center",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Aurel Vlaicu Nr. 133, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.205984,
+                        "longitude": 28.612657
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT076"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autolink-trans-europa-srl",
+                    "name": "Autolink Trans Europa",
+                    "image": "https://itpgo.ro40fc1de5-9d83-4370-afa9-8cb5d936441c/40fc1de5-9d83-4370-afa9-8cb5d936441c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Amurgului Nr. 33, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.1431,
+                        "longitude": 28.624108
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-mna-inspect-service-srl",
+                    "name": "AUTO MNA INSPECT SERVICE S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA NARCISELOR NR. 154, LUMINA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.28396,
+                        "longitude": 28.56502
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT163"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automotive-service-srl",
+                    "name": "Automotive Service",
+                    "image": "https://itpgo.rod6465fb9-0dc3-4dde-a90b-26c211afb705/d6465fb9-0dc3-4dde-a90b-26c211afb705.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Spiru Haret, Anexa 2 Nr. 2b, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.06604,
+                        "longitude": 28.624035
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT125"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-nord-societate-cooperativa-mestesugareasca",
+                    "name": "Auto Nord Societate Cooperativa Mestesugareasca",
+                    "image": "https://itpgo.roe6c9a46e-431e-411b-aaee-f7043c5048ff/e6c9a46e-431e-411b-aaee-f7043c5048ff.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Tomis Nr. 301, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.203432,
+                        "longitude": 28.62158
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoplaza-tehnical-inspections-srl",
+                    "name": "Autoplaza Tehnical Inspections",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Inului Nr. 22, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.17431,
+                        "longitude": 28.609157
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT092"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-prest-maxim-srl",
+                    "name": "AUTO PREST MAXIM SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA MIRCEA CEL BĂTRÂN NR. 15, CERNAVODA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.175927,
+                        "longitude": 28.656918
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autosel-cars-trucks-srl",
+                    "name": "Autosel Cars & Trucks",
+                    "image": "https://itpgo.ro89b410ff-52e4-473d-9d02-b4cd18283d28/89b410ff-52e4-473d-9d02-b4cd18283d28.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Verde (zona Depozite-halta Traian, Str. Interioara), C1 Nr. 29, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.034779,
+                        "longitude": 28.647373
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT129"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autosud-societate-cooperativa-mestesugareasca",
+                    "name": "Autosud Societate Cooperativa Mestesugareasca",
+                    "image": "https://itpgo.ro2f52f96d-98a1-4fea-a919-16ca8bc71e9b/2f52f96d-98a1-4fea-a919-16ca8bc71e9b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Mangaliei Nr. 80-82, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.089091,
+                        "longitude": 28.611693
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT011"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autosurvey-automotive-srl",
+                    "name": "Autosurvey Automotive",
+                    "image": "https://itpgo.ro45c7c534-9219-46d9-b2e2-f2f0c6124509/45c7c534-9219-46d9-b2e2-f2f0c6124509.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Aleea Murelor Nr. 3, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.200499,
+                        "longitude": 28.614729
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT176"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autotests-profesional",
+                    "name": "Autotests Profesional",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Aurel Vlaicu Nr. 186, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.177593,
+                        "longitude": 28.595781
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT133"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autotests-profesional-srl",
+                    "name": "Statie ITP 138",
+                    "image": "https://itpgo.rofa3ccb6f-56b5-4690-aa2a-f0263ce5f65d/fa3ccb6f-56b5-4690-aa2a-f0263ce5f65d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "BULEVARDUL I. C. BRĂTIANU NR. 250,  BL.C3, CONSTANTA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.168729,
+                        "longitude": 28.561867
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT182"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/avia-motors-ct-srl",
+                    "name": "Avia Motors",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Mangaliei Nr. 217, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.132216,
+                        "longitude": 28.619416
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT098"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bubu-auto-partener-srl",
+                    "name": "BUBU AUTO PARTENER SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "TARGUSOR NR. 1A, MIHAIL KOGALNICEANU, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.3807834,
+                        "longitude": 28.4618844
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT141"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/butics-srl",
+                    "name": "Butic's",
+                    "image": "https://itpgo.rofac51cac-375c-458e-83db-235064cb269a/fac51cac-375c-458e-83db-235064cb269a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Mamaia, C2 Hala Auto nr. 284, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.222367,
+                        "longitude": 28.629046
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/carspa-srl",
+                    "name": "Carspa",
+                    "image": "https://itpgo.ro6f714a75-00db-4376-8ecd-55ad4618c3b7/6f714a75-00db-4376-8ecd-55ad4618c3b7.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Constructie C14-magazie Spalatorie, B-dul Tomis Nr. 301, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.203432,
+                        "longitude": 28.62158
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT122"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cereserv-consulting-srl",
+                    "name": "Cereserv Consulting",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Celulozei Nr. 1f, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.164127,
+                        "longitude": 28.590523
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT107"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/clever-motors-srl",
+                    "name": "Clever Motors",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Varful Cu Dor Nr. 6, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.15369,
+                        "longitude": 28.604942
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT162"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/corandre-autoserv-srl",
+                    "name": "Corandre Autoserv",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Interioara 4 Nr. 2, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.177755,
+                        "longitude": 28.598803
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cri-cris-itp-srl",
+                    "name": "Cri & Cris Itp",
+                    "image": "https://itpgo.roce545235-a076-490b-b6a0-cbd99ff66d29/ce545235-a076-490b-b6a0-cbd99ff66d29.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Nationala Nr. 182, Ovidiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.253435,
+                        "longitude": 28.563828
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT147"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ct-bus-sa",
+                    "name": "Ct Bus",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Industriala Nr. 8, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.306217,
+                        "longitude": 28.057003
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dan-invest-srl",
+                    "name": "Dan Invest",
+                    "image": "https://itpgo.ro74816668-92b0-4441-8a19-54f46e618d53/74816668-92b0-4441-8a19-54f46e618d53.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Mangaliei Nr. 191, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.142048,
+                        "longitude": 28.6232
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT105"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/delta-international-srl",
+                    "name": "Delta International",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Industriala Nr. 9, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.156818,
+                        "longitude": 28.583374
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT097"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dimauto-itp-srl",
+                    "name": "Pacuraru Viorel",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Medeea Nr. 47, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.164712,
+                        "longitude": 28.601977
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT089"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dinu-expedition-srl",
+                    "name": "Dinu Expedition",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Septimius Severus Nr. 11, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.165396,
+                        "longitude": 28.5642
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT140"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/drumuri-judetene-constanta-sa",
+                    "name": "Drumuri Judetene Constanta",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Celulozei Nr. 15a, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.164127,
+                        "longitude": 28.590523
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT005"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ecom-auto-global-srl",
+                    "name": "ECOM AUTO GLOBAL S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA E NR. 96B, OVIDIU, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.242628,
+                        "longitude": 28.574249
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT186"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ecopro-auto-srl",
+                    "name": "Ecopro Auto",
+                    "image": "https://itpgo.road15e1cb-de42-4326-a992-25aca4ea78df/ad15e1cb-de42-4326-a992-25aca4ea78df.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Parcela A 443/5/3, Lot 28, - Nr. -, Ovidiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.25035,
+                        "longitude": 28.134807
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT149"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euforbia-srl",
+                    "name": "EUFORBIA S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA DAN DEȘLIU NR. 4, CLĂDIREA NR. LOT 1, 23 AUGUST, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.922775,
+                        "longitude": 28.581354
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT100"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-auto-service-srl",
+                    "name": "Euro Auto Service",
+                    "image": "https://itpgo.ro75b507a2-017c-4b3f-a222-6bf94c11021d/75b507a2-017c-4b3f-a222-6bf94c11021d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Parcela A663/2/2/1/1, Hala Industriala Nr. -, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.370517,
+                        "longitude": 28.450798
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eurocriss-srl",
+                    "name": "Eurocriss",
+                    "image": "https://itpgo.rob7d5ccad-6244-426a-b9f3-bae9cb1b1b23/b7d5ccad-6244-426a-b9f3-bae9cb1b1b23.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Unirii Nr. 108, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.209502,
+                        "longitude": 28.646464
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT137"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/europarts-service-srl",
+                    "name": "Europarts Service",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Nerva Nr. 45, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.16741,
+                        "longitude": 28.558862
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT096"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/expocar-trade-srl",
+                    "name": "Expocar Trade",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Baba Novac Nr. 78, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.187702,
+                        "longitude": 28.613277
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/general-invest-service-srl",
+                    "name": "GENERAL INVEST SERVICE S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA SEIMENI NR. 79A, CERNAVODA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.341022,
+                        "longitude": 28.040459
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT178"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gerea-srl",
+                    "name": "Gerea",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Aurel Vlaicu Nr. Fn10, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.088884,
+                        "longitude": 28.617696
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT151"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ggg-auto-total-srl",
+                    "name": "G.g.g. Auto Total",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Theodor Burada Nr. 38 C, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.174696,
+                        "longitude": 28.632367
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT117"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ghibu-serv-srl",
+                    "name": "GHIBU SERV SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "SAT NICOLAE BĂLCESCU, COM. NICOLAE BĂLCESCU, STR. SF. VALENTIN NR. 47, JUD. CONSTANŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.412998,
+                        "longitude": 28.329907
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT152"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ghirase-service-auto-technik-srl",
+                    "name": "Ghirase Service Auto Technik",
+                    "image": "https://itpgo.roc924a882-fadf-4a61-a38d-a64eaa199374/c924a882-fadf-4a61-a38d-a64eaa199374.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Caraiman, In Incinta Vinvico Sa, Bl.c6 Nr. 6, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.157368,
+                        "longitude": 28.622944
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT158"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gnx-autoservice-and-car-wash-srl",
+                    "name": "GNX AUTOSERVICE & CAR WASH S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "LOC. EFORIE SUD, ORAŞ EFORIE, PROF. DR. ION CANTACUZINO, CAMERA 7 NR. 2, JUD. CONSTANŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.24798,
+                        "longitude": 28.574478
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT188"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iatsa-harsova-srl",
+                    "name": "Iatsa Hirsova",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Constantei Nr. 3, Harsova"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.689808,
+                        "longitude": 27.959002
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/impex-troia-srl",
+                    "name": "Impex Troia",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Eliberarii Nr. 2g, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.157945,
+                        "longitude": 28.477788
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT177"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-cobadin-srl",
+                    "name": "ITP COBADIN SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA STEJARULUI NR. 21 A, COBADIN, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.07034,
+                        "longitude": 28.237777
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT135"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-emacris-srl",
+                    "name": "I.T.P. EMACRIS S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "DIMITRIE PACIUREA NR. 62,  BL.C1 - HALA REPARATII SI INTRETINERE AUTO, AGIGEA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.213388,
+                        "longitude": 28.602399
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT170"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-express-garaj-srl",
+                    "name": "Itp Express Garaj",
+                    "image": "https://itpgo.ro3f7ed724-60b7-45e5-872d-ede3acbe37a4/3f7ed724-60b7-45e5-872d-ede3acbe37a4.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. I.c.bratianu Nr. 39 A, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.029119,
+                        "longitude": 22.959124
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT173"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-la-mihai-srl",
+                    "name": "ITP LA MIHAI S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA INDEPENDENȚEI NR. 3, MEDGIDIA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.258973,
+                        "longitude": 28.262333
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT180"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iulian-srl",
+                    "name": "Iulian",
+                    "image": "https://itpgo.ro5b647a56-a0ff-4031-8fe7-92ec24d48036/5b647a56-a0ff-4031-8fe7-92ec24d48036.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Rindunelelor Nr. 42, Navodari"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.31739,
+                        "longitude": 28.605582
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT072"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/jt-trucks-bus-services-srl",
+                    "name": "Jt Trucks & Bus Services",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Dj 226, Zona Rezervoare Raja, Lot 1/2+lot 1/3 Nr. -, Navodari"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.470238,
+                        "longitude": 26.049762
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT115"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/kos-invest-serv-ic-srl",
+                    "name": "ITP Ion Corvin",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STR. SF. AP. ANDREI NR. 16, SAT ION CORVIN, JUD. CONSTANŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.1156402,
+                        "longitude": 27.8092872
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT172"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/levant-maritime-services-srl",
+                    "name": "Levant Maritime Services",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Portului Nr. 1, Ovidiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.251802,
+                        "longitude": 28.559122
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT139"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lucast-trading-company-srl",
+                    "name": "LUCAST TRADING COMPANY S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA VIORELELOR NR. 230A, MERENI, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.031161,
+                        "longitude": 28.38952
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT142"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lyryc-fan-agent-de-asigurare-srl",
+                    "name": "Lyryc Fan Agent De Asigurare",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Mamaia Nr. 284, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.211642,
+                        "longitude": 28.643942
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT167"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mancar-motors-srl",
+                    "name": "Mancar Motors",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Alexandru Alexandridi Nr. 2, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.188704,
+                        "longitude": 28.613918
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/marteoz-service-2001-srl",
+                    "name": "Marteoz Service 2001",
+                    "image": "https://itpgo.ro830a53b3-213f-478e-9ece-7c36a74cbd38/830a53b3-213f-478e-9ece-7c36a74cbd38.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Dumitru Marinescu Nr. 20, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.179088,
+                        "longitude": 28.62198
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 68,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/marvimex-service-srl",
+                    "name": "Marvimex Service",
+                    "image": "https://itpgo.roff26808b-47c5-4a94-af4a-3168c67a6c2a/ff26808b-47c5-4a94-af4a-3168c67a6c2a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. I. C. Bratianu, Biroul 2 Nr. 97, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.032949,
+                        "longitude": 28.649968
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 69,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mbm-tariverde-invest-srl",
+                    "name": "MBM TARIVERDE INVEST S.R.L.",
+                    "image": "https://itpgo.ro3fcca3ec-1414-44c7-9f94-80e53227605f/cd105e46-202e-425b-bcb7-a0d272bf3113.jpeg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA TULCEI,  BL.LOT 10, TARIVERDE, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.5584348,
+                        "longitude": 28.6100846
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT136"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 70,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mc-master-auto-srl",
+                    "name": "MC MASTER AUTO SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "CERNAVODĂ, STR. UNIRII NR. 5, JUD. CONSTANŢA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.3373264,
+                        "longitude": 28.0324144
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT184"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 71,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mik-auto-motors-srl",
+                    "name": "MIK AUTO MOTORS S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA CANALULUI NR. FN, CERNAVODA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.34478,
+                        "longitude": 28.029334
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT126"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 72,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/moment-travel-srl",
+                    "name": "Moment Travel",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Caraiman Nr. 4, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.15725,
+                        "longitude": 28.620375
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 73,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/motorex-srl",
+                    "name": "MOTOREX S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "DN39 NR. PARCELA A432/2, LAZU, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.114663,
+                        "longitude": 28.610724
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT093"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 74,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/motors-pronto-srl",
+                    "name": "Motors Pronto",
+                    "image": "https://itpgo.roea2cc729-cf7b-446e-8a64-ac5ec036d287/ea2cc729-cf7b-446e-8a64-ac5ec036d287.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Duiliu Zamfirescu Nr. 29, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.195011,
+                        "longitude": 28.629561
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 75,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/multiservice-cyclop-vtm-srl",
+                    "name": "Multiservice Cyclop Vtm",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Varful Cu Dor, Incinta Sc Prosper Sa, Ferma 2 Ciupercarie-lot 1, Corp C2 Nr. 26, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.150009,
+                        "longitude": 28.602042
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT102"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 76,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mungart-motors-srl",
+                    "name": "Mungart Motors",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Crisului Nr. 4e, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.065855,
+                        "longitude": 28.627222
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT166"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 77,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/myv-auto-service-srl",
+                    "name": "MYV AUTO SERVICE S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "NEGRU VODĂ, STRADA CEREALELOR, SERVICE AUTO, STAŢIE ITP, IN SUPRAFATĂ DE 230 MP NR. 18A, JUD. CONSTANŢA"
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT183"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 78,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nae-motors-4y-srl",
+                    "name": "Nae Motors 4y",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Bradului, Fosta Parcela A 277/61, Zona B, Constructia C1-atelier Mecanic, Rampa Itp Nr. 24, Navodari"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.32294,
+                        "longitude": 28.61019
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT145"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 79,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nou-sense-sh-srl",
+                    "name": "Nou Sense Sh",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Marin Ionescu Dobrogeanu, Corp C2 Nr. 20 B, Mangalia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.896515,
+                        "longitude": 28.720843
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT113"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 80,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/octal-test-srl",
+                    "name": "Octal Test",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Mangaliei Nr. 80 A, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.088591,
+                        "longitude": 28.61173
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT094"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 81,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/oil-simex-trading-srl",
+                    "name": "Oil Simex Trading",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Tulcei Nr. 1c, Ovidiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.250097,
+                        "longitude": 28.134083
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT026"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 82,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ovidius-romit-srl",
+                    "name": "Ovidius Romit",
+                    "image": "https://itpgo.roecf4bc6c-4b0a-4886-afcc-7ef35b25cedc/ecf4bc6c-4b0a-4886-afcc-7ef35b25cedc.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Aurel Vlaicu Nr. 140 Bis, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.178967,
+                        "longitude": 28.596218
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 83,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pao-divers-srl",
+                    "name": "Pao Divers",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Aleea Cimitirului Nr. 1 B, Harsova"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.689116,
+                        "longitude": 27.949196
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT123"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 84,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/performance-auto-marcris-srl",
+                    "name": "Performance Auto Marcris",
+                    "image": "https://itpgo.ro49a630d3-97cf-431d-8cac-35a2000c5860/49a630d3-97cf-431d-8cac-35a2000c5860.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Interioara Nr. 2, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.179792,
+                        "longitude": 28.60549
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT085"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 85,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/relu-gheo-srl",
+                    "name": "Relu Gheo",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Birou, Garaj Nr.1, Garaj Nr. 2, Str. Randunelelor Nr. 8, Navodari"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.317347,
+                        "longitude": 28.613383
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT130"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 86,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rent-car-service-litoral-srl",
+                    "name": "Rent Car Service Litoral",
+                    "image": "https://itpgo.ro01e44ec9-3598-4ed1-8f7e-2826f1426003/01e44ec9-3598-4ed1-8f7e-2826f1426003.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "B-dul. Tomis Nr. 393, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.215352,
+                        "longitude": 28.604999
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 87,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/repair-itp-srl",
+                    "name": "REPAIR & ITP intrare",
+                    "image": "https://itpgo.robeb890c6-ab59-447e-bf8f-5736f6ecc218/beb890c6-ab59-447e-bf8f-5736f6ecc218.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA INTERIOARĂ 4, NR. FN, CONSTANȚA, JUDETUL CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.179722,
+                        "longitude": 28.59958
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT181"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 88,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/repair-and-itp-srl",
+                    "name": "REPAIR & ITP SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "BULEVARDUL I. C. BRĂTIANU NR. 214,  BL.LOT 4, HALA CU SUPRAFATA DE 250 MP, CONSTANTA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.169673,
+                        "longitude": 28.590814
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT148"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 89,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/roalcico-trading-srl",
+                    "name": "Roalcico Trading",
+                    "image": "https://itpgo.ro36f618fe-8b65-4763-a803-692ef2c1855e/36f618fe-8b65-4763-a803-692ef2c1855e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Radu Logofatu Nr. 1, Cam. 2, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.167976,
+                        "longitude": 21.305637
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 90,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rofan-actual-auto-srl",
+                    "name": "Rofan Actual Auto",
+                    "image": "https://itpgo.rob634af2e-81f6-4784-a2b2-04e182d089dd/b634af2e-81f6-4784-a2b2-04e182d089dd.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Democratiei Nr. 118, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.148097,
+                        "longitude": 28.607956
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT132"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 91,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sartori-auto-park-srl",
+                    "name": "SARTORI AUTO PARK S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "STRADA DUILIU ZAMFIRESCU,  BL.LOT 5, CARTIER DOBROGEA II, GARAJ, MANGALIA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.196393,
+                        "longitude": 28.630125
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT179"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 92,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-autotests-profesional-srl",
+                    "name": "SC AUTOTESTS PROFESIONAL SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "SAT LUMINA, STRADA TULCEI, COMUNA LUMINA, LOT 13 nr. 136, jud. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.29367,
+                        "longitude": 28.56632
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT168"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 93,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-rent-car-service-litoral-srl",
+                    "name": "SC RENT CAR SERVICE LITORAL SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "CONSTANTA, B-dul Tomis nr. 393, jud. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.215352,
+                        "longitude": 28.604999
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 94,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-tiriac-auto-srl",
+                    "name": "SC TIRIAC AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "ȘOSEAUA MANGALIEI NR. 211, CONSTANTA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.136073,
+                        "longitude": 28.620965
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 95,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/seebrig-investment-srl",
+                    "name": "SEEBRIG INVESTMENT S.R.L.",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "ȘOSEAUA MANGALIEI NR. 80A,  BL.POLIGON 1, CORP 8, CONSTANTA, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.150562,
+                        "longitude": 28.627009
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT108"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 96,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-automobile-mangalia-sa",
+                    "name": "Service Automobile Mangalia",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Henny Ignatie Nr. 7, Mangalia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.827872,
+                        "longitude": 28.58435
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 97,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-prest-vali-srl",
+                    "name": "Service Prest Vali",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Cerealelor Nr. 18a, Negru Voda"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.812319,
+                        "longitude": 28.217033
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT165"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 98,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/smart-claim-auto-srl",
+                    "name": "Smart Claim Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Mangaliei Nr. 155, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.153746,
+                        "longitude": 28.628295
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT143"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 99,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tce-todea-itp-srl",
+                    "name": "TCE TODEA ITP S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "CALEA DOBROGEI NR. 424, CLĂDIREA NR. C1, VALU LUI TRAIAN, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.165391,
+                        "longitude": 28.511473
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT146"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 100,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tempo-invest-srl",
+                    "name": "Tempo Invest",
+                    "image": "https://itpgo.roe6bfd061-90f2-4544-81aa-473e1283144f/e6bfd061-90f2-4544-81aa-473e1283144f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. I. C. Bratianu Nr. 131, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.032949,
+                        "longitude": 28.649968
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 101,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/topraisar-auto-agro-srl",
+                    "name": "TOPRAISAR AUTO AGRO S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "ȘOSEAUA NAȚIONALĂ NR. 19, TOPRAISAR, JUD. CONSTANTA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.01647,
+                        "longitude": 28.455416
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT175"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 102,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tracom-impex-srl",
+                    "name": "Tracom Impex",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Santos Nr. 25, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.210641,
+                        "longitude": 28.607809
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT169"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 103,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transfer-punct-fix-srl",
+                    "name": "Transfer Punct Fix",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Lot 1, Sola 100, Parcela 510/2, Hala Remiza Agricola Nr. -, Ovidiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.878694,
+                        "longitude": 27.181206
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT099"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 104,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tranzit-com-srl",
+                    "name": "Tranzit Com",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Independentei Nr. 3, Medgidia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.258973,
+                        "longitude": 28.262333
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 105,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/unitatea-militara-02049",
+                    "name": "Unitatea Militara 02049",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Tulcei Nr. -, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.20069,
+                        "longitude": 28.620178
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 106,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/varogen-logistic-srl",
+                    "name": "Varogen Logistic",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Sos. Constantei, Lot 2 Nr. 8d, Medgidia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.003385,
+                        "longitude": 28.637141
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT128"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 107,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vehicles-industry-srl",
+                    "name": "Vehicles Industry",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Slt. Petre Papadopol,  70 Mp Nr. 1, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.379836,
+                        "longitude": 28.465473
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT164"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 108,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vera-actual-srl",
+                    "name": "Vera Actual",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Caraiman, Incinta Vinvico S.a. Nr. 6, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.157368,
+                        "longitude": 28.622944
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT086"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 109,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vicomimpex-srl",
+                    "name": "Vicomimpex",
+                    "image": "https://itpgo.ro0bb1f24c-f74d-4a96-87c7-da9eec9a94e8/0bb1f24c-f74d-4a96-87c7-da9eec9a94e8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Haiducului Nr. 2, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.192623,
+                        "longitude": 28.598835
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 110,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/yv-auto-performe-service-srl",
+                    "name": "Yv Auto Performe Service",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. De 277/134 Nr. Fn, Navodari"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.243028,
+                        "longitude": 28.575045
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT150"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 111,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/zed-diagnosis-srl",
+                    "name": "Zed Diagnosis",
+                    "image": "https://itpgo.ro8b0109b2-7909-4240-b505-daf19a83786e/8b0109b2-7909-4240-b505-daf19a83786e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Constanta",
+                        "streetAddress": "Str. Verde Nr. 31, Constanta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.173587,
+                        "longitude": 28.597881
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CT057"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Constanta",
+            "alternateName": "CT"
+        }
+    }
+}

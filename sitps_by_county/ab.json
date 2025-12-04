@@ -1,0 +1,1831 @@
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Stații ITP Alba",
+        "description": "Stații ITP autorizate RAR din județul Alba. Programări rapide și informații complete despre stațiile ITP.",
+        "url": "https://itpgo.ro/judet/alba",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Judete",
+                    "item": "https://itpgo.ro/judet"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Stații ITP Alba",
+                    "item": "https://itpgo.ro/judet/alba"
+                }
+            ]
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "numberOfItems": 64,
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/aitrans-sa",
+                        "name": "AITRANS SA",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "AIUD, STR. GĂRII NR. 16BIS, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.311215,
+                            "longitude": 23.733895
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB002"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/alba-motor-srl",
+                        "name": "ALBA MOTOR SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, STR. OLTENIEI NR. 32, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.064815,
+                            "longitude": 23.58838
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB046"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autobod-service-srl",
+                        "name": "AUTOBOD SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "COM. SĂSCIORI, SAT SEBEŞEL NR. 340A, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.091134,
+                            "longitude": 23.560843
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB091"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-check-in-cen-resources-srl",
+                        "name": "AUTO CHECK IN CEN RESOURCES SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "CÂMPENI, STR. HOREA NR. 52, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.05212,
+                            "longitude": 23.627524
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB078"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-cris-motors-srl",
+                        "name": "ITP ALBA SC AUTO CRIS MOTORS SRL",
+                        "image": "https://itpgo.ro35a7e496-8feb-47e0-92c1-69a449feafe9/35a7e496-8feb-47e0-92c1-69a449feafe9.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, STR. LIVEZII NR. 35A, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.163948,
+                            "longitude": 23.930897
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB040"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autovalex-service-srl",
+                        "name": "AUTOVALEX SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "STRADA ALEXANDRU IOAN CUZA NR. 22A, ALBA IULIA, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.088337,
+                            "longitude": 23.591812
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/car-service-assist-srl",
+                        "name": "Car Service Assist",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Tudor Vladimirescu Nr. 32, Zlatna"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.192984,
+                            "longitude": 27.3809
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB092"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/casa-auto-sebes-srl",
+                        "name": "CASA AUTO SEBES SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "str. CALARASI nr. 84, SEBES"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.957873,
+                            "longitude": 23.574373
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB010"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cristian-autotest-srl",
+                        "name": "CRISTIAN AUTOTEST SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "str. SOSEAUA DE CENTURA nr. 22A, ALBA IULIA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.050652,
+                            "longitude": 23.570362
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB025"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dacia-liberta-srl",
+                        "name": "DACIA LIBERTA SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "str. IULIU MANIU nr. 1F, BLAJ"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.173272,
+                            "longitude": 23.917753
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB024"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dally-universal-itp-srl",
+                        "name": "DALLY UNIVERSAL ITP SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "BLAJ, STR. IULIU MANIU NR. 4, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.071441,
+                            "longitude": 23.581253
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB079"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dupex-srl",
+                        "name": "DUPEX SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "SEBEŞ, STR. PENEŞ CURCANU NR. 2, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.958885,
+                            "longitude": 23.57212
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB022"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 13,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/electroservice-marcel-srl",
+                        "name": "ELECTROSERVICE MARCEL SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "str. PRINCIPALA nr. 639, SAT GALDA DE JOS"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.214447,
+                            "longitude": 23.590472
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB012"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 14,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/euro-inspect-srl",
+                        "name": "EURO INSPECT SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "BLAJ, STR. IULIU MANIU NR. 4, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.071441,
+                            "longitude": 23.581253
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB023"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 15,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/gmc-itp-trucks-srl",
+                        "name": "GMC ITP TRUCKS SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "LOC. MIHOEŞTI, CÂMPENI, - NR. 22, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.151228,
+                            "longitude": 26.98122
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB088"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 16,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/hakan-service-solutions-srl",
+                        "name": "HAKAN SERVICE SOLUTIONS SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "BAIA DE ARIES,STR.CALEA TURZII,NR.3A,JUD.ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.435887,
+                            "longitude": 26.044799
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB103"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 17,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/intel-taho-srl",
+                        "name": "Service Tahografe Alba Iulia - INTEL TAHO",
+                        "image": "https://itpgo.rofd23ecb3-46c8-4961-8f81-08c34958bb3a/fd23ecb3-46c8-4961-8f81-08c34958bb3a.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "str. ALEXANDRU IOAN CUZA nr. 54, ALBA IULIA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.088337,
+                            "longitude": 23.591812
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB027"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 18,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/intertrans-srl",
+                        "name": "INTERTRANS SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, BD. REPUBLICII NR. 109, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.17634,
+                            "longitude": 23.923786
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB013"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 19,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/itp-teius-srl",
+                        "name": "ITP TEIUS SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "STRADA CLUJULUI NR. 151, TEIUS, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.155819,
+                            "longitude": 26.809804
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB100"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 20,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mag-service-bc-srl",
+                        "name": "Mag Service B.c.",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Mihail Sadoveanu Nr. 3, Cugir"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.42828,
+                            "longitude": 28.01289
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB044"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 21,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mecatronics-sa",
+                        "name": "MECATRONICS SA",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, STR. LIVEZII NR. 37, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.0816,
+                            "longitude": 23.589591
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "SB096"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 22,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mundo-prest-srl",
+                        "name": "MUNDO PREST SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "COM. DAIA ROMÂNĂ, SAT DAIA ROMÂNĂ NR. F.N., JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.960416,
+                            "longitude": 23.568
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB077"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 23,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/muresul-societate-cooperativa-mestesugareasca",
+                        "name": "MURESUL SOCIETATE COOPERATIVA MESTESUGAREASCA",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, STR. A. I. CUZA nr. 7, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.215927,
+                            "longitude": 23.192924
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB006"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 24,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/rapid-lifts-srl",
+                        "name": "Itp Autoturisme & Autoutilitare - Speed Itp Alba Iulia",
+                        "image": "https://itpgo.ro7130a1a4-a3cf-4ee1-bc47-b77b97c3fdcb/7130a1a4-a3cf-4ee1-bc47-b77b97c3fdcb.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, STR. EMIL RACOVIŢĂ NR. 29A, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.249598,
+                            "longitude": 24.171978
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB072"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 25,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-adams-services-srl",
+                        "name": "SC ADAM'S SERVICES SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, Str. Tudor Vladimirescu nr. 48, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.300219,
+                            "longitude": 23.710294
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB080"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 26,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-adcar-serv-srl",
+                        "name": "SC ADCAR SERV SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "BLAJ, Str. Gheorghe Baritiu nr. 30B, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.82427,
+                            "longitude": 23.37478
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB085"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 27,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-ariesul-sa",
+                        "name": "SC ARIESUL SA",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "CAMPENI, STR. VALEA BISTREI nr. 1, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.957006,
+                            "longitude": 23.569257
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB007"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 28,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-aurocar-2002-srl",
+                        "name": "SC AUROCAR 2002 SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, STR. ALEXANDRU IOAN CUZA nr. 31 E, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.652079,
+                            "longitude": 25.594809
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB026"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 29,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-auto-comet-service-srl",
+                        "name": "Auto Comet Service",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Plevnei Nr. 9, Sebes"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.065542,
+                            "longitude": 23.582499
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB008"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 30,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-auto-coradi-srl",
+                        "name": "SC AUTO CORADI SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "SAT SEBISEL, Str. Morii nr. 233C, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.087965,
+                            "longitude": 25.277113
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB049"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 31,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-auto-cris-motors-srl",
+                        "name": "SC AUTO CRIS MOTORS SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, Str. Alexandru Ioan Cuza nr. 54, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.122606,
+                            "longitude": 24.04003
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB076"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 32,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-autotaller-srl",
+                        "name": "SC AUTOTALLER SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "AIUD, Str. Transilvaniei nr. 223, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.948188,
+                            "longitude": 26.027623
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB094"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 33,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-bestauto-consulting-srl",
+                        "name": "Bestauto Consulting",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Calarasi Nr. 114-116, Sebes"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.957802,
+                            "longitude": 23.574356
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB060"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 34,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-casa-auto-sebes-srl",
+                        "name": "Casa Auto Sebes",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Calarasi Nr. 84, Sebes"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.957873,
+                            "longitude": 23.574373
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB029"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 35,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-cris-autoservice-srl",
+                        "name": "SC CRIS AUTOSERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Baia de Aries, Str. Ioan Patcas nr. 7, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.382767,
+                            "longitude": 23.276208
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB036"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 36,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-cristian-autotest-srl",
+                        "name": "ITP Soseaua de Centura Alba Iulia",
+                        "image": "https://itpgo.ro7d025c1b-2a18-46db-b167-79570c441ee1/7d025c1b-2a18-46db-b167-79570c441ee1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, SOS. DE CENTURA nr. 22 A, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.050652,
+                            "longitude": 23.570362
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB071"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 37,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-dacia-liberta-srl",
+                        "name": "SC DACIA LIBERTA SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "BLAJ, Str. Iuliu Maniu nr. 1F, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.310424,
+                            "longitude": 23.72372
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB054"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 38,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-davas-itp-srl",
+                        "name": "DAVAS ITP",
+                        "image": "https://itpgo.road192cbf-6209-4f0a-a188-69ca4f490ea0/ad192cbf-6209-4f0a-a188-69ca4f490ea0.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, Str. Fagaras nr. 1, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.126738,
+                            "longitude": 25.750039
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB081"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 39,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-dei-auto-center-srl",
+                        "name": "SC DEI-AUTO CENTER SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ABRUD, STR. AVRAM IANCU nr. 51 A, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.310501,
+                            "longitude": 23.710732
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB052"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 40,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-drg-autotech-srl",
+                        "name": "SC DRG AUTOTECH SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "BLAJ, Str. Mihail Kogalniceanu nr. 15, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.077237,
+                            "longitude": 23.588886
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB093"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 41,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-favorit-auto-srl",
+                        "name": "ITP Alba Centura - Favorit Auto",
+                        "image": "https://itpgo.ro8c463b86-1f5a-4077-8d95-052e79ba192c/8c463b86-1f5a-4077-8d95-052e79ba192c.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, Str. Drambarului nr. 7, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.012975,
+                            "longitude": 23.507989
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB098"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 42,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-gaby-autoitp-srl",
+                        "name": "SC GABY AUTOITP SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "SAT BUCERDEA GRANOASA, Str. Ioan Maiorescu nr. 3, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.182218,
+                            "longitude": 23.8395
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB086"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 43,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-geo-service-srl",
+                        "name": "SC GEO SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "COM. IGHIU, SAT TELNA nr. 20, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.14489,
+                            "longitude": 23.515785
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB069"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 44,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-industrial-construct-ardeal-srl",
+                        "name": "SC INDUSTRIAL CONSTRUCT ARDEAL SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "BLAJ, STR. IULIU MANIU nr. 1 D, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.071441,
+                            "longitude": 23.581253
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB048"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 45,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-king-invest-srl",
+                        "name": "SC KING INVEST SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, Str. Gheorghe Sincai nr. 12, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.080732,
+                            "longitude": 23.573005
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB082"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 46,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-mobil-serv-srl",
+                        "name": "Mobil Serv",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Mihai Eminescu Nr. 18, Ocna Mures"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.549419,
+                            "longitude": 24.562404
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB017"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 47,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-moto-profi-srl",
+                        "name": "Moto Profi",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Augustin Bena Nr. F.n., Sebes"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.959533,
+                            "longitude": 23.55373
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB033"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 48,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-olgador-srl",
+                        "name": "SC OLGADOR SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, Str. Livezii nr. 37, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.84071,
+                            "longitude": 23.377124
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB087"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 49,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-paul-autoservice-srl",
+                        "name": "Paul Autoservice",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Clujului Nr. 151, Teius"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.168593,
+                            "longitude": 21.296857
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB061"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 50,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-pic-expert-cars-srl",
+                        "name": "Pic Expert Cars",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Augustin Bena Nr. 95, Sebes"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.959781,
+                            "longitude": 23.544262
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB083"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 51,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-ramada-cars-srl",
+                        "name": "SC RAMADA CARS SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "AIUD, Str. Ecaterina Varga nr. 1, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.151852,
+                            "longitude": 24.130287
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB053"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 52,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-rapid-auto-srl",
+                        "name": "SC RAPID AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "LUNCA MURESULUI, Str. Grindului nr. 1, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.166937,
+                            "longitude": 25.695373
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB084"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 53,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-servnic-srl",
+                        "name": "SC SERVNIC SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, STR. VASILE ALECSANDRI nr. 36A, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.180199,
+                            "longitude": 23.916541
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB016"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 54,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-spy-garage-srl",
+                        "name": "Spy Garage",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. 21 Decembrie 1989 Nr. 1, Ob 163, Cugir"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.838563,
+                            "longitude": 23.369176
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB096"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 55,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-transgilyen-srl",
+                        "name": "SC TRANSGILYEN SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "AIUD, STR. GARII nr. 10, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.959443,
+                            "longitude": 23.576887
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB066"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 56,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-verificari-tehnice-srl",
+                        "name": "SC VERIFICARI TEHNICE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "ALBA IULIA, Str. Alexandru Ioan Cuza nr. 27C, jud. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.122606,
+                            "longitude": 24.04003
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB063"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 57,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-voltrans-sa",
+                        "name": "Voltrans",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Mihail Kogalniceanu Nr. 48, Sebes"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.965915,
+                            "longitude": 23.557521
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB003"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 58,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-vontrans-impex-srl",
+                        "name": "Vontrans Impex",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Augustin Bene Nr. 116, Sebes"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.959792,
+                            "longitude": 23.543832
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB097"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 59,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-wag-service-cugir-srl",
+                        "name": "Wag Service Cugir",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Victoriei Nr. 14, Cugir"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.845623,
+                            "longitude": 23.362191
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB043"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 60,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sergiu-s-garage-srl",
+                        "name": "SERGIU S GARAGE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "COM. NOŞLAC, SAT NOŞLAC NR. 3, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.091134,
+                            "longitude": 23.560843
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB089"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 61,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/teocos-auto-srl",
+                        "name": "Teocos Auto",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "Str. Viitorului Nr. 17, Ocna Mures"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.536442,
+                            "longitude": 24.586933
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB074"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 62,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/terrapat-srl",
+                        "name": "ITP ALBA IULIA",
+                        "image": "https://itpgo.roea89ec90-f005-4aa7-ab51-cec554498998/ea89ec90-f005-4aa7-ab51-cec554498998.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "STRADA ALEXANDRU IOAN CUZA NR. 27C, ALBA IULIA, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.088337,
+                            "longitude": 23.591812
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB101"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 63,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/toni-test-cars-srl",
+                        "name": "TONI TEST CARS SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "CÂMPENI, STR. MOŢILOR NR. 79D, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.318908,
+                            "longitude": 23.687187
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB058"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 64,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/vrmvlad-srl",
+                        "name": "VRMVLAD S.R.L.",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Alba",
+                            "streetAddress": "MUN. SEBEŞ, DOROBANŢI, HALA NR. 1 NR. 3, JUD. ALBA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.91275,
+                            "longitude": 26.560293
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AB102"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "about": {
+            "@type": "Service",
+            "name": "Inspecție Tehnică Periodică Auto",
+            "areaServed": {
+                "@type": "AdministrativeArea",
+                "name": "Alba",
+                "alternateName": "AB"
+            }
+        }
+    }

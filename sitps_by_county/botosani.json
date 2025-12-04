@@ -1,0 +1,1131 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Botosani",
+    "description": "Stații ITP autorizate RAR din județul Botosani. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/botosani",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Botosani",
+                "item": "https://itpgo.ro/judet/botosani"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 39,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/agremin-trans-srl",
+                    "name": "AGREMIN TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "CATAMARESTI-DEAL, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.58011,
+                        "longitude": 25.37293
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/agroservice-monimih",
+                    "name": "AGROSERVICE MONIMIH",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "STRADA PRINCIPALA, CLĂDIREA NR. 1, TRUSESTI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.630811,
+                        "longitude": 26.929509
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/agrotrans-bv-srl",
+                    "name": "Agrotrans B.v.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "Str. Sasa Pana Nr. Fn, Dorohoi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.953874,
+                        "longitude": 26.402217
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/allegro-fruct-agro-srl",
+                    "name": "ALLEGRO FRUCT AGRO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "SAT SAUCENIŢA, COM. VĂCULEŞTI, - NR. -, JUD. BOTOŞANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.394846,
+                        "longitude": 26.043184
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/apetrans-srl",
+                    "name": "APETRANS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "COM. CURTEŞTI, SAT MĂNĂSTIREA DOAMNEI NR. -, JUD. BOTOŞANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.716663,
+                        "longitude": 26.650574
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT019"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automotive-andreas-itp-srl",
+                    "name": "AUTOMOTIVE ANDREAS ITP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "MIHAI EMINESCU NR. 43, CATAMARESTI-DEAL, MIHAI EMINESCU, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.770199,
+                        "longitude": 26.596445
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autovulcanizare-srl",
+                    "name": "AUTOVULCANIZARE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "BD. MIHAI EMINESCU NR.15 B, BOTOȘANI, JUDEȚUL BOTOȘANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.740376,
+                        "longitude": 26.659566
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT014"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/caslariu-srl",
+                    "name": "CASLARIU SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "COM. MIHAI EMINESCU, LOC. BAISA NR. -, JUD. BOTOŞANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.740376,
+                        "longitude": 26.659566
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT010"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/centru-itp-start-up-srl",
+                    "name": "CENTRU ITP START-UP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "BULEVARDUL MIHAI EMINESCU NR. 91,  BL.91, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.741656,
+                        "longitude": 26.658232
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/chamade-srl",
+                    "name": "CHAMADE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "BOTOŞANI, CALEA NAŢIONALĂ NR. 41, JUD. BOTOŞANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.724789,
+                        "longitude": 26.675064
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT017"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/com-auto-h-srl",
+                    "name": "Com.auto.h.",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "Str. Muncitorului Nr. 2, Darabani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 48.176852,
+                        "longitude": 26.606654
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT012"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/comautoh-srl",
+                    "name": "COM.AUTO.H. SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "MUNCITORULUI NR. 38A, DARABANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 48.178648,
+                        "longitude": 26.604938
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/costad-car-service-instant-srl",
+                    "name": "Costad Car Service Instant",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "Str. Parului Nr. 2, Flamanzi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.589101,
+                        "longitude": 26.984779
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/doma-hibrid-srl",
+                    "name": "DOMA HIBRID SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "STRADA PACEA NR. 108, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.737498,
+                        "longitude": 26.647014
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dtuning-pro-darabani-srl",
+                    "name": "Dtuning Pro Darabani",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "Str. 1 Decembrie Nr. Fn, Darabani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.631852,
+                        "longitude": 28.724467
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/edynik-autocars-srl",
+                    "name": "Edynik Autocars",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "Str. Bazei, Sat Cordun Nr. --, Flamanzi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.558999,
+                        "longitude": 26.902367
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ema-dany-vas-srl",
+                    "name": "Statie ITP Botosani",
+                    "image": "https://itpgo.ro84b8a36c-6690-4148-a475-a10a99343ae3/84b8a36c-6690-4148-a475-a10a99343ae3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "PACEA NR. 76, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.736975,
+                        "longitude": 26.647477
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT027"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gado-multitesting-srl",
+                    "name": "GADO MULTITESTING SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "ALEXANDRU CEL BUN,  BL.48A, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.741041,
+                        "longitude": 26.676781
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hertanu-george-vladut-intreprindere-individuala",
+                    "name": "HERTANU GEORGE-VLADUT INTREPRINDERE INDIVIDUALA",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "STRADA DIMITRIE BRÂNDZA NR. 8, DARABANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 48.18403,
+                        "longitude": 26.585159
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/isem-mb-schrot-srl",
+                    "name": "ISEM MB SCHROT SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "PACEA NR. 90, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.736952,
+                        "longitude": 26.64754
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT043"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itpautomobile-pkw-lkw-srl",
+                    "name": "ITPAUTOMOBILE PKW-LKW SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "SAT HUDUM, COMUNA CURTESTI, JUDET BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.73494,
+                        "longitude": 26.629276
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ovi-san-auto-service",
+                    "name": "OVI-SAN AUTO SERVICE",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "SUCEVEI,  BL.DJ291, BUCECEA, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.763188,
+                        "longitude": 26.445551
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/panleo-verificari-srl",
+                    "name": "PANLEO VERIFICARI SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "STRADA MIHAI EMINESCU NR. 122A, CATAMARESTI-DEAL, MIHAI EMINESCU, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.770199,
+                        "longitude": 26.596445
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/president-autoservice-srl",
+                    "name": "PRESIDENT AUTOSERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "VLASINESTI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.824695,
+                        "longitude": 26.610049
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/priority-auto-srl",
+                    "name": "PRIORITY AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "IASULUI,  BL.91, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.761808,
+                        "longitude": 27.210766
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT026"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rbc-team-srl",
+                    "name": "RBC TEAM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "A.S.PUSKIN, CLĂDIREA NR. 122, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.397269,
+                        "longitude": 26.042342
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rec-srl",
+                    "name": "REC SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "CALEA NATIONALA NR. 231A, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.748793,
+                        "longitude": 26.654124
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rocar-trans-srl",
+                    "name": "Statie ITP Rediu Botosani",
+                    "image": "https://itpgo.ro56b81fb8-fae4-48f8-8dfe-4578f31b91a3/56b81fb8-fae4-48f8-8dfe-4578f31b91a3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "I C BRATIANU, CLĂDIREA NR. 179 A, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.16503,
+                        "longitude": 27.58527
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-rec-srl",
+                    "name": "SC REC SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "BOTOSANI, Calea Nationala nr. 1A, jud. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.748793,
+                        "longitude": 26.654124
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/serpico-srl",
+                    "name": "SERPICO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "COM. ŞENDRICENI, LOC. STRACOVA NR. -, JUD. BOTOŞANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.394846,
+                        "longitude": 26.043184
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT007"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/soho-auto-service-srl",
+                    "name": "SOHO AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "PROGRESULUI NR. 7, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.755144,
+                        "longitude": 26.637025
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT021"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/statie-itp-profesional-srl",
+                    "name": "Statie Itp Profesional",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "Str. Dumitru Iov Nr. 211, Flamanzi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.571594,
+                        "longitude": 26.888433
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/statie-itp-srl",
+                    "name": "Statie ITP Botosani",
+                    "image": "https://itpgo.ro400e8269-fa08-4472-8fd3-a15cff04962e/400e8269-fa08-4472-8fd3-a15cff04962e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "PACEA NR. 47B, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.740825,
+                        "longitude": 26.645739
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transport-mixt-sa",
+                    "name": "Transport Mixt",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "Str. Dumbrava Rosie Nr. 2, Dorohoi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.94063,
+                        "longitude": 26.41207
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transporturi-auto-sa",
+                    "name": "TRANSPORTURI AUTO S.A",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "I.C. BRATIANU,  BL.114, BOTOSANI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.73572,
+                        "longitude": 26.689557
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT003"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tridex-service-srl",
+                    "name": "TRIDEX SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "MIHAI EMINESCU,  BL.8, CATAMARESTI-DEAL, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.770199,
+                        "longitude": 26.596445
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT001"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/try-group-limited",
+                    "name": "TRY GROUP LIMITED",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "I. D. MARIN NR. 82, STANCESTI, JUD. BOTOSANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.744397,
+                        "longitude": 26.597612
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/verificari-itp-sf-srl",
+                    "name": "Verificari Itp Sf",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "B-dul. Victorie Nr. 130, Dorohoi"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.938846,
+                        "longitude": 26.024928
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/xandor-srl",
+                    "name": "XANDOR SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Botosani",
+                        "streetAddress": "BOTOŞANI, STR. MANOLEŞTI DEAL NR. 33, JUD. BOTOŞANI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.75436,
+                        "longitude": 26.627773
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BT004"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Botosani",
+            "alternateName": "BT"
+        }
+    }
+}

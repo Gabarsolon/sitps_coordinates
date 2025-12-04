@@ -1,0 +1,1187 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Caras-Severin",
+    "description": "Stații ITP autorizate RAR din județul Caras-Severin. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/caras-severin",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Caras-Severin",
+                "item": "https://itpgo.ro/judet/caras-severin"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 41,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/afycas-total-services-srl",
+                    "name": "Afycas total services",
+                    "image": "https://itpgo.ro19b91205-c5ae-4f50-8840-9a3fb80ec65f/19b91205-c5ae-4f50-8840-9a3fb80ec65f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBEŞ, STR. RETEZAT NR. 30, JUD. CARAŞ-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.295024,
+                        "longitude": 21.882258
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alenic-trans-srl",
+                    "name": "Alenic Trans",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Valea Terovei Nr. 16a, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.30786,
+                        "longitude": 21.90142
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/allin-itp-srl",
+                    "name": "ALLIN ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "STR. TIMIȘOAREI, NR. 23, INCINTA STATIE ITP, MUN. REȘIȚA, JUD. CARAȘ SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.321156,
+                        "longitude": 21.867324
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/andrei-d-danila-intreprindere-individuala",
+                    "name": "ANDREI D. DANILA INTREPRINDERE INDIVIDUALA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "SAT PIRIPLET, COM. BOZOVICI, SPATIU STATIE INSPECTIE TEHNICA nr. FN, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.74607,
+                        "longitude": 22.894025
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/as-mures-trans-srl",
+                    "name": "AS MURES TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "str.  nr. 1A, RESITA, SAT MONIOM"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.349519,
+                        "longitude": 21.832828
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS010"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autobanatica-srl",
+                    "name": "Autobanatica",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Valea Terovei Nr. 1, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.522418,
+                        "longitude": 24.535214
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS017"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-cerna-srl",
+                    "name": "AUTO CERNA SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "BĂILE HERCULANE, STR. GĂRII NR. 68B, JUD. CARAŞ-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.514127,
+                        "longitude": 22.354785
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-group-cs-srl",
+                    "name": "Auto Group",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Calea Caransebesului Nr. 21, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.319007,
+                        "longitude": 21.885261
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autotrans-roiban-srl",
+                    "name": "Autotrans Roiban",
+                    "image": "https://itpgo.ro0ea663c3-59e2-4b57-8d0b-763b27ee281c/0ea663c3-59e2-4b57-8d0b-763b27ee281c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Brosteniului Nr. 49a, Oravita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.033708,
+                        "longitude": 21.683483
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bistra-autotrans-srl",
+                    "name": "Bistra Autotrans",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Zona Industriala Gai Nr. -, Otelu Rosu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.523826,
+                        "longitude": 22.375002
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS021"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/calatrans-taho-srl",
+                    "name": "Calatrans Taho",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Birzavitei Nr. 3, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.322897,
+                        "longitude": 21.861007
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cayenne-auto-technology-srl",
+                    "name": "Cayenne Auto Technology",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Sperantei Nr. 3, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.160216,
+                        "longitude": 28.797628
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/chirita-petru-intreprindere-individuala",
+                    "name": "Chirita Petru Intreprindere Individuala",
+                    "image": "https://itpgo.rod24814c7-6699-45c0-b269-7f0a0ff922ea/d24814c7-6699-45c0-b269-7f0a0ff922ea.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. 24 Ianuarie, Cadastru Nr. 44159-c1, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.138298,
+                        "longitude": 28.888229
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lorelay-auto-star-srl",
+                    "name": "Lorelay Auto Star",
+                    "image": "https://itpgo.rod4f6d605-5052-4b0f-a2bc-203619884386/d4f6d605-5052-4b0f-a2bc-203619884386.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Closca Nr. 43, Otelu Rosu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.521066,
+                        "longitude": 22.377171
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/michelini-prest-srl",
+                    "name": "MICHELINI PREST SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBEŞ, CALEA SEVERINULUI NR. 180, JUD. CARAŞ-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.390862,
+                        "longitude": 22.227863
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mihailo-auto-engineering-srl",
+                    "name": "MIHAILO AUTO ENGINEERING SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "FOSTA BAZA DE RECEPTIE CEREALE, EXTRAS CF NR. 32319, NR. CADASTRAL 32319-C1, BOZOVICI, JUD. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.927128,
+                        "longitude": 22.002216
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nor-mundo-exclusiv-srl",
+                    "name": "Nor Mundo Exclusiv",
+                    "image": "https://itpgo.roa25bc726-0ba9-461a-b18f-275dfd35a82b/a25bc726-0ba9-461a-b18f-275dfd35a82b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "B-dul. Alexandru Ioan Cuza Nr. 1-2, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.293642,
+                        "longitude": 21.881013
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/remcor-2002-srl",
+                    "name": "Remcor 2002",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Oituzului Nr. 25a, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.755175,
+                        "longitude": 26.673071
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS009"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rvl-auto-performance-srl",
+                    "name": "RVL AUTO PERFORMANCE S.R.L.",
+                    "image": "https://itpgo.rod04549aa-79bb-48a3-9dba-9441f07276ae/d04549aa-79bb-48a3-9dba-9441f07276ae.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBEŞ, CALEA VÂRŞEŢULUI NR. 31, JUD. CARAŞ-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.415649,
+                        "longitude": 22.193721
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-23-garage-parts-repair-srl",
+                    "name": "23 Garage Parts & Repair",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Brosteniului Nr. 10, Oravita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.033708,
+                        "longitude": 21.683483
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-agata-srl",
+                    "name": "Agata",
+                    "image": "https://itpgo.roa7a225a5-7c39-4c60-a56d-e6d1d4ca8750/a7a225a5-7c39-4c60-a56d-e6d1d4ca8750.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Orsovei Nr. 13, Moldova Noua"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.721761,
+                        "longitude": 21.627041
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS008"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-as-mures-trans-srl",
+                    "name": "SC AS MURES TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "SAT MONOIM, RESITA nr. 1A, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.784169,
+                        "longitude": 24.131509
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ass-autoserv-putul-2-srl",
+                    "name": "SC ASS AUTOSERV PUTUL 2 SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "ANINA, Str. Libertatii, Incinta Putul 2 nr. C3, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.072931,
+                        "longitude": 23.586504
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-alex-srl",
+                    "name": "Auto Alex",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Dunarii Nr. 160, Moldova Noua"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.778223,
+                        "longitude": 23.640381
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-autodanubius-sa",
+                    "name": "Autodanubius",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Cimpului Nr. 1, Moldova Noua"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.772507,
+                        "longitude": 24.178255
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS007"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-birzava-sa",
+                    "name": "Bîrzava S.A.",
+                    "image": "https://itpgo.rof1eec456-1837-4bcb-a3ed-243db0cde36b/f1eec456-1837-4bcb-a3ed-243db0cde36b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "BOCSA, STR. CARPATI nr. 5, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.376679,
+                        "longitude": 21.725737
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS001"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-casa-auto-cipi-itp-srl",
+                    "name": "Casa Auto Cipi Itp",
+                    "image": "https://itpgo.ro09ea5079-1318-468f-b73f-d2849ad775d7/09ea5079-1318-468f-b73f-d2849ad775d7.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Timisoarei,cf Nr.34592,nr.cadastral Nr. 34592, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.318509,
+                        "longitude": 21.871475
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-chirton-trading-srl",
+                    "name": "Chirton Trading S.R.L.",
+                    "image": "https://itpgo.ro6e7f07eb-3c88-4930-a5e8-b47e53fc5dd8/6e7f07eb-3c88-4930-a5e8-b47e53fc5dd8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBES, Calea Timisoarei nr. 3D, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.318509,
+                        "longitude": 21.871475
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS026"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ferline-gaz-srl",
+                    "name": "Ferline Gaz",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Zona Marginea, Remiza Psi, La Intrarea Pe Platforma Sam Nr. -, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.521893,
+                        "longitude": 24.53531
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-itp-fulger-david-srl",
+                    "name": "ITP Fulger David",
+                    "image": "https://itpgo.roe2bc58b9-84ef-48dd-aebb-3144353e8e60/e2bc58b9-84ef-48dd-aebb-3144353e8e60.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "BOCSA, Drumul Binisului nr. 1, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.784169,
+                        "longitude": 24.131509
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-loraly-admir-itp-srl",
+                    "name": "Loraly Admir Itp",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Brosteniului Nr. 34a, Oravita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.033708,
+                        "longitude": 21.683483
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ma-ra-metalserv-impex-srl",
+                    "name": "Ma Ra Metalserv Impex",
+                    "image": "https://itpgo.ro49b9b6d4-a231-4c31-8c3a-dc675c7a5e45/49b9b6d4-a231-4c31-8c3a-dc675c7a5e45.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Str. Valea Domanului Nr. 12, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.28225,
+                        "longitude": 21.890889
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-minis-sa",
+                    "name": "SC MINIS SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "BOZOVICI, STR. MIHAI EMINESCU nr. 1, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.88844,
+                        "longitude": 22.42536
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS004"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-pacomir-itp-srl",
+                    "name": "SC PACOMIR ITP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "BOCSA, Str. Cireselor nr. 1, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.616299,
+                        "longitude": 26.864495
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS038"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-paldya-itp-auto-srl",
+                    "name": "Paldya Itp Auto",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "B-dul. Alexandru Ioan Cuza Nr. 2, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.293642,
+                        "longitude": 21.881013
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-service-automobile-caransebes-sa",
+                    "name": "ITP Caransebes - S.C. SERVICE AUTOMOBILE CARANSEBES S.A.",
+                    "image": "https://itpgo.ro25a43a01-681f-4176-9ba3-4e896011f9f3/25a43a01-681f-4176-9ba3-4e896011f9f3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBES, CALEA SEVERINULUI nr. 150, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.398085,
+                        "longitude": 22.225337
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS005"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-service-automobile-sa",
+                    "name": "SC SERVICE AUTOMOBILE SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBES, CALEA TIMISOAREI nr. 48A, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.318509,
+                        "longitude": 21.871475
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-s-m-passion-paint-srl",
+                    "name": "SC S & M PASSION PAINT SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBES, CALEA SEVERINULUI nr. 8, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.406251,
+                        "longitude": 22.223103
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-vladicar-plus-itp-srl",
+                    "name": "SC VLADICAR PLUS ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBES, STR. PAVEL CHINEZU nr. 4, jud. CARAS-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.290205,
+                        "longitude": 21.921416
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/societate-cooperativa-mestesugareasca-viitorul-carasan",
+                    "name": "Societate Cooperativa Mestesugareasca Viitorul Carasan",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "Calea Timisorii Nr. 17, Resita"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.156171,
+                        "longitude": 21.322081
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/unitatea-militara-01372",
+                    "name": "UNITATEA MILITARA 01372",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Caras-Severin",
+                        "streetAddress": "CARANSEBEŞ, STR. AEROPORTULUI NR. 1, JUD. CARAŞ-SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.702062,
+                        "longitude": 25.531267
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "CS046"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Caras-Severin",
+            "alternateName": "CS"
+        }
+    }
+}

@@ -1,0 +1,3310 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Timis",
+    "description": "Stații ITP autorizate RAR din județul Timis. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/timis",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Timis",
+                "item": "https://itpgo.ro/judet/timis"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 117,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/agrotransport-sinnicolau-mare-sa",
+                    "name": "Agrotransport Sinnicolau Mare",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Garii Nr. 10, Sannicolau Mare"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.058484,
+                        "longitude": 20.641981
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM005"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alfa-star-impex-srl",
+                    "name": "Alfa Star | Service Auto, Camioane si Autocare Timisoara, Itp si Verificare Tahograf",
+                    "image": "https://itpgo.ro14f3d24f-0290-4c60-a74c-cfc4d062b109/14f3d24f-0290-4c60-a74c-cfc4d062b109.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA LUGOJULUI NR. DN6 , KM 547+420, GHIRODA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.774437,
+                        "longitude": 21.295858
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM099"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/allmondocar-srl",
+                    "name": "Allmondocar",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Prahova Nr. 1/a, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.737112,
+                        "longitude": 21.203596
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM093"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alu-cars-srl",
+                    "name": "ALU CARS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "NR. 471GARAJ, UTVIN, SANMIHAIU ROMAN, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.716434,
+                        "longitude": 21.136377
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM167"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amivelin-zi-arl",
+                    "name": "ITP Amivelin Zi",
+                    "image": "https://itpgo.roa9965a1d-a9da-4207-a285-96994afb8bae/a9965a1d-a9da-4207-a285-96994afb8bae.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA CHISODEI NR. 221 , HALA P, CHISODA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.712965,
+                        "longitude": 21.192748
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM162"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/astrum-srl",
+                    "name": "Astrum",
+                    "image": "https://itpgo.ro340e592d-6edd-4180-8b32-cce8df4dc5cf/340e592d-6edd-4180-8b32-cce8df4dc5cf.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "B-dul. Liviu Rebreanu Nr. 82a, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.737789,
+                        "longitude": 21.235769
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM088"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoclub-srl",
+                    "name": "AUTOCLUB SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA LUGOJULUI NR. 93, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.854114,
+                        "longitude": 22.176709
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM174"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-cs-diag-itp-srl",
+                    "name": "AUTO C&S DIAG-ITP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "TIRGULUI NR. 24, BUZIAS, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.728652,
+                        "longitude": 21.325166
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM133"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-db-ramina-grup-2008-srl",
+                    "name": "Auto D&b Ramina Grup 2008",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Zorilor Nr. 16b, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.683722,
+                        "longitude": 21.884448
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autodema-premiuim-cars-srl",
+                    "name": "Autodema Premium Cars",
+                    "image": "https://itpgo.ro69bdde50-8304-4a31-973b-a5164ce2249b/69bdde50-8304-4a31-973b-a5164ce2249b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Bulevardul Liviu Rebreanu Nr. 164, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.737072,
+                        "longitude": 21.248924
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM157"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-djtest-srl",
+                    "name": "AUTO DJTEST SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SRADA XI,  BL.77A, SAG, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.649294,
+                        "longitude": 21.17368
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM124"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-elecont-srl",
+                    "name": "Auto Elecont",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Divizia 9 Cavalerie Nr. 19, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.768816,
+                        "longitude": 21.235062
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-europa-srl",
+                    "name": "Auto Europa",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Sagului Nr. 142/a, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.71389,
+                        "longitude": 21.192253
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-gyulya-srl",
+                    "name": "Auto Gyulya - Service auto si statie ITP",
+                    "image": "https://itpgo.ro6e533135-92d3-49d3-9381-8ad8b3b8c521/6e533135-92d3-49d3-9381-8ad8b3b8c521.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA CHIȘODEI NR. 207, GIROC, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.712965,
+                        "longitude": 21.192748
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM132"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-lali-srl",
+                    "name": "Auto Lali",
+                    "image": "https://itpgo.roe4960cf3-d5e0-4fdb-a7a7-b02ebf075d7d/e4960cf3-d5e0-4fdb-a7a7-b02ebf075d7d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Haga Nr. 27, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.775616,
+                        "longitude": 21.229764
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM075"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-lcd-srl",
+                    "name": "Auto Lcd",
+                    "image": "https://itpgo.ro75ead022-7b63-4d65-b134-7ffd1b966408/75ead022-7b63-4d65-b134-7ffd1b966408.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Basarabia, Sad1+sad2+sad3+sad4 Nr. 174a, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.769726,
+                        "longitude": 21.197195
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autolugojana-sa",
+                    "name": "Auto Lugojana",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Sos. Fagetului Nr. Km 2, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.69425,
+                        "longitude": 21.920941
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM001"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-motor-rgp-srl",
+                    "name": "AUTO MOTOR RGP SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA DORABANȚILOR NR. 68, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.76765,
+                        "longitude": 21.263788
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM179"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automotrix-srl",
+                    "name": "AUTOMOTRIX SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "COM. DUMBRĂVIŢA, SAT DUMBRĂVIŢA,  DJ 691, KM 8, BIROU 1, ET. PARTER NR. -, JUD. TIMIŞ"
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM181"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-pandoni-2015-srl",
+                    "name": "Auto Pandoni 2015",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Nicolae Andreescu, Cam. 4 Nr. 80, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.730138,
+                        "longitude": 21.186516
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM125"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoparctest-srl",
+                    "name": "Autoparctest",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Fagetului Nr. Nr. 163a, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.69425,
+                        "longitude": 21.920941
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM159"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-roemyl-srl",
+                    "name": "Auto Roemyl",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Aleea Revolutiei Nr. 4a, Deta"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.386033,
+                        "longitude": 21.227121
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-rs-utvin-srl",
+                    "name": "AUTO RS UTVIN SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "COM. SÂNMIHAIU ROMAN, SAT UTVIN NR. 506, JUD. TIMIȘ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.807598,
+                        "longitude": 21.24082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM143"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoserv-dnd-srl",
+                    "name": "Autoserv Dnd",
+                    "image": "https://itpgo.ro5f8e20eb-1838-4e73-8b34-bc6e72d1a4df/5f8e20eb-1838-4e73-8b34-bc6e72d1a4df.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Lugojului Nr. 13/b, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.764172,
+                        "longitude": 21.251943
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM116"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-service-luca-srl",
+                    "name": "Auto Service Luca",
+                    "image": "https://itpgo.ro9801725f-83b4-4f1f-ae9e-499fb4d09afe/9801725f-83b4-4f1f-ae9e-499fb4d09afe.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Bogdanestilor Nr. 119, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.757202,
+                        "longitude": 21.211866
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-service-victor-srl",
+                    "name": "Auto Service Victor",
+                    "image": "https://itpgo.ro1dd68f41-a4a5-4d6e-be2f-5aa202b55500/1dd68f41-a4a5-4d6e-be2f-5aa202b55500.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Dinu Lipatti Nr. 6, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.759245,
+                        "longitude": 21.214944
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-start-epco-srl",
+                    "name": "Auto Start Epco",
+                    "image": "https://itpgo.rocc32c34e-f9a6-49b5-8486-fe9b7c28c149/cc32c34e-f9a6-49b5-8486-fe9b7c28c149.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Nicolint Nr. 2, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.749959,
+                        "longitude": 21.246295
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM147"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/avm-4-motion-srl",
+                    "name": "AVM 4 MOTION SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA LUGOJULUI  NR. 27A, GHIRODA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.774437,
+                        "longitude": 21.295858
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM178"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bankov-srl",
+                    "name": "Bankov",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Bocsei Nr. 78-80, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.513868,
+                        "longitude": 26.518337
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/best-engine-srl",
+                    "name": "BEST ENGINE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SAT GHIRODA, CALEA LUGOJULUI NR. 140, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.853884,
+                        "longitude": 22.176882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM106"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/black-srl",
+                    "name": "Black",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Poet Vasile Carlova Nr. 16, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.919843,
+                        "longitude": 26.39208
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM165"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/b-t-srl",
+                    "name": "B & T SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "DJ 691 , KM. 7+140, DUMBRAVITA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.742909,
+                        "longitude": 21.299412
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM127"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/caracuda-trans-auto-srl",
+                    "name": "Caracuda Trans Auto",
+                    "image": "https://itpgo.rod687aac4-be46-4b14-9ff3-fa48d71535ee/d687aac4-be46-4b14-9ff3-fa48d71535ee.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Stan Vidrighin, In Hala Auto Nr. 22, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.740531,
+                        "longitude": 21.256295
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM119"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/car-doctors-best-service-srl",
+                    "name": "ITP - CAR DOCTORS",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "LACULUI NR. 1,  BL.C13, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.735261,
+                        "longitude": 21.197387
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM171"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/complete-motors-srl",
+                    "name": "Complete Motors-ITP si Service auto",
+                    "image": "https://itpgo.rob744371f-4bde-4144-92e1-09972224a401/b744371f-4bde-4144-92e1-09972224a401.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "PETRE STOICA NR. 17, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.706983,
+                        "longitude": 21.179835
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM173"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/corlan-service-srl",
+                    "name": "Corlan Service",
+                    "image": "https://itpgo.ro115404b2-e2b6-47c8-8966-6fa169bd8383/115404b2-e2b6-47c8-8966-6fa169bd8383.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Ovidiu Cotrus, Hala Iii Nr. 21, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.716452,
+                        "longitude": 21.187988
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM163"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/corlan-trans-srl",
+                    "name": "Corlan Trans",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Ovidiu Cotrus, Hala Iii Nr. 21, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.716452,
+                        "longitude": 21.187988
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM123"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/d-auto-xpert-srl",
+                    "name": "D Auto Xpert",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Paul Constantinescu Nr. 48, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.731967,
+                        "longitude": 21.196834
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM121"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/demetra-srl",
+                    "name": "Demetra",
+                    "image": "https://itpgo.ro2be169e3-a15f-4e2e-8e85-a8f3efbcfc68/2be169e3-a15f-4e2e-8e85-a8f3efbcfc68.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Aristide Demetriade Nr. 28, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.771766,
+                        "longitude": 21.25258
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/digi-group-srl",
+                    "name": "DIGI GROUP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "str. CHIMISTILOR nr. 2, C13, TIMISOARA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.741591,
+                        "longitude": 21.257598
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dsl-garaje-srl",
+                    "name": "Dsl Garage",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Hezerisului, Cf 411752 Nr. Fn, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.703453,
+                        "longitude": 21.907512
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM117"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ducodan-srl",
+                    "name": "DUCODAN Service si Statie ITP",
+                    "image": "https://itpgo.ro446820f0-6e4a-4230-8cda-856de1fdaf2a/446820f0-6e4a-4230-8cda-856de1fdaf2a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "LUGOJULUI NR. 107, GHIRODA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.774437,
+                        "longitude": 21.295858
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM161"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dunca-expeditii-sa",
+                    "name": "DUNCA EXPEDITII S.A.",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "DJ 691 , KM. 7+142, DUMBRAVITA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.742909,
+                        "longitude": 21.299412
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dunca-imobiliare-srl",
+                    "name": "DUNCA IMOBILIARE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "str. DJ 691 KM 7+142 nr. , DUMBRAVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.470265,
+                        "longitude": 26.049827
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM012"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dv-dumitrivas-2013-srl",
+                    "name": "Dv Dimitrivas 2013",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Saravale, Spatiul 2 Nr. 26, Sannicolau Mare"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.065854,
+                        "longitude": 20.645845
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM128"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eddydiego-service-srl",
+                    "name": "EDDY&DIEGO SERVICE SRL",
+                    "image": "https://itpgo.roedb5d12e-0bb7-4996-b1fa-11ad0dbf97db/edb5d12e-0bb7-4996-b1fa-11ad0dbf97db.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CONAC NR. 5, DUMBRAVITA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.789975,
+                        "longitude": 21.23811
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM135"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/exigent-autolug-srl",
+                    "name": "Exigent Autolug",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Olosagului Nr. 2, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.410957,
+                        "longitude": 26.136929
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM110"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/exigent-autotop-srl",
+                    "name": "Exigent Autotop",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Olosagului Nr. 3, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.411916,
+                        "longitude": 26.138063
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM168"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/expressline-srl",
+                    "name": "EXPRESSLINE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "STR C.T KM1+200, GHIRODA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.807598,
+                        "longitude": 21.24082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM108"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/fetcu-auto-itp-srl",
+                    "name": "FETCU AUTO-ITP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "INDUSTRIEI, CLĂDIREA NR. 2, SACALAZ, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.734941,
+                        "longitude": 21.2639
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM153"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/filipin-alin-2016-srl",
+                    "name": "ITP Dumbravita",
+                    "image": "https://itpgo.rodcbd01dc-8948-4d1e-a11f-a6f8d77c5249/dcbd01dc-8948-4d1e-a11f-a6f8d77c5249.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SAT GIARMATA, STR. CALEA LIPOVEI, KM. 9, FERMA 3+4 NR. -, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.807598,
+                        "longitude": 21.24082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM120"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/general-auto-lucluc-srl",
+                    "name": "GENERAL AUTO LUC&LUC SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "PRINCIPALĂ NR. 62A,  BL.CAMERA 1, BUZIAS, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.647673,
+                        "longitude": 21.601484
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM134"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/geodin-srl",
+                    "name": "Geodin",
+                    "image": "https://itpgo.ro4fbabbf8-a349-42be-b2d3-563a515510ad/4fbabbf8-a349-42be-b2d3-563a515510ad.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Stan Vidrighin Nr. 14, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.743624,
+                        "longitude": 21.25424
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/giurgiev-grup-srl",
+                    "name": "ITP Giurgiev Grup",
+                    "image": "https://itpgo.road48aab2-70e2-4dd2-8e80-a2662769c098/ad48aab2-70e2-4dd2-8e80-a2662769c098.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "BL.471, UTVIN, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.716434,
+                        "longitude": 21.136377
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gm-gamir-business-srl",
+                    "name": "Gm Gamir Business",
+                    "image": "https://itpgo.ro235f7d27-cf27-4d6f-95e5-8f3b4f59b47d/235f7d27-cf27-4d6f-95e5-8f3b4f59b47d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Cornelia Salceanu Nr. 28, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.752907,
+                        "longitude": 21.242721
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM131"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/happy-clean-super-itp-srl",
+                    "name": "Happy Clean Super Itp",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Mitropolit Andrei Saguna Nr. 47, Sannicolau Mare"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.073872,
+                        "longitude": 20.632461
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM140"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ilie-inspect-srl",
+                    "name": "ILIE INSPECT SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "GĂRII NR. 10, SANNICOLAU MARE, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.057913,
+                        "longitude": 20.642392
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM180"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-auto-cbo-srl",
+                    "name": "ITP AUTO CBO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "NR. 240, AP 4, BILED, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.788646,
+                        "longitude": 21.240014
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM138"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-jp-2021-srl",
+                    "name": "Itp Jp 2021",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Chimistilor Nr. 2, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.741591,
+                        "longitude": 21.257598
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM141"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-supremia-srl",
+                    "name": "Itp Supremia",
+                    "image": "https://itpgo.rod6db1d6d-5fee-4d12-9485-86f4a41ec2cb/d6db1d6d-5fee-4d12-9485-86f4a41ec2cb.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Pindului Nr. 25, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.749495,
+                        "longitude": 21.259833
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM122"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/jaqlingabriela-srl",
+                    "name": "Jaqlin & Gabriela",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Dumitru Tichindeal Nr. 35 A, Sannicolau Mare"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.075483,
+                        "longitude": 20.631151
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM111"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lontis-development-srl",
+                    "name": "Lontis Development",
+                    "image": "https://itpgo.ro787431a9-ecb8-49b8-a737-3a1025b4d91b/787431a9-ecb8-49b8-a737-3a1025b4d91b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Armoniei Nr. 27, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.783773,
+                        "longitude": 21.222905
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM150"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/maracana-service-srl",
+                    "name": "Stație ITP Maracana",
+                    "image": "https://itpgo.ro87d59216-eff2-4c4b-869a-448f4f04fdc9/87d59216-eff2-4c4b-869a-448f4f04fdc9.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "str. MARGINII nr. 1, DUMBRAVITA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.784337,
+                        "longitude": 21.222167
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/maracana-srl",
+                    "name": "MARACANA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "DUMBRĂVIŢA, STR. MARGINII NR. 1, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.469734,
+                        "longitude": 26.240537
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/marbay-srl",
+                    "name": "Marbay",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Horia Nr. 44, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.763076,
+                        "longitude": 21.206777
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mardana-serviceitp-srl",
+                    "name": "Mardana Service&itp",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Ovidiu Cotrus Nr. 12, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.718982,
+                        "longitude": 21.175143
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM156"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mega-group-sa",
+                    "name": "MEGA GROUP S.A",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA LUGOJULUI,  BL.28-30, GHIRODA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.774437,
+                        "longitude": 21.295858
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 68,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mesitepe-auto-srl",
+                    "name": "Mesitepe Auto",
+                    "image": "https://itpgo.roeb65e667-631c-430e-a05d-ca61e6c71cb0/eb65e667-631c-430e-a05d-ca61e6c71cb0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "B-dul. Liviu Rebreanu Nr. 164, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.737072,
+                        "longitude": 21.248924
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM113"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 69,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/msa-motors-srl",
+                    "name": "MSA MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "str. CHIMISTILOR nr. 2, TIMISOARA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.741591,
+                        "longitude": 21.257598
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM022"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 70,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/msca-servtest-srl",
+                    "name": "Msca   Servtest",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Padurarului Nr. 1, Recas"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.800001,
+                        "longitude": 21.516525
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM077"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 71,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mtz-technical-srl",
+                    "name": "MTZ TECHNICAL SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA ȘAGULUI NR. 138E,  BL.SPAȚIU NR.3, GIROC, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.717935,
+                        "longitude": 21.196622
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM170"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 72,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/muresan-auto-garage-srl",
+                    "name": "MURESAN AUTO GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SAT SĂCĂLAZ, COM. SĂCĂLAZ, STR. WOLFSBERG, CAM. 1 NR. 1 A, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.710344,
+                        "longitude": 26.65221
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM151"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 73,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nick-itp-rapid-srl",
+                    "name": "NICK ITP RAPID SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SAT VARIAŞ, COM. VARIAŞ, - NR. NR. 1057, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.720818,
+                        "longitude": 21.30307
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM158"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 74,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nsk-inka-motors-srl",
+                    "name": "Nsk Inka Motors",
+                    "image": "https://itpgo.ro10623d00-d620-4f73-a3f7-ccd72b9c294a/10623d00-d620-4f73-a3f7-ccd72b9c294a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Matei Millo Nr. 2, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.728555,
+                        "longitude": 21.263801
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM137"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 75,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nv-premium-garage-srl",
+                    "name": "N&V PREMIUM GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "ARDEALULUI NR. 55/A, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.727612,
+                        "longitude": 21.180662
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM175"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 76,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/paul-trans-srl",
+                    "name": "Paul Trans",
+                    "image": "https://itpgo.rob6ecbd33-4b15-457f-903a-ef2f219b1f8f/b6ecbd33-4b15-457f-903a-ef2f219b1f8f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Sagului, Km 8 + 700 M Nr. Dn 59, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.717935,
+                        "longitude": 21.196622
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM097"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 77,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pej-service-srl",
+                    "name": "PEJ SERVICE S.R.L",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "NR. 1156, JEBEL, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.807598,
+                        "longitude": 21.24082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM146"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 78,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pert-group-srl",
+                    "name": "Pert Group",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. B. P. Hasdeu Nr. 1, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.334252,
+                        "longitude": 25.719972
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM010"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 79,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/procar-timisoara-sa",
+                    "name": "Procar Timisoara",
+                    "image": "https://itpgo.rod5ff13da-7fcc-49f2-bff1-fae830a03eb5/d5ff13da-7fcc-49f2-bff1-fae830a03eb5.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Sagului Nr. 138b, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.717935,
+                        "longitude": 21.196622
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM164"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 80,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/quality-solutions-auto-srl",
+                    "name": "Quality & Solutions Auto",
+                    "image": "https://itpgo.ro4e167d88-7b54-484b-85c9-eccefbeeb423/4e167d88-7b54-484b-85c9-eccefbeeb423.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Ion Ionescu De La Brad, Corp A, Hala 2/a Nr. 29, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.778457,
+                        "longitude": 21.241057
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM154"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 81,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/r2-max-srl",
+                    "name": "R2 Max",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Costache Negruzzi Nr. 1a, Jimbolia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.793681,
+                        "longitude": 20.736789
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM101"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 82,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/raco-itp-srl",
+                    "name": "Raco Itp",
+                    "image": "https://itpgo.ro6baa587c-002c-4545-ad72-b6559ee21e2b/6baa587c-002c-4545-ad72-b6559ee21e2b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Buziasului Nr. 11g, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.728693,
+                        "longitude": 21.270673
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM160"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 83,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ralghero-auto-serv-srl",
+                    "name": "Ralghero Auto Serv",
+                    "image": "https://itpgo.roed4ad125-39ee-4c45-9910-2d66db742c0e/ed4ad125-39ee-4c45-9910-2d66db742c0e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Spitalului Nr. 5, Faget"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.844784,
+                        "longitude": 22.174342
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM145"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 84,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rbi-automotive-srl",
+                    "name": "Castrol Service RBI Automotive SRL",
+                    "image": "https://itpgo.ro1e588886-7a9a-4639-a506-535e7bf4fe86/1e588886-7a9a-4639-a506-535e7bf4fe86.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "VARȘOVIA NR. 14 A,  BL.SPAȚIUL 1, DUMBRAVITA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.786513,
+                        "longitude": 21.234212
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM118"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 85,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/repsol-aul-services-srl",
+                    "name": "Service & ITP Repsol",
+                    "image": "https://itpgo.ro6a58f188-82f0-4390-ab57-e556d35ca2af/6a58f188-82f0-4390-ab57-e556d35ca2af.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "MUNCITORILOR,  BL.29, GIROC, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.697214,
+                        "longitude": 21.23524
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM149"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 86,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rgp-tehnic-cmc-timisoara-srl",
+                    "name": "Rgp Tehnic Cmc Timisoara",
+                    "image": "https://itpgo.ro83ed8138-ab54-4baa-a282-46ee2abcb0e9/83ed8138-ab54-4baa-a282-46ee2abcb0e9.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Turda Nr. 16, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.767784,
+                        "longitude": 21.266899
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 87,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/robert-tahografe-srl",
+                    "name": "ROBERT TAHOGRAFE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "str. VALIUG nr. 5, TIMISOARA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.726909,
+                        "longitude": 21.180124
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 88,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rp-industry-srl",
+                    "name": "Rp Industry",
+                    "image": "https://itpgo.ro1b3eaf58-243c-467a-bec1-c0f51bdbc897/1b3eaf58-243c-467a-bec1-c0f51bdbc897.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Divizia 9 Cavalerie Nr. 60, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.766495,
+                        "longitude": 21.242076
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 89,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ryco-giroc-95-srl",
+                    "name": "Stație ITP Ryco",
+                    "image": "https://itpgo.rob9094310-3419-415f-9ad0-97ee22e41f19/b9094310-3419-415f-9ad0-97ee22e41f19.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SEMENIC NR. 27, GIROC, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.698537,
+                        "longitude": 21.226745
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 90,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-djtest-srl",
+                    "name": "SC AUTO DJTEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Sat Sag, Strada LXX, Comuna Sag nr. 3, jud. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.657962,
+                        "longitude": 21.188586
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM166"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 91,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-europa-srl",
+                    "name": "SC AUTO EUROPA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "TIMISOARA, STR. MIRESEI nr. 1, jud. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.768462,
+                        "longitude": 21.22304
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 92,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-lali-srl",
+                    "name": "SC AUTO LALI SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "COMLOSU MIC, COMLOSU MIC nr. 288, jud. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.807598,
+                        "longitude": 21.24082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 93,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-unik-autoservice-2016-srl",
+                    "name": "Unik Autoservice 2016",
+                    "image": "https://itpgo.roc7b9e0fc-dfc3-42e9-86ca-5b16e77354d4/c7b9e0fc-dfc3-42e9-86ca-5b16e77354d4.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Ovidiu Cotrus Nr. 12, Hala 4, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.718982,
+                        "longitude": 21.175143
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM109"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 94,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-blue-srl",
+                    "name": "ITP - AUTO|MOTO|ATV - Mosnita Noua",
+                    "image": "https://itpgo.ro3a98b0f9-60ce-420d-a636-148ada896638/3a98b0f9-60ce-420d-a636-148ada896638.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SKOPJE,  BL.9, MOSNITA NOUA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.853255,
+                        "longitude": 22.187246
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM130"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 95,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-test-grup-srl",
+                    "name": "ITP SERVICE TEST GRUP",
+                    "image": "https://itpgo.ro653fdf4c-6593-42e0-8801-f9094b53e673/653fdf4c-6593-42e0-8801-f9094b53e673.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "NR. 379, HALA 2, REMETEA MARE, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.775616,
+                        "longitude": 21.229764
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 96,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/servicetest-sarbu-srl",
+                    "name": "SERVICETEST SARBU SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CONAC NR. 22,  BL.22, DUMBRAVITA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.789975,
+                        "longitude": 21.23811
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM126"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 97,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/serv-ram-test-srl",
+                    "name": "Serv Ram Test",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Stan Vidrighin, Hala Atelier+birou+platforma Nr. 14, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.740531,
+                        "longitude": 21.256295
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 98,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/silver-motors-srl",
+                    "name": "SILVER MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "GHIRODA, CALEA LUGOJULUI NR. 135, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.853884,
+                        "longitude": 22.176882
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM070"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 99,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sin-band-music-srl",
+                    "name": "SIN BAND MUSIC SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "NR. 262A, ULIUC, SACOSU TURCESC, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.807598,
+                        "longitude": 21.24082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM172"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 100,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/societatea-cooperativa-autorecord",
+                    "name": "Societate Cooperativa Autorecord",
+                    "image": "https://itpgo.rob6264f52-dad6-4490-9cb5-e1d1c24d41a5/b6264f52-dad6-4490-9cb5-e1d1c24d41a5.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Calea Dorobantilor Nr. 59-63, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.768866,
+                        "longitude": 21.265779
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM007"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 101,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/societatea-de-transport-public-timisoara-sa",
+                    "name": "Societatea De Transport Public Timisoara",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "B-dul. Dambovita (colt Cu Strada Barac) Nr. 3, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.741719,
+                        "longitude": 21.224032
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 102,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/soltim-diagnoza-srl",
+                    "name": "Soltim Diagnoză ITP",
+                    "image": "https://itpgo.robdfbe931-3798-4d60-97fd-aac3407c3776/bdfbe931-3798-4d60-97fd-aac3407c3776.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "DUMBRĂVIŢA, STR. JOZSEF ATTILA NR. 17A, 1, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.73328,
+                        "longitude": 21.230985
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM142"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 103,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/soruica-rafael-intreprindere-individuala",
+                    "name": "Soruica Rafael Intreprindere Individuala",
+                    "image": "https://itpgo.rocab18f1a-c6e6-4c45-a149-d31c451d9e73/cab18f1a-c6e6-4c45-a149-d31c451d9e73.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Ion Ionescu De La Brad Nr. 29, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.776724,
+                        "longitude": 21.247264
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM112"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 104,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tahografe-afc-srl",
+                    "name": "TAHOGRAFE AFC SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "str. CALEA TIMISOAREI nr. 18 corpC6, SAT GIARMATA, COM. GIARMATA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.832341,
+                        "longitude": 21.282435
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 105,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tasatim-srl",
+                    "name": "TASATIM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "BL.6, REMETEA MARE, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.739498,
+                        "longitude": 21.334759
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM155"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 106,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tedde-auto-complex-srl",
+                    "name": "TEDDE AUTO COMPLEX SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "LALELEROR NR. 14,  AP.CAMERA 1, SATCHINEZ, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.801393,
+                        "longitude": 21.240413
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM169"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 107,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tim-autotest-srl",
+                    "name": "Tim Autotest",
+                    "image": "https://itpgo.ro97969c85-7a60-4111-a2d9-5f8e77668b5a/97969c85-7a60-4111-a2d9-5f8e77668b5a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Martir Cernaianu Nr. 15a, Cam 1, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.765873,
+                        "longitude": 21.211499
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 108,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tim-ciclop-srl",
+                    "name": "Tim Ciclop",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Mitropolit Alex.sterca-sulutiu Nr. 6, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.510028,
+                        "longitude": 21.267141
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 109,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tm055",
+                    "name": "TM055",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "CALEA STAN VIDRIGHIN NR. 4, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.738417,
+                        "longitude": 21.257328
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 110,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tm-mecanica-srl",
+                    "name": "TM MECANICA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "ION IONESCU DE LA BRAD NR. 29, CLĂDIREA NR. CORP A, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.776724,
+                        "longitude": 21.247264
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM177"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 111,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transpol-service-srl",
+                    "name": "TRANSPOL-SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "SAT GHIRODA, COMUNA GHIRODA, DN 6 KM 548+750 DR, JUDEȚUL TIMIȘ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.807598,
+                        "longitude": 21.24082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 112,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transport-mixt-fageteana-sa",
+                    "name": "Transport Mixt Fageteana",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Gheorghe Doja Nr. 82, Faget"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.856537,
+                        "longitude": 22.18218
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 113,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/truscada-nail-srl",
+                    "name": "TRUSCADA NAIL SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "BATRANA,  BL.67, SANANDREI, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.859156,
+                        "longitude": 21.168104
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM115"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 114,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ttu-auto-srl",
+                    "name": "TTU Service Auto & ITP",
+                    "image": "https://itpgo.ro18d93b04-163d-4b25-960e-ef49afac6524/18d93b04-163d-4b25-960e-ef49afac6524.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "NICOLINȚ NR. 2, TIMISOARA, JUD. TIMIS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.069373,
+                        "longitude": 20.632582
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM176"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 115,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/valerau-iovi-srl",
+                    "name": "Valerau Iovi",
+                    "image": "https://itpgo.ro85e079bf-1b15-4c37-a940-3dc4954ad4a0/85e079bf-1b15-4c37-a940-3dc4954ad4a0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Aristide Demetriade, Hala C3, Boxa 2 Nr. 30, Timisoara"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.767581,
+                        "longitude": 21.244692
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM094"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 116,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vision-pro-technik-srl",
+                    "name": "VISION PRO TECHNIK SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "COM. MOŞNIŢA NOUĂ, SAT MOŞNIŢA NOUĂ NR. DJ592, JUD. TIMIŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.685574,
+                        "longitude": 21.888548
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM148"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 117,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/welcar-srl",
+                    "name": "Welcar",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Timis",
+                        "streetAddress": "Str. Salcimului Nr. 15, Lugoj"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.533216,
+                        "longitude": 27.00418
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "TM019"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Timis",
+            "alternateName": "TM"
+        }
+    }
+}

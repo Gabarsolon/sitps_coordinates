@@ -1,0 +1,2699 @@
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Stații ITP Bihor",
+        "description": "Stații ITP autorizate RAR din județul Bihor. Programări rapide și informații complete despre stațiile ITP.",
+        "url": "https://itpgo.ro/judet/bihor",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Judete",
+                    "item": "https://itpgo.ro/judet"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Stații ITP Bihor",
+                    "item": "https://itpgo.ro/judet/bihor"
+                }
+            ]
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "numberOfItems": 95,
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/aconalex-srl",
+                        "name": "Aconalex",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. O.densusianu Nr. F.n., Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.710344,
+                            "longitude": 26.65221
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH048"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/acoserv-srl",
+                        "name": "Acoserv",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ovid Densusianu Nr. 1d, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.059812,
+                            "longitude": 21.89419
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH127"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/agrosistem-srl",
+                        "name": "Agrosistem",
+                        "image": "https://itpgo.rob7e0a3e2-de63-44dd-922b-a0c40988fb1f/b7e0a3e2-de63-44dd-922b-a0c40988fb1f.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Mihail Kogalniceanu Nr. 26, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.051916,
+                            "longitude": 21.928877
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH039"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/alisae-srl",
+                        "name": "ALISAE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "REPUBLICII NR. 19, TINCA, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.779728,
+                            "longitude": 21.928057
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH043"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/anvelopa-srl",
+                        "name": "ANVELOPA SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "MUNICIPIUL BEIUS, STR. LUCIAN BLAGA, NR.5, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.53963,
+                            "longitude": 22.464712
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH021"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-baraco-srl",
+                        "name": "Auto Bara&co",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Sos. Borsului Nr. 22, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.082146,
+                            "longitude": 21.889599
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH041"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-belenes-srl",
+                        "name": "Service itp auto Belenes",
+                        "image": "https://itpgo.ro57d6f422-ade0-45d7-91a4-b9cfff2e009e/57d6f422-ade0-45d7-91a4-b9cfff2e009e.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT SANMARTIN, COMUNA SINMARTIN, STR. MARIN SORESCU, NR.6/F, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.996595,
+                            "longitude": 22.081063
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH099"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-chirodea-srl",
+                        "name": "Auto Chirodea",
+                        "image": "https://itpgo.ro16130ca8-61aa-4f1a-8098-e862c3a9dc60/16130ca8-61aa-4f1a-8098-e862c3a9dc60.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "BULEVARDUL FELIX NR. 11/F, SANMARTIN, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.021725,
+                            "longitude": 21.962269
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH095"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autocrisana-sa",
+                        "name": "S.C. Autocrișana S.A.",
+                        "image": "https://itpgo.ro5ccaa8ba-bbe1-4340-9382-7776f174f47a/5ccaa8ba-bbe1-4340-9382-7776f174f47a.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "STRADA ATELIERELOR NR. 12, ORADEA, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.038679,
+                            "longitude": 21.93658
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH012"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-elite-srl",
+                        "name": "Auto Elite",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Kulin Gyorgy Nr. 39/2, Salonta"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.799304,
+                            "longitude": 21.662813
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH128"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-inspection-solution-srl",
+                        "name": "Auto Inspection Solution SRL",
+                        "image": "https://itpgo.rob40cb966-0555-491b-9c9c-4859458c0236/b40cb966-0555-491b-9c9c-4859458c0236.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "COM. BOROD, SAT BOROD NR. 267/A, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.446554,
+                            "longitude": 26.069853
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH094"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-itp-catalin-srl",
+                        "name": "AUTO ITP CATALIN SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "POET ANDREI MURESANU  NR. 56, TINCA, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.808393,
+                            "longitude": 21.631796
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH146"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 13,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-nik-srl",
+                        "name": "Auto Nik",
+                        "image": "https://itpgo.roece5549a-4afc-4ec2-a8ce-392dfa99d4b4/ece5549a-4afc-4ec2-a8ce-392dfa99d4b4.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Daliei Nr. 40, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.027483,
+                            "longitude": 21.939036
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH058"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 14,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autoprofesional-srl",
+                        "name": "AUTOPROFESIONAL SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "30 NOIEMBRIE,  BL.34, SANTANDREI, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.057469,
+                            "longitude": 21.872719
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH139"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 15,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-rorai-srl",
+                        "name": "AUTO RORAI SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT VOIEVOZI, COM POPEŞTI, - NR. 438, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.229136,
+                            "longitude": 25.880584
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH114"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 16,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autotech-expert-srl",
+                        "name": "AUTOTECH EXPERT SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT URVIND, COMUNA LUGASU DE JOS, NR.298A , JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.998999,
+                            "longitude": 25.069693
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH142"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 17,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autotusyan-service-srl",
+                        "name": "AUTOTUSYAN SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT HIDISELU DE JOS, COMUNA HIDISELU DE SUS, NR.178/B, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.947418,
+                            "longitude": 22.024078
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH124"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 18,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-universal-itp-srl",
+                        "name": "Auto Universal Itp",
+                        "image": "https://itpgo.ro95a7310a-70f2-43ad-aa4a-d71c2532d73b/95a7310a-70f2-43ad-aa4a-d71c2532d73b.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ogorului Nr. 62, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.027705,
+                            "longitude": 21.968055
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH067"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 19,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ban-test-srl",
+                        "name": "Ban Test",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Borsului Nr. 14/n, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.077171,
+                            "longitude": 21.894767
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH129"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 20,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/barosan-service-srl",
+                        "name": "Barosan Service",
+                        "image": "https://itpgo.ro5dfc49b9-a4a1-409e-9183-a24fad86df07/5dfc49b9-a4a1-409e-9183-a24fad86df07.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ursului Nr. 3, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.050936,
+                            "longitude": 21.914136
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH075"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 21,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/biasov-srl",
+                        "name": "Biasov",
+                        "image": "https://itpgo.rod5dcb3f1-96a3-4d63-96b9-92c338219b63/d5dcb3f1-96a3-4d63-96b9-92c338219b63.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "P-ta. Episcop Ignatie Darabant Nr. 6, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.055903,
+                            "longitude": 21.892656
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH051"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 22,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/bimaexpert-srl",
+                        "name": "Bimaexpert",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ion Luca Caragiale Nr. 30/c, Marghita"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.33875,
+                            "longitude": 22.331085
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH062"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 23,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/bortos-inspections-srl",
+                        "name": "Bortos Inspections",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Clujului Nr. 300, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.042564,
+                            "longitude": 21.973108
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH136"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 24,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/bp-autohaus-srl",
+                        "name": "BP AUTOHAUS SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "BEIUŞ, STR. GHEORGHE BARIŢIU NR. 2A, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.996659,
+                            "longitude": 21.960542
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH102"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 25,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/camioane-srl",
+                        "name": "CAMIOANE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "str. SOS. BORSULUI nr. 89, SAT SANTION, COMUNA BORS"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.096072,
+                            "longitude": 21.835195
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH029"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 26,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/camtruck-serv-srl",
+                        "name": "CAMTRUCK SERV SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT SANTION, COMUNA BORS, SOSEAUA BORSULUI, NR.89, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.779295,
+                            "longitude": 24.705739
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH049"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 27,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/catalin-top-service-srl",
+                        "name": "Catalin Top Service",
+                        "image": "https://itpgo.ro695eb04f-7b2c-429b-b084-6f3f6c591be5/695eb04f-7b2c-429b-b084-6f3f6c591be5.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "MUNICIPIUL BEIUS, STRADA 1 DECEMBRIE 1918, NR.56A, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.350821,
+                            "longitude": 22.348273
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH120"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 28,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/catronic-srl",
+                        "name": "Catronic",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. 13 Septembrie Nr. 18, Stei"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.539459,
+                            "longitude": 22.46794
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH092"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 29,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/centru-instruire-tachonan",
+                        "name": "CENTRU INSTRUIRE TACHONAN",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "str. OGORULUI nr. 62, ORADEA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.027705,
+                            "longitude": 21.968055
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH997"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 30,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cetidora-com-srl",
+                        "name": "CETIDORA COM SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "ALESD, STR. RASARITULUI, NR. 2A, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.980071,
+                            "longitude": 21.927668
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH066"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 31,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/com-micron-srl",
+                        "name": "COM MICRON SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "MUNICIPIUL BEIUS, CALEA BIHORULUI, NR.37, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.086375,
+                            "longitude": 21.92674
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH078"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 32,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/compact-auto-clas-srl",
+                        "name": "COMPACT AUTO CLAS SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "ORADEA, STRADA TRAIAN LALESCU, NR.1, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.66153,
+                            "longitude": 22.355096
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH103"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 33,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cramoserv-srl",
+                        "name": "Cramoserv",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Anghel I. Saligny Nr. 18/a, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.029596,
+                            "longitude": 22.94432
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH135"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 34,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/crisdor-car-srl",
+                        "name": "Crisdor Car",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Petofi Sandor Nr. 57/a, Sacueni"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.342647,
+                            "longitude": 22.094248
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH040"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 35,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/damos-tester-srl",
+                        "name": "Damos Tester",
+                        "image": "https://itpgo.ro2265587b-d10a-4771-b727-110a48f61081/2265587b-d10a-4771-b727-110a48f61081.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ion Mihalache Nr. 6, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.089845,
+                            "longitude": 21.862836
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH082"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 36,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dc-automotive-west-srl",
+                        "name": "D & C Automotive West",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Clujului Nr. 287, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.040569,
+                            "longitude": 21.977022
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH108"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 37,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/debyhouse-srl",
+                        "name": "DEBYHOUSE SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT OSORHEI, COMUNA OSORHEI, STRADA 1, NR.247, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.826807,
+                            "longitude": 21.910381
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH122"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 38,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/devega-srl",
+                        "name": "DEVEGA SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "STRADA BERZEI NR. 4, ORADEA, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.070703,
+                            "longitude": 21.932286
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH145"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 39,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/doraven-serv-srl",
+                        "name": "Doraven Serv",
+                        "image": "https://itpgo.rocc2aa945-e65a-4e9b-b78d-aa8aff34fdaa/cc2aa945-e65a-4e9b-b78d-aa8aff34fdaa.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Santandrei Nr. 28c, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.047141,
+                            "longitude": 21.896625
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH086"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 40,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/dream-cars-m-u-srl",
+                        "name": "Dream Cars M&u",
+                        "image": "https://itpgo.rob35b8b94-b1bd-4e23-a309-b3c2d647f661/b35b8b94-b1bd-4e23-a309-b3c2d647f661.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Onestilor Nr. 50, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.057543,
+                            "longitude": 21.909034
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH072"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 41,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/drimbau-florin-ionut-ii",
+                        "name": "DRIMBAU FLORIN IONUT I.I.",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT CHIRIBIS, COMUNA TAUTEU, NR.29A, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.117477,
+                            "longitude": 27.379224
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH132"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 42,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ekotim-laboratoare-srl",
+                        "name": "EKOTIM LABORATOARE SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "COMUNA BORS, SAT SANTION, NR.1, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.839039,
+                            "longitude": 25.591021
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH143"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 43,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/enist-service-srl",
+                        "name": "Enist Service",
+                        "image": "https://itpgo.roa9ad291e-af6b-43c3-be07-935b5dc27c12/a9ad291e-af6b-43c3-be07-935b5dc27c12.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Borsului Nr. 38j2, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.092896,
+                            "longitude": 21.869424
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH038"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 44,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/expert-itp-catalin-srl",
+                        "name": "EXPERT ITP CATALIN SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT TINCA, COMUNA TINCA, STR. REPUBLICII, NR. 57, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.521915,
+                            "longitude": 22.131968
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH109"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 45,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/geobara-service-srl",
+                        "name": "GEOBARA SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT BORS, COMUNA BORS, SOSEAUA BORSULUI, NR.118, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.779295,
+                            "longitude": 24.705739
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH134"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 46,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/gig-impex-srl",
+                        "name": "G.i.g. Impex",
+                        "image": "https://itpgo.ro53842995-4a5e-43e3-ad66-3efe67cad790/53842995-4a5e-43e3-ad66-3efe67cad790.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Clujului Nr. 294, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.040569,
+                            "longitude": 21.977022
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH026"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 47,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/h-essers-srl",
+                        "name": "H Essers",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Borsului, C1-atelier Nr. 40, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.092896,
+                            "longitude": 21.869424
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH073"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 48,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/itp-sae-concept-srl",
+                        "name": "SAE Service - ITP - Spălătorie - Vulcanizare",
+                        "image": "https://itpgo.ro5fde3cc7-8e66-4fbb-95c1-77a015a8470e/5fde3cc7-8e66-4fbb-95c1-77a015a8470e.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT TINCA, COMUNA TINCA, STRADA REPUBLICII, NR. 2E, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.484208,
+                            "longitude": 22.562953
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH121"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 49,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/iuli-iuliu-itp-srl",
+                        "name": "Iuli & Iuliu Itp",
+                        "image": "https://itpgo.roac78aa0c-48d2-4c0c-abf8-7c2be9ab27d8/ac78aa0c-48d2-4c0c-abf8-7c2be9ab27d8.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Borsului Nr. 27c, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.092896,
+                            "longitude": 21.869424
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH112"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 50,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/keneitp-srl",
+                        "name": "KENEITP SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT PACALESTI, COMUNA DRAGANESTI, NR.77, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.914253,
+                            "longitude": 26.048276
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH098"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 51,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/kilometrul-17-srl",
+                        "name": "kilometrul17",
+                        "image": "https://itpgo.ro6919ef25-334f-4684-a586-d1a934e4afe9/6919ef25-334f-4684-a586-d1a934e4afe9.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT SABOLCIU, COMUNA SACADAT, NR.236C, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.117477,
+                            "longitude": 27.379224
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH107"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 52,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ksc-repair-and-rental-srl",
+                        "name": "Ksc Repair And Rental",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Uzinelor Nr. 24, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.089891,
+                            "longitude": 21.879947
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH133"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 53,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/la-mesterul-auto-srl",
+                        "name": "La Mesterul Auto",
+                        "image": "https://itpgo.ro28263618-d6f3-42bb-9331-db67069e2d15/28263618-d6f3-42bb-9331-db67069e2d15.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Mestesugarilor Nr. 35, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.05963,
+                            "longitude": 21.906276
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH125"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 54,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/lucsil-trans-srl",
+                        "name": "LUCSIL TRANS SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT CHIRIBIS NR. 50749,  BL.NR. CAD. 50749, CHIRIBIS, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.446554,
+                            "longitude": 26.069853
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH117"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 55,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/macomi-mps-logistic-srl",
+                        "name": "MACOMI MPS LOGISTIC SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT CHISTAG, COMUNA ASTILEU, NR.154D, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.117477,
+                            "longitude": 27.379224
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH110"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 56,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/masedi-itp-srl",
+                        "name": "Masedi Itp",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Bocskai Istvan Nr. 75, Salonta"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.79997,
+                            "longitude": 21.656558
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH131"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 57,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mayaven-inspection-srl",
+                        "name": "MAYAVEN INSPECTION SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT ASTILEU, COMUNA ASTILEU, NR.285 D, HALA, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.803166,
+                            "longitude": 23.841299
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH137"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 58,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mirhunic-trans-srl",
+                        "name": "Mirhunic Trans",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ogorului Nr. 32, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.027607,
+                            "longitude": 21.965673
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH116"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 59,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/molniservice-srl",
+                        "name": "Molniservice",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Clujului Nr. 201, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.040569,
+                            "longitude": 21.977022
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH052"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 60,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/motors-mivado-srl",
+                        "name": "Motors Mivado",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Clujului Nr. 302/a-b, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.042564,
+                            "longitude": 21.973108
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH068"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 61,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/natale-impex-srl",
+                        "name": "Natale Impex",
+                        "image": "https://itpgo.ro393bd0e8-7978-4884-a5f1-bd762ba0e722/393bd0e8-7978-4884-a5f1-bd762ba0e722.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Beothy Odon Nr. 6, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.087694,
+                            "longitude": 21.898547
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH111"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 62,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nelabur-srl",
+                        "name": "NELABUR SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT TINCA, STR. ŞTEFAN CEL MARE NR. 16, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.006539,
+                            "longitude": 21.970722
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH097"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 63,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/oradea-transport-local-sa",
+                        "name": "Oradea Transport Local",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Atelierelor Nr. 12, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.038679,
+                            "longitude": 21.93658
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH006"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 64,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/orsila-com-srl",
+                        "name": "ORSILA COM SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT BIHARIA, COMUNA BIHARIA, STRADA TRANDAFIRILOR, NR.34-35, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.140098,
+                            "longitude": 21.915181
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH032"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 65,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/pesos-itp-srl",
+                        "name": "PESOS ITP SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT TIGANESTIII DE BEIUS, COM. DRAGANESTI, CF 50009, NR. CADASTRAL 128-C1, JUDETUL BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.66771,
+                            "longitude": 22.348625
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH060"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 66,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/petro-crisana-oil-srl",
+                        "name": "PETRO CRISANA OIL SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "REGELE FERDINAND,  BL.70-72, SALONTA, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.803203,
+                            "longitude": 21.646159
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH019"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 67,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/promt-autotest-srl",
+                        "name": "Prompt Autotest",
+                        "image": "https://itpgo.ro3f38ecbc-089e-47d2-8862-ee48637e780a/3f38ecbc-089e-47d2-8862-ee48637e780a.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Sos. Borsului Nr. Km. 3, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.092896,
+                            "longitude": 21.869424
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH057"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 68,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/raden-auto-srl",
+                        "name": "Raden Auto",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ovid Densusianu Nr. 4, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.067745,
+                            "longitude": 21.901557
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH063"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 69,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/radmol-srl",
+                        "name": "RADMOL SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "ORADEA, CALEA CLUJULUI, NR.201, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.042564,
+                            "longitude": 21.973108
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH138"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 70,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/ramios-serv-srl",
+                        "name": "Ramios Serv",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Salciei Nr. 2, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.053122,
+                            "longitude": 21.896447
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH053"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 71,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/raulmes-srl",
+                        "name": "RAULMES SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "MESTESUGARILOR,  BL.35, ORADEA, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.0604,
+                            "longitude": 21.905834
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH141"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 72,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/rav-auto-srl",
+                        "name": "Rav Auto",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Santandrei Nr. 21/b, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.047358,
+                            "longitude": 21.896078
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH042"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 73,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/redonecar-itp-srl",
+                        "name": "Redonecar Itp",
+                        "image": "https://itpgo.ro6aad36c2-9173-4683-b28d-c640638b737c/6aad36c2-9173-4683-b28d-c640638b737c.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Matei Corvin Nr. 144a, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.09708,
+                            "longitude": 21.901444
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH081"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 74,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/robiandibrik-srl",
+                        "name": "ITP TAHOGRAFE ROBIANDIBRIK",
+                        "image": "https://itpgo.ro6c25c49a-faac-4885-9551-aaa54e65a166/6c25c49a-faac-4885-9551-aaa54e65a166.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "ALESD, STR. 1 DECEMBRIE, NR. 54D, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.663712,
+                            "longitude": 22.363856
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH087"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 75,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/satelit-serv-srl",
+                        "name": "Satelit Serv",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Revolutiei Nr. 83, Valea Lui Mihai"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.513142,
+                            "longitude": 22.143998
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH061"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 76,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-autotest-srl",
+                        "name": "SC AUTOTEST SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "COM. OSORHEI, Sat Osorhei, 1 nr. 43, jud. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.038894,
+                            "longitude": 22.018695
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH044"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 77,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-ksc-transport-srl",
+                        "name": "SC KSC TRANSPORT SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "ORADEA, STR. UZINELOR NR. 24, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.089891,
+                            "longitude": 21.879947
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH101"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 78,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-service-casa-srl",
+                        "name": "Service Casa",
+                        "image": "https://itpgo.ro94a344d5-310a-494c-a3de-b93c7b1c097b/94a344d5-310a-494c-a3de-b93c7b1c097b.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Borsului, Hala Itp Nr. 14/n, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.092896,
+                            "longitude": 21.869424
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH034"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 79,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-th-trucks-srl",
+                        "name": "SC TH TRUCKS SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "BORS, Parc Industrial Bors nr. 1/L, jud. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.108523,
+                            "longitude": 21.826733
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH126"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 80,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-vladex-best-auto-srl",
+                        "name": "SC VLADEX BEST AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "BEIUS, HALA SI 150MP TEREN, STR. 1 DECEMBRIE nr. 56A, jud. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.059804,
+                            "longitude": 22.39371
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH144"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 81,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/service-bolos-srl",
+                        "name": "SERVICE BOLOS SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "BEIUS, STR. TRAIAN VUIA, NR.2C, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.945965,
+                            "longitude": 22.532585
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH123"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 82,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/service-casa-srl",
+                        "name": "SERVICE CASA SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "MUNICIPIUL ORADEA, CALEA BORSULUI, NR.14N, HALA ITP, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.803723,
+                            "longitude": 21.662562
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH119"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 83,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sitmasit-srl",
+                        "name": "Sitmasit",
+                        "image": "https://itpgo.ro3e0e8657-6230-4197-ab35-536bec013062/3e0e8657-6230-4197-ab35-536bec013062.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Calea Clujului Nr. 197, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.04295,
+                            "longitude": 21.972347
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH003"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 84,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/spsc-rompac-srl",
+                        "name": "Spsc Rompac",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ogorului Nr. 63, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.028096,
+                            "longitude": 21.965071
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH010"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 85,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/stebali-trans-srl",
+                        "name": "STEBALI TRANS S.R.L.",
+                        "image": "https://itpgo.rof5d4ef80-f666-4ff3-9f1e-3ff65c4fa152/f5d4ef80-f666-4ff3-9f1e-3ff65c4fa152.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SALONTA, STR. ORADIEI NR. 35, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.804097,
+                            "longitude": 21.662505
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH074"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 86,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sterv-plus-srl",
+                        "name": "Sterv Plus",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ion Mihalache Nr. 6, Oradea"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.089845,
+                            "longitude": 21.862836
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH090"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 87,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/suprem-auto-moto-srl",
+                        "name": "Suprem Auto Moto",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Poet Andrei Muresanu Nr. 4 N, Stei"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.460072,
+                            "longitude": 26.089719
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH100"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 88,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tahotest-srl",
+                        "name": "TAHOTEST SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "str. COMUNA BORS nr. 61/A, SAT SANTION"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.096072,
+                            "longitude": 21.835195
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH035"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 89,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/trans-alesd-sa",
+                        "name": "ITP Alesd",
+                        "image": "https://itpgo.ro5921fd4e-7b42-447e-bdec-6a570735a8d5/5921fd4e-7b42-447e-bdec-6a570735a8d5.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "ALESD, STR. TUDOR VLADIMIRESCU, NR.41, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.053334,
+                            "longitude": 22.391884
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH018"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 90,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/transinsp-srl",
+                        "name": "TRANSINSP SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "MUNICIPIUL ORADEA, STRADA MESTESUGARILOR, NR.35, JUDET BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.996595,
+                            "longitude": 22.081063
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH118"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 91,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/transmar-sa",
+                        "name": "Transmar",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. I.l. Caragiale Nr. 49, Marghita"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.003017,
+                            "longitude": 26.444361
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH009"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 92,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/vest-auto-2000-srl",
+                        "name": "Vest Auto 2000",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "Str. Ferdinand Nr. 6-8, Salonta"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 43.851365,
+                            "longitude": 28.595368
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH014"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 93,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/vladex-best-auto-srl",
+                        "name": "VLADEX BEST AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "CLOSCA NR. 3, BEIUS, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.772042,
+                            "longitude": 21.937093
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH115"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 94,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/vocieliuc-srl",
+                        "name": "LaMircea - ITP Service Auto Vulcanizare Reglaj direcție",
+                        "image": "https://itpgo.roc8fd131c-2a85-427e-9b74-ba8aaae2d46b/c8fd131c-2a85-427e-9b74-ba8aaae2d46b.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "SAT TINCA, COMUNA TINCA, STR. REPUBLICII NR. 2D, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.484208,
+                            "longitude": 22.562953
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH130"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 95,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/west-auto-premium-srl",
+                        "name": "WEST AUTO PREMIUM SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Bihor",
+                            "streetAddress": "CALEA ARADULUI NR. 93, ORADEA, JUD. BIHOR"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.051667,
+                            "longitude": 21.90617
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "BH140"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "about": {
+            "@type": "Service",
+            "name": "Inspecție Tehnică Periodică Auto",
+            "areaServed": {
+                "@type": "AdministrativeArea",
+                "name": "Bihor",
+                "alternateName": "BH"
+            }
+        }
+    }

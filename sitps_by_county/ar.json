@@ -1,0 +1,2027 @@
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Stații ITP Arad",
+        "description": "Stații ITP autorizate RAR din județul Arad. Programări rapide și informații complete despre stațiile ITP.",
+        "url": "https://itpgo.ro/judet/arad",
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Judete",
+                    "item": "https://itpgo.ro/judet"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Stații ITP Arad",
+                    "item": "https://itpgo.ro/judet/arad"
+                }
+            ]
+        },
+        "mainEntity": {
+            "@type": "ItemList",
+            "numberOfItems": 71,
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/andruvla-srl",
+                        "name": "ANDRUVLA SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. TODIREŞTI, SAT PĂRHĂUŢI NR. 389, JUD. SUCEAVA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.239222,
+                            "longitude": 22.329347
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "SV164"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/argo-impex-srl",
+                        "name": "ARGO IMPEX SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "MUNICIPIUL ARAD, STR. PASIUNII NR. 18, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.175311,
+                            "longitude": 21.353628
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR047"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/auto-sansamtav-srl",
+                        "name": "Auto Sansamtav",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Mihai Viteazu Nr. F.n., Santana"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.350955,
+                            "longitude": 21.498427
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR070"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/autotest-srl",
+                        "name": "AUTOTEST SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. LIVADA, SAT SÂNLEANI NR. 395, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.212565,
+                            "longitude": 21.378437
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR023"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/bpm-team-srl",
+                        "name": "BPM TEAM SRL",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, STR. IOSIF LENGYEL NR. 28, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.150695,
+                            "longitude": 21.317638
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR096"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cdc-truck-servce-srl",
+                        "name": "CDC TRUCK SERVCE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "str. 1 nr. 304, PECICA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.173027,
+                            "longitude": 21.094729
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR022"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cdc-truck-service-srl",
+                        "name": "Cdc Truck Service",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. 1 Nr. 304, Pecica"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.173027,
+                            "longitude": 21.094729
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR081"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/cip-inspection-srl",
+                        "name": "Cip Inspection",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Vasile Goldis Nr. 50, Nadlac"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.159314,
+                            "longitude": 20.744116
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR084"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/com-galaxy-nc-srl",
+                        "name": "Com Galaxy N.c.",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "P-ta. Libertatii Nr. 28h, Pancota"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.845747,
+                            "longitude": 26.17125
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR039"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/compas-service-srl",
+                        "name": "COMPAS SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, STR. AUREL CRIŞAN NR. 19, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.171852,
+                            "longitude": 21.367804
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR069"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/daramec-srl",
+                        "name": "DARAMEC SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "str. STRADA 6 nr. 19, SOFRONEA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.349635,
+                            "longitude": 23.565679
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR011"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/delta-trucks-service-srl",
+                        "name": "OPTIMAL - statie ITP",
+                        "image": "https://itpgo.rocb5a9119-09a8-4817-94e3-075bc05540b2/cb5a9119-09a8-4817-94e3-075bc05540b2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "MUNICIPIUL ARAD, CALEA RADNEI, NR.247/A, JUD.ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.176307,
+                            "longitude": 21.361599
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR091"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 13,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/infinite-line-srl",
+                        "name": "INFINITE LINE SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "LOC.PANCOTA,ORAS PANCOTA,STR.EXTRAVILAN,NR.1D,JUDET ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.469997,
+                            "longitude": 26.04677
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR094"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 14,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/international-alexander-srl",
+                        "name": "INTERNATIONAL ALEXANDER SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, STR. ZONA INDUSTRIALĂ SUD NR. NR. 6, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.291205,
+                            "longitude": 24.60193
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR086"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 15,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/jura-bogdan-ioan-ii",
+                        "name": "JURA BOGDAN-IOAN I.I.",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "SAT SOCODOR,COMUNA SOCODOR ,NR.FN,JUDET ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.469997,
+                            "longitude": 26.04677
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR056"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 16,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/luar-rental-srl",
+                        "name": "LUAR RENTAL SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "str. STEFAN ZARIE nr. 71, ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.139066,
+                            "longitude": 21.345943
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR040"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 17,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/meteor-seco-srl",
+                        "name": "\"METEOR-SECO\" SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "SAT CICIR, STRADA OST, COMUNA VLADIMIRESCU NR. 7, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.142149,
+                            "longitude": 21.488455
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR027"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 18,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/mirben-itp-srl",
+                        "name": "Mirben Itp",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Unirii Nr. 12, Santana"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.339828,
+                            "longitude": 21.517377
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR068"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 19,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nela-srl",
+                        "name": "ITP Nela Arad",
+                        "image": "https://itpgo.ro6c48e0d3-6135-489d-918e-b6d0e4dbc14e/6c48e0d3-6135-489d-918e-b6d0e4dbc14e.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, STR. RENAŞTERII NR. 61-63, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.17019,
+                            "longitude": 21.357661
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR071"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 20,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nica-nr-srl",
+                        "name": "NICA N.R. SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. ŞOFRONEA, SAT ŞOFRONEA, ZONA INDUSTRIALĂ NR. -, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.690806,
+                            "longitude": 27.958671
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR028"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 21,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/nick-itp-business-srl",
+                        "name": "ITP Service Arad",
+                        "image": "https://itpgo.rod5488ebb-a5f9-4afb-ac14-6bcf1ffcf045/d5488ebb-a5f9-4afb-ac14-6bcf1ffcf045.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "CALEA BODROGULUI NR. 20, ARAD, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.169976,
+                            "longitude": 21.283323
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR092"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 22,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/optimal-auto-expert-srl",
+                        "name": "OPTIMAL AUTO EXPERT S.R.L.",
+                        "image": "https://itpgo.ro/images/og.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "CALEA RADNEI, CLĂDIREA NR. 262, ARAD, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.176619,
+                            "longitude": 21.360165
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR097"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 23,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/papuremotors-srl",
+                        "name": "PAPUREMOTORS SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "SAT GHIOROC, COM. GHIOROC, STR. DR. BUTA AUGUSTIN NR. 565, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.15623,
+                            "longitude": 21.593733
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR080"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 24,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/pele-serv-impex-srl",
+                        "name": "PELE SERV IMPEX SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "SAT VLADIMIRESCU, STR. GĂRII NR.73, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.169704,
+                            "longitude": 21.408607
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR049"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 25,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/rechitan-ciprian-florin-intreprindere-individuala",
+                        "name": "RECHITAN CIPRIAN-FLORIN INTREPRINDERE INDIVIDUALA",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. BÂRZAVA, SAT MONOROŞTIA NR. 56, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.180133,
+                            "longitude": 21.34359
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR083"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 26,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/riviera-install-srl",
+                        "name": "RIVIERA INSTALL SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "STRADA POETULUI, CLĂDIREA NR. 54 A, ARAD, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.201887,
+                            "longitude": 21.299081
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR095"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 27,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-abn-inspect-garage-srl",
+                        "name": "SC ABN INSPECT GARAGE SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Str. Padurii, Hala, Etaj parter nr. 123A-127, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.17713,
+                            "longitude": 21.295524
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR063"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 28,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-autoservice-avram-srl",
+                        "name": "Itp avram",
+                        "image": "https://itpgo.roc720f185-3ce3-4cdc-8168-5e9346c885c3/c720f185-3ce3-4cdc-8168-5e9346c885c3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, STR. COCORILOR nr. 51, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.189287,
+                            "longitude": 21.303414
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR053"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 29,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-autoservice-mana-srl",
+                        "name": "Autoservice International",
+                        "image": "https://itpgo.ro67bed328-37f7-42ac-b021-9ddf5f027555/67bed328-37f7-42ac-b021-9ddf5f027555.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Str. POETULUI nr. 54/A, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.20431,
+                            "longitude": 21.295784
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR051"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 30,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-auto-service-pecica-srl",
+                        "name": "Auto Service Pecica",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. 1 Nr. 53, Pecica"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.173027,
+                            "longitude": 21.094729
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR074"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 31,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-b-alex-srl",
+                        "name": "SC B-ALEX SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "CHISINEU-CRIS, STR. TUDOR VLADIMIRESCU nr. 2, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.179678,
+                            "longitude": 21.318013
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR016"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 32,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-bodnarescu-company-srl",
+                        "name": "Bodnarescu Company",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Slavici Ioan, Corp Abcd Nr. 1, Nadlac"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.50755,
+                            "longitude": 26.019701
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR010"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 33,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-cava-motors-group-srl",
+                        "name": "SC CAVA MOTORS GROUP SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Str. Ghioceilor nr. 38, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.259188,
+                            "longitude": 22.443949
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR078"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 34,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-central-auto-test-srl",
+                        "name": "Central Auto Test SRL - ITP Arad",
+                        "image": "https://itpgo.roe58c88c2-fee4-45fa-b89c-f5f27e869601/e58c88c2-fee4-45fa-b89c-f5f27e869601.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Calea Bodrogului nr. 10, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.168973,
+                            "longitude": 21.282036
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR046"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 35,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-compania-de-transport-public-sa",
+                        "name": "SC COMPANIA DE TRANSPORT PUBLIC SA",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA VICTORIEI nr. 35B-37, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.187443,
+                            "longitude": 21.310069
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR002"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 36,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-daramec-srl",
+                        "name": "SC DARAMEC SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "SOFRONEA, Str. 6 nr. 19, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.349635,
+                            "longitude": 23.565679
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR033"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 37,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-duvenbeck-logistik-srl",
+                        "name": "Duvenbeck Logistik",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. 601 Nr. 74, Pecica"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.047619,
+                            "longitude": 22.05161
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR090"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 38,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-eco-motors-srl",
+                        "name": "SC ECO MOTORS SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. ZIMANDU NOU, SAT ZIMANDCUZ nr. 1/B, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.253396,
+                            "longitude": 21.377989
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR034"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 39,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-grup-west-arad-srl",
+                        "name": "SC GRUP WEST ARAD SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Calea Timisorii nr. 124-130, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.14737,
+                            "longitude": 21.321415
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR044"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 40,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-hordtrans-srl",
+                        "name": "SC HORDTRANS SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. ZIMANDU NOU, SAT ZIMANDCUZ nr. 270/I/3, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.253396,
+                            "longitude": 21.377989
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR050"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 41,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-larifarm-srl",
+                        "name": "SC LARIFARM SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Str. Cornelia Bodea nr. 16, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.141868,
+                            "longitude": 21.29971
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR060"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 42,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-lubima-auto-srl",
+                        "name": "Lubima - Service, ITP, Magazin Piese",
+                        "image": "https://itpgo.ro7bead9e5-10c8-472d-9e9d-6bd23b353fc9/7bead9e5-10c8-472d-9e9d-6bd23b353fc9.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA TIMISORII nr. 52, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.152325,
+                            "longitude": 21.321408
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR062"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 43,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-luk-fastcheck-srl",
+                        "name": "SC LUK FASTCHECK SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Str. Ovidiu, intersectia DN 7 cu DJ 709 B nr. -, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.2159,
+                            "longitude": 21.322999
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR075"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 44,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-mirben-itp-srl",
+                        "name": "Mirben Itp",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Alba Iulia Nr. 2, Curtici"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.332914,
+                            "longitude": 21.303447
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR089"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 45,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-nica-nr-srl",
+                        "name": "Nica N.r.",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Dj 793, Km 60+440 Nr. -, Sebis"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.290766,
+                            "longitude": 23.801392
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR003"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 46,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-nick-itp-rapid-srl",
+                        "name": "ITP Truck Arad",
+                        "image": "https://itpgo.rodf360b4a-a6c3-48f0-ba01-c97a1875bc64/df360b4a-a6c3-48f0-ba01-c97a1875bc64.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA BODROGULUI nr. 18, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.168973,
+                            "longitude": 21.282036
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR079"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 47,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-p-l-noris-srl",
+                        "name": "P L Noris",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Subl. Suciu Sorin Nr. 134/f, Lipova"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.710344,
+                            "longitude": 26.65221
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR043"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 48,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-pro-inspection-srl",
+                        "name": "SC PRO INSPECTION SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. FANTANELE, SAT FANTANELE nr. 565/A, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.12415,
+                            "longitude": 21.383347
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR076"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 49,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-quark-motors-srl-filiala-arad",
+                        "name": "SC QUARK MOTORS SRL FILIALA ARAD",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA RADNEI nr. 288, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.173959,
+                            "longitude": 21.369213
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR025"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 50,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-rautomix-srl",
+                        "name": "RAUTOMIX SRL",
+                        "image": "https://itpgo.rob782abb8-cb45-4eb9-a28e-d38fb8315d86/b782abb8-cb45-4eb9-a28e-d38fb8315d86.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Str. Stefan Ludwig Roth nr. 1, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.46598,
+                            "longitude": 26.058185
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR077"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 51,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-spd-smart-advisor-srl",
+                        "name": "Smart ITP ARAD",
+                        "image": "https://itpgo.ro7a73d48c-7cf7-4422-92d9-e7c4462789ed/7a73d48c-7cf7-4422-92d9-e7c4462789ed.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA AUREL VLAICU nr. 41-43, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.194663,
+                            "longitude": 21.3022
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR061"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 52,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-speed-line-impex-srl",
+                        "name": "SC SPEED LINE IMPEX SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, Centura Arad, DN 7, Km. 541+150 nr. -, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.141332,
+                            "longitude": 21.29923
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR054"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 53,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-spsc-rompac-srl",
+                        "name": "Spsc Rompac",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Calea Aradului Nr. 19, Ineu"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.419427,
+                            "longitude": 21.827563
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR017"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 54,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-tom-motoaxe-srl",
+                        "name": "Tom Motoaxe",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Avram Iancu Nr. 23, Lipova"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.098081,
+                            "longitude": 21.706924
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR066"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 55,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-toth-toth-international-srl",
+                        "name": "SC TOTH & TOTH INTERNATIONAL SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, STR. ANDREI SAGUNA nr. 16-18, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.175362,
+                            "longitude": 21.306426
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR064"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 56,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-verbita-srl",
+                        "name": "SC VERBITA SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA AUREL VLAICU nr. 282/1, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.194663,
+                            "longitude": 21.3022
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR015"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 57,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-verbita-truck-srl",
+                        "name": "SC VERBITA TRUCK SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA AUREL VLAICU nr. 282/4, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.194663,
+                            "longitude": 21.3022
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR041"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 58,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-volanul-sa",
+                        "name": "SC VOLANUL SA",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, STR. SIRIEI nr. 19/A, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.177364,
+                            "longitude": 21.369502
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR009"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 59,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-weissman-international-transport-company-srl",
+                        "name": "SC WEISSMAN INTERNATIONAL TRANSPORT COMPANY SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, DN 69 ARAD-TIMISOARA KM. 46+100 nr. stanga, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.173473,
+                            "longitude": 21.316925
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR087"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 60,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-wood-pellet-2018-srl",
+                        "name": "SC WOOD PELLET 2018 SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. ALMAS, SAT ALMAS nr. F.N., jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.2844,
+                            "longitude": 22.236206
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR067"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 61,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/sc-work-grand-auto-srl",
+                        "name": "SC WORK GRAND AUTO SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, DN 79 nr. km. 4+600, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.786297,
+                            "longitude": 23.618164
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR045"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 62,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/siria-mb-itp-srl",
+                        "name": "SIRIA MB ITP SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "SAT ŞIRIA, COMUNA ŞIRIA NR. 1933/A, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.179134,
+                            "longitude": 21.363507
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR085"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 63,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/skn-smart-serv-srl",
+                        "name": "SKN SMART SERV SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "PIAȚA LIBERTĂȚII NR. 28H, PANCOTA, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.320896,
+                            "longitude": 21.69443
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR093"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 64,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/slm-service-ineu-srl",
+                        "name": "Slm Service Ineu",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "Str. Cronicar Ion Neculce Nr. 27, Ineu"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 44.456541,
+                            "longitude": 26.073173
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR059"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 65,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/societatea-cooperativa-mestesugareasca-autoservice-micalaca-scm",
+                        "name": "Autoservice Micălaca S.C.C.A.",
+                        "image": "https://itpgo.ro58da8791-3b0a-4db4-9764-cedebd96f54a/58da8791-3b0a-4db4-9764-cedebd96f54a.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CALEA RADNEI nr. 284, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.17778,
+                            "longitude": 21.354868
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR001"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 66,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/societate-cooperativa-mestesugareasca-autoservice-uta-scm",
+                        "name": "SOCIETATE COOPERATIVA MESTESUGAREASCA \"AUTOSERVICE U.T.A.\" SCM",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, PIATA UTA nr. F.N., jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.191207,
+                            "longitude": 21.309292
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR019"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 67,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/tachonan-service-srl",
+                        "name": "TACHONAN SERVICE SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "str. SAT SANLEANI nr. 376B, COM. LIVADA"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 47.862456,
+                            "longitude": 23.11187
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR014"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 68,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/th-trucks-ar-srl",
+                        "name": "TH TRUCKS SRL",
+                        "image": "https://itpgo.roplaceholders/1.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "ARAD, CARTIERUL DE VEST DN 7 NR. KM 553+700, JUD. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.173473,
+                            "longitude": 21.316925
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR020"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 69,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/truck-taho-services-srl",
+                        "name": "TRUCK TAHO SERVICES SRL",
+                        "image": "https://itpgo.roplaceholders/2.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "str. CENTURA NORD, DN7 nr. KM541+150, ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.16162,
+                            "longitude": 21.410625
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR038"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 70,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/varga-gabriel-intreprindere-individuala",
+                        "name": "VARGA GABRIEL INTREPRINDERE INDIVIDUALA",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "COM. IRATOSU, SAT VARIASU MIC nr. 68, jud. ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 45.797268,
+                            "longitude": 24.151084
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR073"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 71,
+                    "item": {
+                        "@type": "AutoRepair",
+                        "@id": "https://itpgo.ro/statie/verbita-truck-srl",
+                        "name": "VERBITA TRUCK SRL",
+                        "image": "https://itpgo.roplaceholders/3.jpg",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "RO",
+                            "addressRegion": "Arad",
+                            "streetAddress": "str. CALEA AUREL VLAICU nr. 282/4, ARAD"
+                        },
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 46.194663,
+                            "longitude": 21.3022
+                        },
+                        "additionalProperty": [
+                            {
+                                "@type": "PropertyValue",
+                                "name": "stationCode",
+                                "value": "AR029"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "about": {
+            "@type": "Service",
+            "name": "Inspecție Tehnică Periodică Auto",
+            "areaServed": {
+                "@type": "AdministrativeArea",
+                "name": "Arad",
+                "alternateName": "AR"
+            }
+        }
+    }

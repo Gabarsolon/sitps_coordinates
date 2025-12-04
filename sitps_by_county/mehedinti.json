@@ -1,0 +1,1103 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Mehedinti",
+    "description": "Stații ITP autorizate RAR din județul Mehedinti. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/mehedinti",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Mehedinti",
+                "item": "https://itpgo.ro/judet/mehedinti"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 38,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adm-instal-service-srl",
+                    "name": "Adm Instal Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "B-dul. Mihai Vitezu Nr. 2a, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.641672,
+                        "longitude": 22.659025
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/afrim-petre-sebastian-ii",
+                    "name": "Afrim Petre Sebastian Intreprindere Individuala",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Calea Severinului Nr. 32, Vanju Mare"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.424734,
+                        "longitude": 22.855028
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/angab-com-srl",
+                    "name": "Angab Com",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Calea Timisoarei Nr. 5, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.62429,
+                        "longitude": 22.617644
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH014"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-complet-drobeta-srl",
+                    "name": "Statie ITP Auto Complet Drobeta S.R.L.",
+                    "image": "https://itpgo.ro69280827-7599-4cb6-b9ba-fc65e6867702/69280827-7599-4cb6-b9ba-fc65e6867702.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "BULEVARDUL MIHAI VITEAZUL NR. 2E, DROBETA-TURNU SEVERIN, JUD. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.641672,
+                        "longitude": 22.659025
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH027"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autodiagnosys-severin-srl",
+                    "name": "AUTODIAGNOSYS SEVERIN SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "BULEVARDUL NICOLAE IORGA NR. 2A, DROBETA-TURNU SEVERIN, JUD. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.630388,
+                        "longitude": 22.681162
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH065"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-id-grup-tehnologic-srl",
+                    "name": "Auto Id Grup Tehnologic",
+                    "image": "https://itpgo.ro4f1d8a02-f2e2-49be-bf81-69441cd8e3db/4f1d8a02-f2e2-49be-bf81-69441cd8e3db.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Republicii Nr. 360, Strehaia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.034051,
+                        "longitude": 25.880676
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automobile-surdu-srl",
+                    "name": "Automobile Surdu",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Matei Vasilescu Nr. 86, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.628504,
+                        "longitude": 22.660143
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-putinei-srl",
+                    "name": "AUTO PUTINEI SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "SAT PUTINEI, COMUNA IZVORUL BARZII, STR. PRINCIPALA, NR.18, JUD. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.056689,
+                        "longitude": 23.88665
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bodimpex-srl",
+                    "name": "Bodimpex",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "D-b-dul. Nicolae Iorga Nr. 4, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.632552,
+                        "longitude": 22.67908
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/carmer-auto-trans-srl",
+                    "name": "Carmer Auto Trans",
+                    "image": "https://itpgo.ro0c7300cb-bb1a-4714-9262-0f72b52e3cec/0c7300cb-bb1a-4714-9262-0f72b52e3cec.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "B-dul. Varciorova Nr. 35-37, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.632579,
+                        "longitude": 22.610444
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/car-service-drobeta-srl",
+                    "name": "Car Service Drobeta",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Nicolae Iorga Nr. 9, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.625496,
+                        "longitude": 22.681168
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/complex-auto-bor-srl",
+                    "name": "Complex Auto Bor",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "B-dul. Nicolae Iorga Nr. 18, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.632503,
+                        "longitude": 22.6787
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH015"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/david-ysabela-management-srl",
+                    "name": "DAVID YSABELA MANAGEMENT SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "BAIA DE ARAMĂ, ALEEA STADIONULUI NR. 32, JUD. MEHEDINŢI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.676098,
+                        "longitude": 27.181085
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/davmir-auto-clinic-srl",
+                    "name": "Davmir Auto Clinic",
+                    "image": "https://itpgo.ro7fb569ab-243f-4a5e-9cc6-7cf83688d235/7fb569ab-243f-4a5e-9cc6-7cf83688d235.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Calea Severinului Nr. 79, Vanju Mare"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.424734,
+                        "longitude": 22.855028
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ervin-auto-total-srl",
+                    "name": "Ervin Auto Total",
+                    "image": "https://itpgo.ro4ef7d46e-11b1-41c2-a495-adabb842f640/4ef7d46e-11b1-41c2-a495-adabb842f640.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "B-dul. Mihai Viteazul Nr. 1e, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.641672,
+                        "longitude": 22.659025
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-transalex-srl",
+                    "name": "EURO TRANSALEX SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "SAT HALÂNGA, COMUNA IZVORUL BÂRZII, NR. CADASTRAL 51860, JUD. MEHEDINŢI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.61236,
+                        "longitude": 22.714423
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/general-top-cars-srl",
+                    "name": "General Top Cars",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Stefan Cel Mare Nr. 2, Orsova"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.735783,
+                        "longitude": 22.406221
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gikanu-ernardo-srl",
+                    "name": "GIKANU & ERNARDO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "SAT SIMIAN, COMUNA SIMIAN, TARLA 164/3, PARCELA 12, JUDETUL MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.653716,
+                        "longitude": 25.829
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hino-garage-srl",
+                    "name": "HINO GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "SAT HALÂNGA, COMUNA IZVORUL BÂRZII, NR. CADASTRAL 51913, JUDEȚ MEHEDINȚI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.61236,
+                        "longitude": 22.714423
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/integral-auto-serv-srl",
+                    "name": "Integral Auto Serv",
+                    "image": "https://itpgo.ro9af90c54-14c5-4c66-bed1-b283d95531a7/9af90c54-14c5-4c66-bed1-b283d95531a7.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Calea Timisoarei Nr. 185, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.624213,
+                        "longitude": 22.621216
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-ghizel-service-srl",
+                    "name": "Itp Ghizel Service",
+                    "image": "https://itpgo.ro685e55f8-7224-4deb-a9ff-f1956048e42e/685e55f8-7224-4deb-a9ff-f1956048e42e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Cicero Nr. 138a, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.641887,
+                        "longitude": 22.6427
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-smartauto-srl",
+                    "name": "I.T.P. SMARTAUTO S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "STRADA CONSTANTIN BRÂNCOVEANU NR. 172, CLĂDIREA NR. E16, SC. 2, ET. 4, AP. 14, DROBETA-TURNU SEVERIN, JUD. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.631896,
+                        "longitude": 22.655443
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/jacrac-brothers-srl",
+                    "name": "JAC&RAC BROTHERS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "str. CALEA TARGU JIULUI, T49 nr. P12, SAT SIMIAN COMUNA SIMIAN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.654111,
+                        "longitude": 22.683246
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/jac-rac-trans-srl",
+                    "name": "Jac & Rac Trans",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Tarla 49, Parcela 12, Nr. Cadastral 60719 Nr. -, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.356871,
+                        "longitude": 27.789904
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lazar-service-com-srl",
+                    "name": "Lazar Service Com",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Calea Tirgu Jiului Nr. 128, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.654111,
+                        "longitude": 22.683246
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH043"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/liceul-de-transporturi-auto",
+                    "name": "Liceul De Transporturi Auto",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Traian Nr. 34, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.60916,
+                        "longitude": 22.71524
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH017"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/matarom-srl",
+                    "name": "Matarom",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Tufari Nr. 13, Orsova"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.721588,
+                        "longitude": 22.4254
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mirandi-auto-technik-srl",
+                    "name": "MIRANDI AUTO TECHNIK SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "MUNICIPIUL DROBETA-TURNU SEVERIN, CALEA TIMISOAREI, NR 220 G-1, CLADIREA C2, JUD. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.624247,
+                        "longitude": 22.620145
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mirandi-motors-srl",
+                    "name": "Mirandi Motors",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Calea Timisoarei Nr. 220 G-1, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.624247,
+                        "longitude": 22.620145
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mondial-srl",
+                    "name": "Mondial",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Cicero Nr. 58, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.641887,
+                        "longitude": 22.6427
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH012"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/partener-bussines-office-srl",
+                    "name": "Partener Bussines Office",
+                    "image": "https://itpgo.ro691c9e04-364f-4e47-a8fa-255d044adf5c/691c9e04-364f-4e47-a8fa-255d044adf5c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Walter Maracineanu Nr. 75a, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.640503,
+                        "longitude": 22.65867
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH038"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/promotransim-srl",
+                    "name": "PROMOTRANSIM SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "str. PADES nr. 6B, DROBETA TURNU SEVERIN"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.636984,
+                        "longitude": 22.67961
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ats-junior-srl",
+                    "name": "SC ATS JUNIOR SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "CALEA CRAIOVEI NR. 5, SIMIAN, JUD. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.611833,
+                        "longitude": 22.711128
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH0003"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-complet-drobeta-srl",
+                    "name": "Auto Complet Drobeta",
+                    "image": "https://itpgo.roebbb4e73-7e25-4356-ba2f-bc5ed5e92c54/ebbb4e73-7e25-4356-ba2f-bc5ed5e92c54.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "B-dul. Mihai Viteazu Nr. 2e, Cam. 1, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.641672,
+                        "longitude": 22.659025
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-hidroconstructia-sa",
+                    "name": "SC HIDROCONSTRUCTIA SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "LOC. GURA VAII, MUNICIPIUL DROBETA-TURNU SEVERIN nr. -, jud. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.580155,
+                        "longitude": 23.05466
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH022"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/speed-karmer-trans-srl",
+                    "name": "Speed Karmer Trans",
+                    "image": "https://itpgo.rodda5ff86-577a-4a9b-b853-d1371bfd27a2/dda5ff86-577a-4a9b-b853-d1371bfd27a2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "Str. Tudor Arghezi Nr. 2, Drobeta Turnu Severin"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.638498,
+                        "longitude": 22.642035
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trebor-star-srl",
+                    "name": "Trebor Star",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "B-dul. Portile De Fier Nr. 14 D, Orsova"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.734084,
+                        "longitude": 22.403454
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vzb-trans-srl",
+                    "name": "VZB TRANS SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Mehedinti",
+                        "streetAddress": "STRADA PRINCIPALA NR. 17, PROITESTI, PONOARELE, JUD. MEHEDINTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.971722,
+                        "longitude": 22.726045
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MH064"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Mehedinti",
+            "alternateName": "MH"
+        }
+    }
+}

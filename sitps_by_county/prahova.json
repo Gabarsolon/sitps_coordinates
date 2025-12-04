@@ -1,0 +1,3287 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Prahova",
+    "description": "Stații ITP autorizate RAR din județul Prahova. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/prahova",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Prahova",
+                "item": "https://itpgo.ro/judet/prahova"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 116,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/acve-motors-test-srl",
+                    "name": "Acve Motors Test",
+                    "image": "https://itpgo.ro811e73cf-6aa6-42dd-b6a6-ff4231a0f775/811e73cf-6aa6-42dd-b6a6-ff4231a0f775.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Depoului Nr. 7, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.924662,
+                        "longitude": 26.025599
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH178"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/admar-ecotest-srl",
+                    "name": "ADMAR ECOTEST SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "PLOIEŞTI, STR. APELOR NR. 5H, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.903733,
+                        "longitude": 26.355421
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH196"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/albatrosa-srl",
+                    "name": "ALBATROS'A SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT BLEJOI, COMUNA BLEJOI, NR.913C, JUDEȚ PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.945641,
+                        "longitude": 25.962153
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH198"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alexservices-srl",
+                    "name": "Alexservices",
+                    "image": "https://itpgo.ro3ba4d340-42eb-46ed-8a61-b47b01382773/3ba4d340-42eb-46ed-8a61-b47b01382773.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Mihai Bravu Nr. 204, Mizil"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.000058,
+                        "longitude": 26.433195
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/allmas-dacia-service-srl",
+                    "name": "Allmas Dacia Service",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Stefan Cel Mare Nr. 69a, Valenii de Munte"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.203268,
+                        "longitude": 26.042993
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amgine-auto-srl",
+                    "name": "Amgine Auto",
+                    "image": "https://itpgo.ro08a6aa36-2856-46ac-880b-35299ca4fc37/08a6aa36-2856-46ac-880b-35299ca4fc37.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Mihai Bravu Nr. 88, Mizil"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.003908,
+                        "longitude": 26.446707
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/amro-auto-srl",
+                    "name": "STATIE ITP AUTOTURISME SI AUTOTURISME",
+                    "image": "https://itpgo.roe5bc84b1-1b66-41ed-b845-548031944449/e5bc84b1-1b66-41ed-b845-548031944449.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BULEVARDUL INDEPENDENȚEI NR. 2D, BUSTENI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.39391,
+                        "longitude": 25.538994
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/andcor-itp-rapid-srl",
+                    "name": "Andcor ITP Rapid Centura de Est Ploiesti Ghighiu",
+                    "image": "https://itpgo.ro15d3cdac-5c06-4ff0-9856-4d81bb41a80c/15d3cdac-5c06-4ff0-9856-4d81bb41a80c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "PIERSICILOR NR. 4, TATARANI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.914574,
+                        "longitude": 26.045505
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH170"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/arena-auto-srl",
+                    "name": "Arena Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Strandului Nr. 60, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.953968,
+                        "longitude": 26.046871
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-cadar-srl",
+                    "name": "AUTO CADAR SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA TINERETULUI, NR.45, SAT BUCOV, COMUNA BUCOV, JUDEȚ PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.965568,
+                        "longitude": 26.066312
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH189"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autodam-diagnoza-itp-srl",
+                    "name": "Autodam Diagnoza & Itp",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Strandului Nr. 9, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.951754,
+                        "longitude": 26.042986
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH177"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoexpert-itp-srl",
+                    "name": "Autoexpert Itp",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "B-dul. Bucuresti Nr. 94a, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.915206,
+                        "longitude": 26.035746
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH169"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-k-urlati-srl",
+                    "name": "Auto K Urlati",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. 1 Mai Nr. T131/273/1, Urlati"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.990548,
+                        "longitude": 26.234317
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH173"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automis-prodserv-srl",
+                    "name": "Automis Prodserv",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. 1 Mai Nr. 5 F, Urlati"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.990548,
+                        "longitude": 26.234317
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/automobile-hary-srl",
+                    "name": "AUTOMOBILE HARY SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA GEORGE BACOVIA NR. 25, BUCOV, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.999504,
+                        "longitude": 25.998965
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH172"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-rpdf-service-k-srl",
+                    "name": "AUTO RPDF SERVICE K S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA 1 MAI, NR. 28B, URLAȚI, JUDEȚ PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.990548,
+                        "longitude": 26.234317
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH195"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/binar-service-itp-srl",
+                    "name": "BINAR SERVICE ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "GÂRLEI NR. 5, BOLDESTI-SCAENI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.945948,
+                        "longitude": 26.045172
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH160"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bogman-mechanics",
+                    "name": "Bogman Mechanics",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Poligonului Nr. 9, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.951687,
+                        "longitude": 25.986365
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/briari-serv-srl",
+                    "name": "Briari Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Primaverii Nr. 1, Lot 2, Plopeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.083774,
+                        "longitude": 25.927743
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/burtons-service-srl",
+                    "name": "Burtons Service",
+                    "image": "https://itpgo.ro343e530a-2bc0-43ae-b257-075551e7b3cb/343e530a-2bc0-43ae-b257-075551e7b3cb.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Mihai Bravu Nr. 73, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.939862,
+                        "longitude": 26.037481
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH101"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/byonic-autoserv-srl",
+                    "name": "BYONIC AUTOSERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "FLOREŞTI, STR. GĂRII NR. 617D, C 2, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.998802,
+                        "longitude": 25.744222
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH166"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/car-itpadmis-srl",
+                    "name": "Car Itpadmis",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Targu Mures Nr. 5, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.136212,
+                        "longitude": 25.750976
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH185"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/carmensimi-grup-srl",
+                    "name": "Carmensimi Grup",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Industriei Nr. 8, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.92496,
+                        "longitude": 26.033375
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH152"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/chedra-interserv-srl",
+                    "name": "Stație ITP Ciorani",
+                    "image": "https://itpgo.ro392511e0-e6fb-4e6e-8733-0cafdc51c13f/392511e0-e6fb-4e6e-8733-0cafdc51c13f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT CIORANII DE JOS, COMUNA CIORANI, NR. 400C, T 27,P 854, JUDET PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.838636,
+                        "longitude": 26.443003
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH141"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/chedra-tax-srl",
+                    "name": "CHEDRA TAX SRL",
+                    "image": "https://itpgo.roc4e1defc-04ba-4878-8592-957dc030f5bb/c4e1defc-04ba-4878-8592-957dc030f5bb.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "str. RUDULUI nr. 262, PLOIESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929716,
+                        "longitude": 26.018348
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cmi-inspect-srl",
+                    "name": "CMI INSPECT SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "COM. COŞBUC, SAT COŞBUC NR. 64, JUD. BISTRIŢA-NĂSĂUD"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.130619,
+                        "longitude": 25.745846
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BN069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/conpet-sa",
+                    "name": "Conpet",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Rezervoarelor Nr. 8, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.920335,
+                        "longitude": 26.030381
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH072"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/crismad-inter-serv-srl",
+                    "name": "CRISMAD INTER SERV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA PRINCIPALA NR. 172,  BL.CLADIREA STATIEI ITP, MANESTI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.192695,
+                        "longitude": 25.912385
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH190"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ctp-service-autocamioane-srl",
+                    "name": "Ctp Service Autocamioane",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Sferei Nr. 5b, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.94048,
+                        "longitude": 25.935793
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH092"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/danle-auto-rapid-srl",
+                    "name": "Danle Auto Rapid",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Gageni Nr. 92 A, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.95505,
+                        "longitude": 26.01559
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH180"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/diaplus-autoserv-srl",
+                    "name": "Diaplus Autoserv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Petrolistului Nr. 4, Corp C1, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.120739,
+                        "longitude": 25.751293
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dralex-auto-test-srl",
+                    "name": "Dralex Auto Test",
+                    "image": "https://itpgo.rofc74b2bc-05cc-4e41-b474-7ac31d4a6bb9/fc74b2bc-05cc-4e41-b474-7ac31d4a6bb9.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Drajnei Nr. 2, Valenii de Munte"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.210159,
+                        "longitude": 26.045734
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH181"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dsl-cars-garage-srl",
+                    "name": "DSL CARS GARAGE S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT BUDA, COM. RÂFOV, - NR. 172, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.917279,
+                        "longitude": 26.06027
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH199"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ekatrust-srl",
+                    "name": "Ekatrust",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Gheorghe Grigore Cantacuzino Nr. 200, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.938402,
+                        "longitude": 26.010118
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/elcani-srl",
+                    "name": "Elcani",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Traian Nr. 117, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.945769,
+                        "longitude": 26.007105
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eltracom-car-srl",
+                    "name": "Eltracom Car",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Depoului, Poz. Nr.81 Nr. 7, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.924845,
+                        "longitude": 26.025517
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH186"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eltracom-srl",
+                    "name": "Eltracom",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Piata 1 Decembrie 1918, Pozitia 24b Nr. 7, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.928663,
+                        "longitude": 26.038114
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH139"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/enache-best-service-srl",
+                    "name": "Enache Best Service",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Petrolistului Nr. 24, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.161786,
+                        "longitude": 25.700144
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH162"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/epsilon-auto-srl",
+                    "name": "EPSILON AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "PETROLISTILOR NR. 41A, BOLDESTI-SCAENI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.029086,
+                        "longitude": 26.02452
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH134"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/erika-optik-interstar-srl",
+                    "name": "Erika Optik Interstar",
+                    "image": "https://itpgo.robf623ea3-1fc6-46f9-a7d4-03000d39e320/bf623ea3-1fc6-46f9-a7d4-03000d39e320.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Elipsei Nr. 6a, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.939901,
+                        "longitude": 25.934119
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH104"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/evodrive-auto",
+                    "name": "EVODRIVE AUTO",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT MANECIU-UNGURENI,COMUNA MANECIU, NR.293, JUDEȚ PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942926,
+                        "longitude": 26.213717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH188"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/evolet-autoservices-srl",
+                    "name": "EVOLET AUTOSERVICES SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "TRANDAFIRILOR NR. 171B,  BL.CONSTRUCTIA C3, TATARANI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.896972,
+                        "longitude": 26.042335
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH157"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/evolet-testing-srl",
+                    "name": "Evolet Testing",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Gheorghe Grigore Cantacuzino Nr. 340a, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.937754,
+                        "longitude": 25.999475
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH163"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/exclusive-car-carrier-srl",
+                    "name": "EXCLUSIVE CAR CARRIER SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA ÎNFRĂȚIRII NR. 108, BAICOI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.02593,
+                        "longitude": 25.88642
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH171"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/first-autoexpress-srl",
+                    "name": "FIRST AUTOEXPRESS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "CALEA BUZAU NR. 217, TANTARENI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942926,
+                        "longitude": 26.213717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH167"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/firstpneu-autoparts-srl",
+                    "name": "FIRSTPNEU AUTOPARTS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "TRANSILVANIA NR. 57,  BL.CORP 2, PAULESTI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.982373,
+                        "longitude": 25.984107
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH159"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gentrom-services-srl",
+                    "name": "Gentrom Services",
+                    "image": "https://itpgo.ro76050de9-ae54-4ded-813b-cc2becbd3b90/76050de9-ae54-4ded-813b-cc2becbd3b90.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Margaretelor Nr. 16, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.951028,
+                        "longitude": 26.044742
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hunters-cars-testing-srl",
+                    "name": "HUNTERS CARS TESTING SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA ALBĂSTRELELOR, NR.45, SAT STREJNICU, COMUNA TĂRGȘORU VECHI, JUDEȚ PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.909913,
+                        "longitude": 25.952892
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH192"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iatsa-campina-sa",
+                    "name": "Iatsa Campina",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Aleea Pestisori Nr. 16, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.107249,
+                        "longitude": 25.74373
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iliadis-99-serv-srl",
+                    "name": "Iliadis 99 Serv",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Republicii Nr. 43, Comarnic"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.229151,
+                        "longitude": 25.638296
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH174"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/imaxim-srl",
+                    "name": "Imaxim",
+                    "image": "https://itpgo.ro1f513d4c-171e-4053-a43f-c247c4f2ec5c/1f513d4c-171e-4053-a43f-c247c4f2ec5c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Mihai Bravu Nr. 231, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.939705,
+                        "longitude": 26.051174
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH065"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/interspeed-auto-tehnica-srl",
+                    "name": "INTERSPEED AUTO TEHNICA SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA CERCELUȘILOR NR. 35A, BARCANESTI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.884025,
+                        "longitude": 26.033683
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH0161"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/interspeed-car-auto-srl",
+                    "name": "INTERSPEED CAR AUTO S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "CALEA BUZAU NR. 97, PLOIESTIORI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942926,
+                        "longitude": 26.213717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH179"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ioana-srl",
+                    "name": "Ioana 1",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. George Cosbuc Nr. 30, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.13124,
+                        "longitude": 25.744997
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH021"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-automoto-campina-srl",
+                    "name": "I.t.p. Automoto Campina",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Petrolistului, Corpurile C2,c3 Si C4 Nr. 4, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.11888,
+                        "longitude": 25.744908
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH182"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iulmi-motor-serv-srl",
+                    "name": "Iulmi Motor Serv",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Mihail Kogalniceanu Nr. 14, Valenii de Munte"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.188054,
+                        "longitude": 26.044574
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH096"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/klg-service-auto-srl",
+                    "name": "Klg Service Auto",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Sondelor, Corp C1, Camera 6 Nr. 2, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.927194,
+                        "longitude": 26.003817
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH148"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/kta-automar-srl",
+                    "name": "Kta Automar",
+                    "image": "https://itpgo.roed4bb47b-f9a4-49b9-8346-a913d08ca2ce/ed4bb47b-f9a4-49b9-8346-a913d08ca2ce.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Postei Nr. 29, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.943758,
+                        "longitude": 26.031709
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH133"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ladal-company-srl",
+                    "name": "LADAL COMPANY SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA PRUNDULUI NR. 40, NISTORESTI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.414139,
+                        "longitude": 25.540377
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH137"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lars-auto-srl",
+                    "name": "Lars Auto",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "B-dul. Nicolae Balcescu Nr. 44, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.114132,
+                        "longitude": 25.746214
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH155"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/loreto-service-srl",
+                    "name": "LORETO SERVICE S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT PLEASA, COM. BUCOV, STRADA 1MAI, NR. 16,  JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.003781,
+                        "longitude": 26.071757
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH108"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lucauto-mob-srl",
+                    "name": "LUCAUTO MOB SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "NR. 447A, PUCHENII-MOSNENI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.94367,
+                        "longitude": 26.003238
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH122"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/madmar-auto-cars-srl",
+                    "name": "MADMAR AUTO CARS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BĂICOI, STR INDEPENDENŢEI NR. 313, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.033448,
+                        "longitude": 25.919418
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH076"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/matial-trans-srl",
+                    "name": "MATIAL TRANS S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT STOENESTI, COMUNA ARICESTI RAHTIVANI, DN72, P 461/22, JUDETUL PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.937754,
+                        "longitude": 25.999475
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH183"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/maxi-tp-cars-srl",
+                    "name": "Maxi Tp Cars",
+                    "image": "https://itpgo.roce58d314-71a3-47d6-a813-c022b508b9ec/ce58d314-71a3-47d6-a813-c022b508b9ec.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Gageni Nr. 92a, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.956343,
+                        "longitude": 26.01428
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH131"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/menten-auto-tehnic-srl",
+                    "name": "Menten Auto Tehnic",
+                    "image": "https://itpgo.rod7700f62-df7d-44d1-8de1-5ae3cc5a8036/d7700f62-df7d-44d1-8de1-5ae3cc5a8036.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Sos. Vestului, Incinta B, Cladirea 2/ Spatiul 2 Nr. 9, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.940502,
+                        "longitude": 25.991014
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH151"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/milarasi-srl",
+                    "name": "Statie ITP MILARASI",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "INDUSTRIEI NR. 4, PLEASA, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.924998,
+                        "longitude": 26.033395
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 68,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mitzu-atelier-itp-srl",
+                    "name": "Mitzu Atelier Itp",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Sos. Vestului Nr. 9d, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.940502,
+                        "longitude": 25.991014
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH175"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 69,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nicogel-serv-srl",
+                    "name": "Nicogel Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Poligonului Nr. 1, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.950943,
+                        "longitude": 25.989786
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH085"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 70,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nyt-cim-serv-srl-d",
+                    "name": "Nyt Cim Serv",
+                    "image": "https://itpgo.ro7509457d-c29e-4435-9133-ae5f7c6881f8/7509457d-c29e-4435-9133-ae5f7c6881f8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "B-dul. Nicolae Balcescu Nr. 41a, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.113299,
+                        "longitude": 25.745876
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH132"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 71,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/onvilmont-srl",
+                    "name": "ITP BOLDEȘTI-SCĂENI",
+                    "image": "https://itpgo.ro4149abff-ac5c-4d32-baf7-271e70c36ef6/4149abff-ac5c-4d32-baf7-271e70c36ef6.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BOLDEŞTI-SCĂENI, STR. VIILOR NR. F.N., JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.037124,
+                        "longitude": 25.851627
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH080"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 72,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/petidor-impex-srl",
+                    "name": "Petidor Impex",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Tazlau Nr. 27, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.944325,
+                        "longitude": 25.9981
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH184"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 73,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/petrosoft-autotest-srl",
+                    "name": "PETROSOFT AUTOTEST SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT POIANA VARBILAU NR. 277A, POIANA VARBILAU, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.236012,
+                        "longitude": 25.639418
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH150"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 74,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pex-srl",
+                    "name": "Pex",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Popa Farcas Nr. 45, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.936901,
+                        "longitude": 26.007846
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 75,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/phoenixy-srl",
+                    "name": "PHOENIXY SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "DN1 NR. 12,  BL.IN INCINTA FOSTA AVICOLA, BAICOI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.01555,
+                        "longitude": 25.854785
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH112"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 76,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/podeanu-truck-service-srl",
+                    "name": "PODEANU TRUCK SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "COMUNA FILIPEŞTII DE TÂRG, SAT BRĂTĂŞANCA NR. 158, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942926,
+                        "longitude": 26.213717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH093"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 77,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/poliserv-jg-pjg-srl",
+                    "name": "Poliserv Jg (pjg)",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "B-dul. Republicii Nr. 295, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.954282,
+                        "longitude": 25.993444
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 78,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/premier-gd-autotest-srl",
+                    "name": "PREMIER GD AUTOTEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "GÂRLEI NR. 5, BOLDESTI-SCAENI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.945948,
+                        "longitude": 26.045172
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH191"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 79,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/premium-dtr-servauto-srl",
+                    "name": "Premium Dtr Servauto",
+                    "image": "https://itpgo.ro2999c0b5-412f-498a-bd33-a1d37775ed0f/2999c0b5-412f-498a-bd33-a1d37775ed0f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Democratiei Nr. 10 B, Plopeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.047746,
+                        "longitude": 25.949717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH105"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 80,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/proleasing-motors-srl",
+                    "name": "PROLEASING MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT BLEJOI, COM. BLEJOI,SOS. PLOIESTI- BUZAU DN1 B, NR.505, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.94544,
+                        "longitude": 25.96211
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH095"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 81,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/regalex-tour-srl",
+                    "name": "Regalex Tour",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Calea Brasovului Nr. 8, Sinaia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.365619,
+                        "longitude": 25.546492
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 82,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rompetrol-well-services-sa",
+                    "name": "Rompetrol Well Services",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Clopotei Nr. 2 Bis, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.949956,
+                        "longitude": 26.042431
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH078"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 83,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rotaho-adina-srl",
+                    "name": "ROTAHO ADINA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "str. FABRICII nr. 21, CAMPINA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.134706,
+                        "longitude": 25.751401
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 84,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/safety-car-garage-srl",
+                    "name": "SAFETY CAR GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT GURA VITIOAREI NR. 488, GURA VITIOAREI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.171756,
+                        "longitude": 25.664903
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH140"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 85,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-acr-auto-turism-srl",
+                    "name": "Acr Auto Turism",
+                    "image": "https://itpgo.roa9100c37-ee7e-434d-aac6-61682502d8cd/a9100c37-ee7e-434d-aac6-61682502d8cd.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Sos. Vestului Nr. 9b, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.940502,
+                        "longitude": 25.991014
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 86,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/scapan-prod-com-srl",
+                    "name": "SCAPAN PROD COM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BOLDEŞTI-SCĂENI, ŞOS. PLOIEŞTI-VĂLENI NR. 55, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.009613,
+                        "longitude": 26.013972
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 87,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-chedra-tax-srl",
+                    "name": "Chedra Tax",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Rudului Nr. 262, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929716,
+                        "longitude": 26.018348
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 88,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ioana-srl",
+                    "name": "Ioana 2",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Orizontului Nr. 8, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.120181,
+                        "longitude": 25.742737
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 89,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-onvilmont-srl",
+                    "name": "Onvilmont",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Anton Pann Nr. 29, Valenii de Munte"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.180799,
+                        "longitude": 26.034146
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 90,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-poliserv-jg",
+                    "name": "SC POLISERV JG",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "PLOIESTI, BD. REPUBLICII nr. 295, jud. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.340146,
+                        "longitude": 25.55171
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PJG"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 91,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-test-mobile-pro-srl",
+                    "name": "SC TEST MOBILE PRO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT STREJNICU, COMUNA TARGSORU VECHI, STRADA ALBASTRELELOR nr. 45, jud. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.955147,
+                        "longitude": 26.044957
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH176"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 92,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-test-profesional-itp-srl",
+                    "name": "SC TEST PROFESIONAL ITP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT COCORASTII-COLT NR. 93E, COCORASTII COLT, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942926,
+                        "longitude": 26.213717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH145"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 93,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/seccus-dd-car-srl",
+                    "name": "SECCUS DD CAR SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT COCORASTII COLT NR. 193E, COCORASTII COLT, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.942926,
+                        "longitude": 26.213717
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH168"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 94,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sildani-auto-srl",
+                    "name": "SILDANI AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SOS. PLOIESTI-VALENI NR. 33, BOLDESTI-SCAENI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.012102,
+                        "longitude": 26.01236
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH099"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 95,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/speedsoft-itp-diag-srl",
+                    "name": "SPEEDSOFT ITP DIAG S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT BĂRCĂNEȘTI, COMUNA BĂRCĂNEȘTI, NR.524, JUDEȚ PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.919855,
+                        "longitude": 26.03592
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH187"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 96,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/teodav-autotrust-srl",
+                    "name": "Teodav Autotrust",
+                    "image": "https://itpgo.ro06e0fcb7-bf29-4265-8a38-a98c894c35fc/06e0fcb7-bf29-4265-8a38-a98c894c35fc.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Miron Radu Paraschivescu Nr. 1, Valenii de Munte"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.183353,
+                        "longitude": 26.044561
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH135"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 97,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/test-autocover-srl",
+                    "name": "Test Autocove",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Targu Mures Nr. 5, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.136212,
+                        "longitude": 25.750976
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH153"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 98,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/test-mobile-pro-srl",
+                    "name": "Test Mobile Pro",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Pompelor, Incinta Ubemar, Hala C49 Nr. 3, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.936816,
+                        "longitude": 26.072985
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH088"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 99,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/test-profesional-itp-srl",
+                    "name": "Test Profesional Itp",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Tarla 4, Parcela Nr. 52, Mizil"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.161264,
+                        "longitude": 27.599708
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH154"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 100,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tirex-proauto-srl",
+                    "name": "Tirex Proauto",
+                    "image": "https://itpgo.ro06490df6-90f1-40a1-bcb4-6c01f713195f/06490df6-90f1-40a1-bcb4-6c01f713195f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Pompelor Nr. 6,c5 Si C6, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.936816,
+                        "longitude": 26.072985
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH136"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 101,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tooingconsult-srl",
+                    "name": "TOOINGCONSULT SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "str. CONULUI (incinta Ploiesti Industrial Parc SA) nr. 16B, PLOIESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.938675,
+                        "longitude": 25.940651
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 102,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/top-auto-master-cmi-solutions-srl",
+                    "name": "TOP AUTO MASTER CMI SOLUTIONS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "STRADA STEJARULUI, NR. 56, SAT FILIPEȘTII DE TÂRG, COMUNA FILIPEȘTII DE TÂRG, JUDEȚ PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.9564,
+                        "longitude": 26.039167
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH193"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 103,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/topcar-trans-srl",
+                    "name": "Topcar Trans",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Industriei Nr. 3bis, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.120046,
+                        "longitude": 25.747761
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH129"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 104,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transport-calatori-express-sa",
+                    "name": "Transport Calatori Express",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Gageni Nr. 88, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.957051,
+                        "longitude": 26.013785
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH015"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 105,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tromet-societate-cooperativa-mestesugareasca",
+                    "name": "Tromet Societate Cooperativa Mestesugareasca",
+                    "image": "https://itpgo.ro42147fe2-c717-446c-9c69-c0c281a74f9f/ccb2381b-c138-438e-ad01-16df8ec49e60.jpeg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Ghe. Gr. Cantacuzino Nr. 348, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.939072,
+                        "longitude": 25.982294
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 106,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/um-01394",
+                    "name": "UM 01394",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BUCOV, STR. MIHAI VITEAZUL NR. 182, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.172664,
+                        "longitude": 25.689133
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH089"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 107,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/um-01836",
+                    "name": "U.M. 01836",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "PRINCIPALA NR. 2, TARGSORU NOU, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.161466,
+                        "longitude": 25.813293
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH098"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 108,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ung-prodcom-srl",
+                    "name": "Ung Prodcom",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. N. Lobacevski Nr. 6, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.774982,
+                        "longitude": 23.593779
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH138"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 109,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/utoserv-checks-balances-srl",
+                    "name": "UTOSERV CHECKS & BALANCES SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "SAT DIŢEŞTI, COM. FILIPEŞTII DE PĂDURE, STR. MORII NR. 929 A, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.022985,
+                        "longitude": 25.753568
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH164"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 110,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/utoserv-total-srl",
+                    "name": "S C UTOSERV TOTAL SRL",
+                    "image": "https://itpgo.ro5c7e3d37-3c54-4d3a-be0e-158da96cbea8/5c7e3d37-3c54-4d3a-be0e-158da96cbea8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BĂICOI, STR. REPUBLICII NR. 246, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.343142,
+                        "longitude": 25.732334
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH117"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 111,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/valea-prahovei-sa",
+                    "name": "Valea Prahovei",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Salaj Nr. 11, Campina"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.116326,
+                        "longitude": 25.7506
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 112,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/valiona-auto-service-srl",
+                    "name": "VALIONA AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "PRINCIPALA NR. 1, CHITORANI, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.161466,
+                        "longitude": 25.813293
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 113,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/wasch-auto-service-srl",
+                    "name": "Wasch Auto Service",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Str. Tunari Nr. 1a, Ploiesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.938365,
+                        "longitude": 26.04103
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH083"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 114,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/yri-asigonline-srl",
+                    "name": "Yri Asigonline",
+                    "image": "https://itpgo.roe976350f-95dd-4a29-9ad7-32dc256d74b9/e976350f-95dd-4a29-9ad7-32dc256d74b9.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "Calea Brasovului Nr. 87, Sinaia"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.36738,
+                        "longitude": 25.544497
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH165"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 115,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/yri-transcom-srl",
+                    "name": "YRI TRANSCOM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BUŞTENI, STR. PESCĂRIEI NR. F.N., JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.905938,
+                        "longitude": 26.350204
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH124"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 116,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/zen-car-autoservice-srl",
+                    "name": "ZEN CAR AUTOSERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Prahova",
+                        "streetAddress": "BREAZA, LINIŞTEI NR. 32A, JUD. PRAHOVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.802631,
+                        "longitude": 25.995653
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "PH121"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Prahova",
+            "alternateName": "PH"
+        }
+    }
+}

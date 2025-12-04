@@ -1,0 +1,1266 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Giurgiu",
+    "description": "Stații ITP autorizate RAR din județul Giurgiu. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/giurgiu",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Giurgiu",
+                "item": "https://itpgo.ro/judet/giurgiu"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 44,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adavio-autotrans-srl",
+                    "name": "Adavio Autotrans",
+                    "image": "https://itpgo.roe7174c0c-72cb-461e-b6c5-6bc457cd2943/e7174c0c-72cb-461e-b6c5-6bc457cd2943.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Str. Gloriei Nr. 2b, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.921625,
+                        "longitude": 25.964147
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR014"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/advanced-auto-service-srl",
+                    "name": "ADVANCED AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "PLATANILOR, COSOBA, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.520668,
+                        "longitude": 25.823187
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-koko-srl",
+                    "name": "AUTO KOKO SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "ORAS MIHAILESTI, CALEA BUCURESTI, NR.242, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.988115,
+                        "longitude": 25.990501
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/c-a-fracht-transport-logistik-srl",
+                    "name": "C & A Fracht Transport Logistik",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Sos. Prieteniei Nr. 5, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.912011,
+                        "longitude": 25.974893
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR021"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dia-trans-srl",
+                    "name": "Dia Trans",
+                    "image": "https://itpgo.ro8b23d842-38d3-4273-be52-f7a80cc6740d/8b23d842-38d3-4273-be52-f7a80cc6740d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Sos. Alexandriei Nr. 215 B, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.894385,
+                        "longitude": 25.934836
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/emanuel-impex-srl",
+                    "name": "Emanuel Impex",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Str. Puisor Nr. 10, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.901632,
+                        "longitude": 25.967569
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR009"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eurocar-service-giurgiu",
+                    "name": "Eurocar Service Giurgiu",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Sos. Bucuresti Nr. Km 60, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.914797,
+                        "longitude": 25.971833
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR001"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/fan-service-srl",
+                    "name": "FAN SERVICE SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "STRADA DIMITRIE GORGONA, CLĂDIREA NR. 6, SECTOR 5, BUCURESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.39484,
+                        "longitude": 26.079326
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hesc-media-srl",
+                    "name": "HESC MEDIA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT VALEA DRAGULUI, COM.VALEA DRAGULUI, STRADA CONACULUI, NR.1A, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.302231,
+                        "longitude": 25.98412
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ina-garden-service-srl",
+                    "name": "INA GARDEN SERVICE SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "MIHĂILEŞTI, CALEA BUCUREŞTI NR. 224, CAM.2, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.988115,
+                        "longitude": 25.990501
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-alexander-srl",
+                    "name": "ITP ALEXANDER SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "MUN. GIURGIU, ŞOS. PRIETENIEI NR. 6, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.913249,
+                        "longitude": 25.97365
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-r-company-srl",
+                    "name": "ITP R COMPANY SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "COM. CĂLUGARENI, SAT CĂLUGARENI, STR. MIHAI VITEAZUL, AP. CAMERA 1 NR. 23, JUD. GIURGIU"
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/j-m-autooservice-mrg-srl",
+                    "name": "J & M AUTOOSERVICE MRG SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT TÂNTAVA, STRADA SABARULUI, COMUNA GRĂDINARI NR. 202, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.905618,
+                        "longitude": 25.952568
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/liber-trans-com-srl",
+                    "name": "LIBER TRANS COM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "STRADA GLORIEI NR. 5, GIURGIU, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.921625,
+                        "longitude": 25.964147
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lucmar",
+                    "name": "Lucmar",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Str. Negru Voda Nr. 75, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.9066,
+                        "longitude": 25.965719
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR022"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/meridian-auto-expert-srl",
+                    "name": "Meridian Auto Expert",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Sos. Sloboziei Nr. 137 A, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.880472,
+                        "longitude": 25.937755
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mototolea-com-serv-snc",
+                    "name": "MOTOTOLEA COM SERV SNC",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT HERASTI, COM.HERASTI, T11-A91, PARCELA 9, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.319934,
+                        "longitude": 23.762848
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mototolea-com-serv-societate-in-nume-colectiv",
+                    "name": "MOTOTOLEA COM SERV SOCIETATE IN NUME COLECTIV",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "COM. VALEA DRAGULUI, SAT VALEA DRAGULUI, SOSEAUA PRINCIPALA, NR.394, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.274833,
+                        "longitude": 26.032416
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR008"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nd-car-concept-srl",
+                    "name": "Nd Car Concept",
+                    "image": "https://itpgo.rob61bd479-8708-4092-b880-d6e6f466eff7/b61bd479-8708-4092-b880-d6e6f466eff7.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Sos. Bucuresti Nr. 126, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.907158,
+                        "longitude": 25.971369
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nego-serv-luc-srl",
+                    "name": "NEGO SERV LUC SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT STOENESTI, COMUNA STOENESTI, STRADA PRINCIPALA, NR. 2, CONSTRUCTIA C4, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.950176,
+                        "longitude": 26.047093
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/negru-auto-srl",
+                    "name": "NEGRU AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "COM. SĂBĂRENI, STR. CASTANILOR NR. 36, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.950882,
+                        "longitude": 26.046953
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR027"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/new-zet-garage-srl",
+                    "name": "New Zet Garage",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "B-dul. I.c. Bratianu Nr. 194, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.734623,
+                        "longitude": 26.689804
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/pley-big-fryer-srl",
+                    "name": "PLEY BIG FRYER SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT DARASTI VLASCA, COMUNA ADUNATII COPACENI, STRADA PRINCIPALA, NR.272, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.950176,
+                        "longitude": 26.047093
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/prodas",
+                    "name": "Prodas",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Sos. Bucuresti Nr. 177-179, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.914797,
+                        "longitude": 25.971833
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/psg-auto-srl",
+                    "name": "PSG AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT BOLINTIN DEAL, COMUNA BOLINTIN DEAL, STRADA ITHACA, NR. 520, JUDET  GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.466938,
+                        "longitude": 25.84115
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/roly-itp-srl",
+                    "name": "ITP Mihăilești, Giurgiu",
+                    "image": "https://itpgo.ro89f150df-a3e0-4b27-96bb-c34159a54eea/89f150df-a3e0-4b27-96bb-c34159a54eea.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "MIHĂILEŞTI, CALEA BUCUREŞTI NR. 363, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.3108398,
+                        "longitude": 25.8965029
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR015"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/romcorp-auto-service-srl",
+                    "name": "ROMCORP AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT MALU SPART, ORAS BOLINITN VALE, NR.800E, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.437134,
+                        "longitude": 25.720669
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-bde-test-srl",
+                    "name": "SC BDE TEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "COM. ADUNATII-COPACENI, SAT MOGOSESTI, SOS. VICTORIEI nr. 37, jud. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.239271,
+                        "longitude": 26.108561
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-edlaauto-srl",
+                    "name": "SC EDLAAUTO SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT GORNENI, Str. Dimitrie Gorneanu nr. 37, jud. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.897636,
+                        "longitude": 25.956095
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-lgp-construct-srl",
+                    "name": "SC LGP CONSTRUCT SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT PALANCA, COM. FLORESTI-STOENESTI, STR. MAVRACHE nr. 24, jud. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.459347,
+                        "longitude": 25.732629
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-total-grup-sa",
+                    "name": "Total Grup",
+                    "image": "https://itpgo.ro111e5da8-a990-45dd-a607-c44038e9ed3a/111e5da8-a990-45dd-a607-c44038e9ed3a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Str. I.c.bratianu Nr. 10-12, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.4797,
+                        "longitude": 28.220283
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-trans-cordoneanu-srl",
+                    "name": "SC TRANS CORDONEANU SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT MOGOSESTI, COM. ADUNATII COPACENI nr. 17, jud. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.254433,
+                        "longitude": 26.03917
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR010"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/smart-tehnic-service-srl",
+                    "name": "SMART TEHNIC SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "BUCURESTI-ALEXANDRIA NR. 5A,  BL.5A, GHIMPATI, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.390141,
+                        "longitude": 26.094837
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/smi-serv-srl",
+                    "name": "SMI SERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "ORAS BOLINTIN VALE, STRADA PALANCA, NR1E, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.459347,
+                        "longitude": 25.732629
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR023"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sofnic-garage-srl",
+                    "name": "Sofnic Garage",
+                    "image": "https://itpgo.rod455cad7-427c-4748-ad03-6a9571be2d1f/d455cad7-427c-4748-ad03-6a9571be2d1f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "B-dul. Bucuresti, Km5, Nr.cadastral 6152 Nr. -, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.907579,
+                        "longitude": 25.971418
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR043"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/standard-sport-international-srl",
+                    "name": "STANDARD SPORT INTERNATIONAL SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "STRADA REPUBLICII NR. 2, ROATA DE JOS, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446496,
+                        "longitude": 25.759001
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tehnic-itp-serv-srl",
+                    "name": "TEHNIC ITP SERV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "BOLINTIN VALE, STR. DIMITRIE BOLINTINEANU NR. 16, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.127402,
+                        "longitude": 25.745463
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tgt-tynna-srl",
+                    "name": "Statie ITP Palanca",
+                    "image": "https://itpgo.ro4f58554e-0746-40b4-9b9b-e9fb9b24e72c/4f58554e-0746-40b4-9b9b-e9fb9b24e72c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "STRADA DOMNEASCĂ NR. 1A, PALANCA, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.461795,
+                        "longitude": 25.738157
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tour-trans-srl",
+                    "name": "Tour Trans",
+                    "image": "https://itpgo.rod8e6e3a8-6304-4ea1-ab61-9d0d82fba63a/d8e6e3a8-6304-4ea1-ab61-9d0d82fba63a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "Sos. Bucuresti Nr. 144, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.907098,
+                        "longitude": 25.971362
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR004"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tudor-global-comp-srl",
+                    "name": "Tudor Global Comp",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "B-dul. I.c. Bratianu Nr. 10-12, Giurgiu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.168598,
+                        "longitude": 28.57636
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/valgold-srl",
+                    "name": "VALGOLD SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT MIHAI VODA, COM. BOLINTIN-DEAL, STR. MIRCESTI, NR. 34, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.312174,
+                        "longitude": 23.824959
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR011"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vef-and-rev-srl",
+                    "name": "VEF AND REV SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "HERESTI, T11-A91 NR. -, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.319934,
+                        "longitude": 23.762848
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/viga-service-itp-srl",
+                    "name": "VIGA SERVICE ITP S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT CĂLUGĂRENI, COM. CĂLUGĂRENI, ŞOŞ. BUCUREŞTI-GIURGIU, CONSTRUCŢIA C2 NR. NR.25, JUD. GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 43.907579,
+                        "longitude": 25.971418
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ytp-yonut-autotest-srl",
+                    "name": "ITP MOGOŞEŞTI \"La Ionuț\"",
+                    "image": "https://itpgo.ro1f110414-4d24-44e1-b78c-d8e815536ed0/1f110414-4d24-44e1-b78c-d8e815536ed0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Giurgiu",
+                        "streetAddress": "SAT MOGOSESTI, COM. ADUNATII-COPACENI, SOSEAUA VICTORIEI, NR. 37, CAMERA3, JUDET GIURGIU"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.265279,
+                        "longitude": 26.053638
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "GR036"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Giurgiu",
+            "alternateName": "GR"
+        }
+    }
+}

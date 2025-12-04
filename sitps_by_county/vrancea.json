@@ -1,0 +1,1355 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Vrancea",
+    "description": "Stații ITP autorizate RAR din județul Vrancea. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/vrancea",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Vrancea",
+                "item": "https://itpgo.ro/judet/vrancea"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 47,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/a-r-consmet-srl",
+                    "name": "A & R CONSMET SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "ADJUD, STR. TINERETULUI NR. 35, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.662491,
+                        "longitude": 27.164166
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN034"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autoboys-garage-srl",
+                    "name": "AUTOBOYS GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "DRUMUL VINULUI NR. 5A, BONTESTI, CARLIGELE, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.675622,
+                        "longitude": 27.051604
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN070"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-cris-cost-srl",
+                    "name": "Auto Cris Cost",
+                    "image": "https://itpgo.ro5958b6a6-edd0-4c9f-b132-0b6b5e82257f/5958b6a6-edd0-4c9f-b132-0b6b5e82257f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Cotesti Nr. 101, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.695886,
+                        "longitude": 27.181233
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-diversis-srl",
+                    "name": "Auto Diversis",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Calea Munteniei Nr. 21, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.684653,
+                        "longitude": 27.194689
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN003"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autodog-srl",
+                    "name": "SC Autodog SRL statie ITP",
+                    "image": "https://itpgo.ro381723f7-c2b4-4850-bb70-6b5d56858851/381723f7-c2b4-4850-bb70-6b5d56858851.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "STR. STADIONULUI NNR. 2, ADJUD, JUDETUL VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.095947,
+                        "longitude": 27.188483
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN068"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autofarm-zone-srl",
+                    "name": "Autofarm Zone",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Soseaua Vrancei Km. 3, Imobil C2 Nr. -, Odobesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.710344,
+                        "longitude": 26.65221
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-gabriel-srl",
+                    "name": "Auto Gabriel",
+                    "image": "https://itpgo.ro02ae6dac-d077-402f-a970-08fd517f032d/02ae6dac-d077-402f-a970-08fd517f032d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Anghel Saligny Nr. 27, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.386837,
+                        "longitude": 27.062262
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN017"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-gas-test-srl",
+                    "name": "AUTO GAS TEST S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "SAT CHIOJDENI, COMUNA CHIOJDENI, JUDET VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.910539,
+                        "longitude": 26.90685
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-neagu-srl",
+                    "name": "AUTO NEAGU SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "SAT CÂMPINEANCA, COM. CAMPINEANCA, CALEA ODOBEŞTI NR. 47, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.725264,
+                        "longitude": 27.12442
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-service-dac-sa",
+                    "name": "Auto Service Dac",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Mihail Kogalniceanu Nr. 20, Panciu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.909801,
+                        "longitude": 27.093253
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN007"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-sima-beyer-import-export-srl",
+                    "name": "Auto Sima Beyer Import Export",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Calea Munteniei Nr. 11, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.684532,
+                        "longitude": 27.195902
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autotransport-srl",
+                    "name": "AUTOTRANSPORT SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "GUGEŞTI, STR. MIHAIL KOGALNICEANU NR. 2, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.698325,
+                        "longitude": 27.186378
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN004"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bavicauto-srl",
+                    "name": "AD BavicAuto Adjud Service ITP",
+                    "image": "https://itpgo.ro9e4f0477-cd27-4228-9020-ee898303a07c/9e4f0477-cd27-4228-9020-ee898303a07c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "MUNICIPIUL ADJUD, STR. REPUBLICII, NR. FN, JUDET VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.761076,
+                        "longitude": 27.063855
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/big-met-trans-srl",
+                    "name": "S.C. BIG MET TRANS S.R.L.",
+                    "image": "https://itpgo.ro5104094c-3f10-45c6-8929-a0cb1e727549/5104094c-3f10-45c6-8929-a0cb1e727549.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "SAT DUMBRAVENI, COMUNA DUMBRAVENI,, JUDETUL VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.539559,
+                        "longitude": 27.04069
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/capital-car-logistic-srl",
+                    "name": "Capital Car Logistic",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Tarla 58, Parcela 258 Nr. -, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.17846,
+                        "longitude": 26.839962
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN062"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/carautodas-srl",
+                    "name": "SC CARAUTODAS SRL",
+                    "image": "https://itpgo.roaf9ad149-7765-4333-929a-b94d4b2e11ab/af9ad149-7765-4333-929a-b94d4b2e11ab.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "COM. GOLEŞTI, SAT CEARDAC, STR. GÂRLEI NR. 64, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.92027,
+                        "longitude": 27.030504
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/car-serv-srl",
+                    "name": "Car Serv",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Marasesti Nr. 4, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.708233,
+                        "longitude": 27.190402
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN011"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/carspro-engine-srl",
+                    "name": "Carspro Engine",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "B-dul. Brailei, T.199 Nr. P.11016, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.690988,
+                        "longitude": 27.192517
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/coli-service-srl",
+                    "name": "Coli Service",
+                    "image": "https://itpgo.rof2772b5e-0dcc-475d-8046-b08956ab0737/f2772b5e-0dcc-475d-8046-b08956ab0737.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "B-dul. Independentei Nr. 30, Panciu"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.929848,
+                        "longitude": 26.02816
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/creita-eurotransport-srl",
+                    "name": "Creita Eurotransport",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Cuza Voda Nr. 77, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.708115,
+                        "longitude": 27.195086
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cristalgim-tehnic-srl",
+                    "name": "ITP Cristalgim Tehnic",
+                    "image": "https://itpgo.ro1502d4bb-2e0d-4d54-a442-c8a37da997c2/1502d4bb-2e0d-4d54-a442-c8a37da997c2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "COM MILCOVUL, SAT LĂMOTEŞTI NR. -, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.910539,
+                        "longitude": 26.90685
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/drauto-jip-itp-srl",
+                    "name": "Drauto Jip Itp",
+                    "image": "https://itpgo.ro4ce6a086-7474-4d79-8686-49368209a5da/4ce6a086-7474-4d79-8686-49368209a5da.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Calea Moldovei Nr. 25, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.703578,
+                        "longitude": 27.203268
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/emilian-logistic-serv-srl",
+                    "name": "EMILIAN LOGISTIC SERV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "COM PĂUNEŞTI, SAT PĂUNEŞTI NR. F.N., JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.065702,
+                        "longitude": 27.137356
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eurocontinental-sa",
+                    "name": "Eurocontinental",
+                    "image": "https://itpgo.robd74e625-937c-49fa-8268-d68d32aa84f0/bd74e625-937c-49fa-8268-d68d32aa84f0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Bicaz Nr. 26, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.705539,
+                        "longitude": 27.173432
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN005"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/express-autoserv-srl",
+                    "name": "Express Autoserv",
+                    "image": "https://itpgo.rod912bef6-e3dd-482f-bd3b-55cdb9d6cd6f/d912bef6-e3dd-482f-bd3b-55cdb9d6cd6f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Suraii Nr. 11, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.642867,
+                        "longitude": 27.447567
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gheonea-mihai-valentin-intreprindere-individuala",
+                    "name": "Gheonea Mihai Valentin Intreprindere Individuala",
+                    "image": "https://itpgo.ro0a42ed31-36be-44b4-b7ce-1f040e21c825/0a42ed31-36be-44b4-b7ce-1f040e21c825.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Cetatea Craciun Nr. 6, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.691979,
+                        "longitude": 27.169451
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN051"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/helios-service-srl",
+                    "name": "Helios Service",
+                    "image": "https://itpgo.roa9ae9c0a-d1bc-46fb-875c-32c152878ad2/a9ae9c0a-d1bc-46fb-875c-32c152878ad2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Calea Moldovei, T.29-p.149/1/1 Nr. 31, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.694957,
+                        "longitude": 27.203043
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lorena-com-srl",
+                    "name": "Lorena Com",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Marasesti Nr. 40, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.709966,
+                        "longitude": 27.182839
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN026"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/marsat-com-srl",
+                    "name": "Marsat Com",
+                    "image": "https://itpgo.roeef80c72-685b-4b67-ba1a-fe0d755f9060/eef80c72-685b-4b67-ba1a-fe0d755f9060.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Anghel Saligny Nr. 5d, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.893248,
+                        "longitude": 28.716164
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mavtek-service-srl",
+                    "name": "MAVTEK SERVICE SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "ADJUD, STR. REPUBLICII NR. 4, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.914531,
+                        "longitude": 27.086175
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/monacs-garage-automotive-srl",
+                    "name": "Monac`s Garage Automotive",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Libertatii Nr. 587, Odobesti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.761189,
+                        "longitude": 27.060959
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/negru-trans-srl",
+                    "name": "NEGRU TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "SAT CÂMPINEANCA, COM. CÂMPINEANCA, STR. DOCTOR CARNABEL NR. 2, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.714051,
+                        "longitude": 27.178925
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN061"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/prestarea-societate-cooperativa-mestesugareasca",
+                    "name": "Prestarea Societate Cooperativa Mestesugareasca",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "B-dul. Bucuresti Nr. 14, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.681341,
+                        "longitude": 27.181057
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/prest-comet-srl",
+                    "name": "Prest Comet",
+                    "image": "https://itpgo.ro75f1e3ba-e976-44f8-b563-096bb0d31b4d/75f1e3ba-e976-44f8-b563-096bb0d31b4d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Calea Munteniei Nr. 31, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.682675,
+                        "longitude": 27.192452
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/roman-impex-prest-srl",
+                    "name": "ROMAN IMPEX PREST SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "ADJUD, STR. REPUBLICII NR. 107, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.698979,
+                        "longitude": 27.186992
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-drag-auto-garage-srl",
+                    "name": "SC DRAG AUTO GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "COM. DUMITRESTI, SAT DUMITRESTI, - nr. -, jud. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.910539,
+                        "longitude": 26.90685
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN038"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-favimar-trans-srl",
+                    "name": "SC FAVIMAR TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "SAT GOLESTI, Sos. Nationala nr. 106, jud. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.958804,
+                        "longitude": 27.204374
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-general-autocom-srl",
+                    "name": "General Autocom",
+                    "image": "https://itpgo.rod377b51d-614e-461a-9c95-cca14bf215d1/d377b51d-614e-461a-9c95-cca14bf215d1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Calea Munteniei Nr. 51, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.678112,
+                        "longitude": 27.18927
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ivas-srl",
+                    "name": "Ivas",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Calea Munteniei Nr. Km 180+300, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.682675,
+                        "longitude": 27.192453
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN020"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-madynarcis-service-srl",
+                    "name": "Madynarcis Service",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Cuza Voda Nr. 64 B, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.697128,
+                        "longitude": 27.189184
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-autonov-srl",
+                    "name": "Service Autonov",
+                    "image": "https://itpgo.rodffa6809-8b39-4cfa-a7bb-8c19a70585e3/dffa6809-8b39-4cfa-a7bb-8c19a70585e3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Vrancei Nr. 12, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.71336,
+                        "longitude": 27.180865
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/servitrans-sa",
+                    "name": "Servitrans",
+                    "image": "https://itpgo.robeb06353-683d-499a-a81c-698c924282ae/beb06353-683d-499a-a81c-698c924282ae.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Valcele Nr. 63 Bis, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.69468,
+                        "longitude": 27.165093
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN012"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sidor-auto-srl",
+                    "name": "Sidor Auto",
+                    "image": "https://itpgo.ro4346bfc0-2ab5-4ed0-9021-67c06834d17d/4346bfc0-2ab5-4ed0-9021-67c06834d17d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "COM. VIDRA, SAT BURCA NR. F.N., JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.691627,
+                        "longitude": 27.047847
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tomix-profi-srl",
+                    "name": "TOMIX PROFI S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "MUNICIPIUL ADJUD, STRADA REPUBLICII, NR. 1, JUDET VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.698718,
+                        "longitude": 27.178057
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transport-public-sa",
+                    "name": "Transport Public",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "Str. Marasesti Nr. 72, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.710919,
+                        "longitude": 27.177842
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/um-01145",
+                    "name": "U.m. 01145",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "B-dul. Bucuresti Nr. 3-5, Focsani"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.680283,
+                        "longitude": 27.180179
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/w-clean-auto-srl",
+                    "name": "W CLEAN AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Vrancea",
+                        "streetAddress": "ADJUD, STR. REPUBLICII NR. 143, JUD. VRANCEA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.698979,
+                        "longitude": 27.186992
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "VN065"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Vrancea",
+            "alternateName": "VN"
+        }
+    }
+}

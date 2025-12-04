@@ -1,0 +1,4430 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Ilfov",
+    "description": "Stații ITP autorizate RAR din județul Ilfov. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/ilfov",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Ilfov",
+                "item": "https://itpgo.ro/judet/ilfov"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 157,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aba-best-cars-srl",
+                    "name": "ABA BEST CARS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA 23 AUGUST NR. 67, OTOPENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.551243,
+                        "longitude": 26.0785
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0834"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aba-motors-trade-srl",
+                    "name": "ABA MOTORS TRADE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OTOPENI, STR. 23 AUGUST NR. 67, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.560825,
+                        "longitude": 25.945581
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0480"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adi-star-impex-srl",
+                    "name": "ADI STAR IMPEX SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOS. FUNDENI NR. 83, DOBROESTI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.383752,
+                        "longitude": 26.238569
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adn-alex-prod-comimpex-srl",
+                    "name": "ITP Inspectii Tehnice Periodice Auto sub marca RAR",
+                    "image": "https://itpgo.roe9d05e11-9a78-46b5-80d6-4a49bb6d8072/e9d05e11-9a78-46b5-80d6-4a49bb6d8072.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BUFTEA, ŞOS. BUCUREŞTI-TÂRGOVIŞTE (KM18) NR. 2B, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.5430572,
+                        "longitude": 25.9738912
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0142"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aem-service-itp-srl",
+                    "name": "AEM Service-ITP",
+                    "image": "https://itpgo.ro2e6d73db-4b79-42b1-9412-8c9d15c30515/2e6d73db-4b79-42b1-9412-8c9d15c30515.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. CARTIERULUI nr. 10, CHITILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.496236,
+                        "longitude": 25.981555
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB139"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ag-test-auto-service-srl",
+                    "name": "AG TEST AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. CHIAJNA, SAT ROŞU, STR. APEDUCTULUI NR. 3C, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0741"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alexpabo-service-srl",
+                    "name": "ALEXPABO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "GIURGIULUI NR. 25-27,  BL.HALA NR.1, 1 DECEMBRIE, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.549087,
+                        "longitude": 26.128959
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0844"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alex-service-truck-srl",
+                    "name": "ALEX SERVICE TRUCK SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA BIRUINȚEI NR. 11, GLINA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.367194,
+                        "longitude": 26.158493
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0831"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alfa-business-infinity-srl",
+                    "name": "ALFA BUSINESS INFINITY SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, STR. EMIL RACOVIŢĂ NR. 25 A, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.659019,
+                        "longitude": 25.598484
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0686"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alpha-si-omega-auto-service-srl",
+                    "name": "ALPHA SI OMEGA AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA BUCUREȘTI-TÂRGOVIȘTE NR. 16A, BUFTEA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.561886,
+                        "longitude": 25.94932
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0280"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ana-reviteh-srl",
+                    "name": "Ana Reviteh",
+                    "image": "https://itpgo.roc84157cc-8203-4b08-9b22-ff589311cb54/c84157cc-8203-4b08-9b22-ff589311cb54.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OTOPENI, STR. TUDOR VLADIMIRESCU NR. 9 JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.710417,
+                        "longitude": 26.177387
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0160"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/armada-serv-srl",
+                    "name": "ARMADA SERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOSEAUA OLTENIŢEI NR. 213, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.37083,
+                        "longitude": 26.182012
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0838"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/asko-international-srl",
+                    "name": "ASKO INTERNATIONAL SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "TARLAUA 57/5, COMUNA CHIAJNA, JUDET ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0379"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ast-speed-truck-srl",
+                    "name": "AST SPEED TRUCK SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. SOS. DE CENTURA nr. 4-10, DOBROESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.050652,
+                        "longitude": 23.570362
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB109"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/atlantic-motors-express-srl",
+                    "name": "ATLANTIC MOTORS EXPRESS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OTOPENI, STR. ARDEALULUI, NR. 9, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.541421,
+                        "longitude": 26.085139
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0626"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-agusta-service-roti-srl",
+                    "name": "AUTO AGUSTA SERVICE ROTI SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STR. LIBERTĂŢII NR. 57, CATELU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.558493,
+                        "longitude": 26.061209
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0445"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autocontrol-serv-srl",
+                    "name": "AUTOCONTROL-SERV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA LIPIA-NUCI NR. 17, LIPIA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.714473,
+                        "longitude": 26.259404
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0821"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autodom-itp-services-srl",
+                    "name": "AUTODOM ITP SERVICES SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA CURTEA DOMNEASCĂ NR. 52, DOMNESTI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.400092,
+                        "longitude": 25.909118
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB884"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autodom-speed-service-srl",
+                    "name": "STATIE ITP TEGHES -DOMNESTI",
+                    "image": "https://itpgo.ro3f0316a7-04f3-4dfa-8349-39dc0d69424c/3f0316a7-04f3-4dfa-8349-39dc0d69424c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "DOMNEŞTI, ŞOS. CURTEA DOMNEASCĂ NR. 52, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.399649,
+                        "longitude": 25.907776
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0790"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-elenis-srl",
+                    "name": "AUTO ELENIS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "POPEŞTI LEORDENI, STR. PÂRÂUL RECE NR. 3, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.3808,
+                        "longitude": 26.159597
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0542"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-empress-service-srl",
+                    "name": "AUTO EMPRESS SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SAT BĂLĂCEANCA, COM. CERNICA, ŞOS. GĂRII, STAŢIE ITP NR. 73, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.390365,
+                        "longitude": 26.295158
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0720"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-evolution-cosmo-srl",
+                    "name": "AUTO EVOLUTION COSMO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞTEFĂNEŞTII DE JOS, STR. EUROPA NR. 1A, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.536846,
+                        "longitude": 26.171294
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0732"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autofan-garage-srl",
+                    "name": "AUTOFAN GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, STR. LAURULUI NR. 2A, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0541"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-garage-expert-srl",
+                    "name": "AUTO GARAGE EXPERT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "LEORDENI NR. 149, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.378715,
+                        "longitude": 26.19611
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0814"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-industries-srl",
+                    "name": "AUTO INDUSTRIES SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, ŞOS ALEXANDRIEI NR. 180, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.390865,
+                        "longitude": 26.020174
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0616"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-itp-garage-srl-d",
+                    "name": "AUTO ITP GARAGE (STATIE ITP)",
+                    "image": "https://itpgo.rof9b10abb-e715-4ea9-b4bf-bda1d219b166/f9b10abb-e715-4ea9-b4bf-bda1d219b166.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. MOARA VLĂSIEI, STR. PROFESOR FILIP GRIGORE LUPU NR. 9, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.644597,
+                        "longitude": 26.223716
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0734"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-nita-criservice-srl",
+                    "name": "AUTO NITA CRISERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STR. LIBERĂŢII NR. 21C, CĂŢELU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.662325,
+                        "longitude": 26.292922
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0535"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-quattro-industrial-corporate-srl",
+                    "name": "ITP - AUTO QUATTRO",
+                    "image": "https://itpgo.ro315dc11d-68d6-4605-9747-c3f72b7756c8/315dc11d-68d6-4605-9747-c3f72b7756c8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. AFUMATI nr. 777, SAT PETRACHIOAIA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.580677,
+                        "longitude": 26.312929
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB119"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-quatttro-industrial-corporate-srl",
+                    "name": "AUTO-QUATTTRO-INDUSTRIAL CORPORATE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SAT PETRĂCHIOAIA, COM. PETRĂCHIOAIA, STR. AFUMAŢI NR. 777, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.481513,
+                        "longitude": 26.170779
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0350"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/autozone-tehnic-service-srl",
+                    "name": "AUTOZONE TEHNIC SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "GRĂDIŞTEA, STR. PRIMĂRIEI NR. 15, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.479321,
+                        "longitude": 26.227161
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0356"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/avia-motors-b-srl",
+                    "name": "AVIA MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BULEVARDUL BIRUINȚEI NR. 41, PANTELIMON, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.448046,
+                        "longitude": 26.204487
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0128"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/avr-custom-service-srl",
+                    "name": "AVR CUSTOM SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA DE CENTURĂ NR. 5-6, CHIAJNA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.537617,
+                        "longitude": 26.080983
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0802"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bardak-motor-srl",
+                    "name": "BARDAK MOTOR SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOS. BUCURESTI-DOMNESTI NR. 29,  BL.ET. P, CLINCENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.40334,
+                        "longitude": 25.958854
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0692"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bemih-srl",
+                    "name": "Bemih",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "Str. Marasesti Nr. 64, Magurele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.356048,
+                        "longitude": 26.027741
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0405"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bet-auto-service-fundeni-srl",
+                    "name": "BET AUTO SERVICE FUNDENI SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SAT FUNDENI, STR. GĂRII NR. 8, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.678265,
+                        "longitude": 25.996542
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0523"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bgs-motors-service-srl",
+                    "name": "BGS MOTORS SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOS DE CENTURA NR. 5A, SAT TUNARI, COM. TUNARI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.537617,
+                        "longitude": 26.080983
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0497"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cardeems-srl",
+                    "name": "STATIE ITP AUTO MOTO TIR",
+                    "image": "https://itpgo.ro284be059-4f2f-4d93-8bad-1982caebaa38/284be059-4f2f-4d93-8bad-1982caebaa38.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "INTRAREA DEPOZITULUI NR. 2, PANTELIMON, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.453995,
+                        "longitude": 26.237352
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0787"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/car-leader-itp-srl",
+                    "name": "CAR LEADER ITP SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA BUCUREȘTI - TÂRGOVIȘTE NR. 2B, BUFTEA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.555325,
+                        "longitude": 25.956129
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0888"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cris-speed-trans-srl",
+                    "name": "CRIS SPEED TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "LEBEDEI NR. 2, BUFTEA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.800598,
+                        "longitude": 24.18001
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0620"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cxm-itp-srl",
+                    "name": "CXM ITP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA VLĂSIEI NR. 104, BRANESTI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.45886,
+                        "longitude": 26.339341
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0850"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dam-concept-cars-srl",
+                    "name": "DAM CONCEPT CARS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SAT ROŞU, COM. CHIAJNA, STR. REZERVELOR, NR.21 BIS, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0796"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dan-professional-services-srl",
+                    "name": "DAN PROFESSIONAL SERVICES SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞTEFĂNEŞTII DE JOS, ŞOS. ŞTEFĂNEŞTI NR. 19A, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.534561,
+                        "longitude": 26.201888
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0510"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/david-service-line-srl",
+                    "name": "DAVID SERVICE LINE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ARGEŞ NR. 6, ISLAZ, BRANESTI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.548149,
+                        "longitude": 26.073223
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0847"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/df-auto-test-srl",
+                    "name": "DF AUTO TEST SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ALEEA ARIEȘUL MARE NR. 3, CLĂDIREA NR. BLOC 33, SC. B, AP. 11, SECTOR 6, BUCURESTI"
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0891"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dismonet-srl",
+                    "name": "ITP Bragadiru Clinceni",
+                    "image": "https://itpgo.rof2a479f6-1d67-4cb4-a180-07350502dfe1/f2a479f6-1d67-4cb4-a180-07350502dfe1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, ŞOS. CLINCENI, HALA H1 NR. 23-25, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0722"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dnlx-auto-trans-srl",
+                    "name": "Castrol Service DN&LX Autotrans",
+                    "image": "https://itpgo.rof3adb218-4d1c-45f4-8d0c-5a234043d2db/f3adb218-4d1c-45f4-8d0c-5a234043d2db.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA ZORELELOR NR. 2, CHIAJNA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.461151,
+                        "longitude": 25.984069
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0783"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dreamcar-solution-srl",
+                    "name": "DREAMCAR SOLUTION SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOSEAUA DE CENTURĂ NR. 15,  BL.HALA 1, DOMNESTI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.503613,
+                        "longitude": 26.198791
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0837"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/eco-service-enterprise-srl",
+                    "name": "ECO SERVICE ENTERPRISE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. TUNARI, SAT DIMIENI, ŞOS. TUNARI-BALOTEŞTI NR. 2, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.584432,
+                        "longitude": 26.140934
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0742"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/elegance-service-srl",
+                    "name": "ELEGANCE SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COMUNA SNAGOV, SAT CIOFLICENI, STR. ŞTEFAN CEL MARE NR. 46, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.503822,
+                        "longitude": 26.132942
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0254"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/energy-atelier-srl",
+                    "name": "ENERGY ATELIER SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRĂNEŞTI, STR. VLĂSIEI NR. 104, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.558914,
+                        "longitude": 25.949229
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0745"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euromaster-tyre-services-romania-sa",
+                    "name": "EUROMASTER TYRE & SERVICES ROMANIA SA",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, ŞOS. PIPERA-TUNARI NR. 1,C1 SI C2, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.510543,
+                        "longitude": 26.139027
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0495"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-parts-distribution-srl",
+                    "name": "EURO PARTS DISTRIBUTION SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "DRUMUL ÎNTRE TARLALE NR. 19B,  BL.C1, CALDARARU, CERNICA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.416932,
+                        "longitude": 26.217737
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0851"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-tehno-group",
+                    "name": "EURO TEHNO GROUP",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "AVRAM IANCU NR. 16, OTOPENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.542903,
+                        "longitude": 26.096723
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0710"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/executiv-autoservice-srl",
+                    "name": "EXECUTIV AUTOSERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "PANTELIMON, STR. ZENITULUI, NR. 3, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.383752,
+                        "longitude": 26.238569
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0239"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/expert-maria-trading-srl",
+                    "name": "EXPERT MARIA TRADING SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BULEVARDUL BIRUINȚEI NR. 91, PANTELIMON, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.449908,
+                        "longitude": 26.223149
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0748"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/f5auto-workshop-center-srl",
+                    "name": "F5AUTO WORKSHOP CENTER SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BULEVARDUL 1 MAI NR. 336, BERCENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.321632,
+                        "longitude": 26.179294
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0813"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/fulger-auto-service-srl",
+                    "name": "FULGER AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA CRIȘUL REPEDE NR. 63, BRAGADIRU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.374516,
+                        "longitude": 26.007412
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0805"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gef-car-inspectie-srl",
+                    "name": "GEF CAR INSPECTIE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA BUCUREȘTI-PLOIEȘTI NR. 80, CIOLPANI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.372283,
+                        "longitude": 26.084309
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0795"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/global-art-style-corner-srl",
+                    "name": "GLOBAL ART & STYLE CORNER SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA REZERVELOR NR. 81, ROSU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.444004,
+                        "longitude": 25.987651
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0655"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gnv-omega-trading-srl",
+                    "name": "G.N.V. OMEGA TRADING SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, ŞOS. AFUMAŢI NR. 93A, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.580677,
+                        "longitude": 26.312929
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0107"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/grig-grig-trans-srl",
+                    "name": "GRIG & GRIG TRANS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. DOBROIESTI, SOS. FUNDENI NR. 120C, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.458226,
+                        "longitude": 26.162707
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0352"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/grosu-service-itp-srl",
+                    "name": "Grosu Service ITP",
+                    "image": "https://itpgo.roa796532f-dfc7-46bb-a812-00e398ca1556/a796532f-dfc7-46bb-a812-00e398ca1556.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA GIURGIULUI NR. 138-140,  BL.C2,C3, 1 DECEMBRIE, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.341253,
+                        "longitude": 26.081363
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0812"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gsf-auto-concept-srl",
+                    "name": "GSF AUTO CONCEPT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "CENTURA BUCUREȘTI NR. 3, JILAVA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.603415,
+                        "longitude": 26.071741
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0757"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gsi-14-service-srl",
+                    "name": "GSI 14 SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA SILIȘTEA - CIOLPANI NR. 1C, SILISTEA SNAGOVULUI, GRUIU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.741175,
+                        "longitude": 26.173057
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0868"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/g-v-general-autoserv-srl",
+                    "name": "G & V GENERAL AUTOSERV SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA GHIOCEILOR NR. 1A, ZURBAUA, DRAGOMIRESTI-VALE, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.487093,
+                        "longitude": 25.915709
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0570"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/happy-cards-srl",
+                    "name": "Statie Itp Pantelimon",
+                    "image": "https://itpgo.rofa523390-8802-4259-a91a-4e0ee8d34aa1/fa523390-8802-4259-a91a-4e0ee8d34aa1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "PANTELIMON, STR. POET GEORGE ŢĂRNEA NR. 60, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.575103,
+                        "longitude": 27.552826
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0739"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/holleman-bucharest-special-transport-srl",
+                    "name": "HOLLEMAN BUCHAREST SPECIAL TRANSPORT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. JILAVA, SAT JILAVA, ŞOS DE CENTURĂ NR. 29, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.237698,
+                        "longitude": 27.932805
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0275"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 68,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/icleanu-co-srl",
+                    "name": "ICLEANU CO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, STR. FLORILOR NR. 23, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.533617,
+                        "longitude": 26.173437
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0488"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 69,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/inchcape-motors-srl",
+                    "name": "INCHCAPE MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, ŞOS. PIPERA TUNARI NR. 1, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.510543,
+                        "longitude": 26.139027
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0344"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 70,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/interactiv-service-srl",
+                    "name": "INTERACTIV SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, STR. ALEXANDRIEI NR. 327, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.226784,
+                        "longitude": 25.260246
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0678"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 71,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/inter-cargo-grup-srl",
+                    "name": "INTER CARGO GRUP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, ŞOSEAUA CENTURII NR. 5-7, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0759"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 72,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-auto-moto-buftea-srl",
+                    "name": "Itp Buftea",
+                    "image": "https://itpgo.ro31733e04-23fb-49c2-9aff-b587d7207954/31733e04-23fb-49c2-9aff-b587d7207954.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOS. BUCUREȘTI-TÂRGOVIȘTE NR. 76, BUFTEA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.5585056,
+                        "longitude": 25.9516662
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0793"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 73,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-auto-moto-otopeni-srl",
+                    "name": "ITP AUTO MOTO OTOPENI SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STR. TUDOR VLADIMIRESCU NR. 9, OTOPENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.533888,
+                        "longitude": 26.058507
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0839"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 74,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-auto-test-srl",
+                    "name": "ITP AUTO TEST SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA UNIRII NR. 194, CORBEANCA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.59421,
+                        "longitude": 26.042105
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0770"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 75,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-biruintei-service-srl",
+                    "name": "ITP BIRUINTEI SERVICE",
+                    "image": "https://itpgo.ro99aec92c-62cf-40ff-9805-a47d3c39fb05/99aec92c-62cf-40ff-9805-a47d3c39fb05.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "PANTELIMON, STR. GARA PASĂREA NR. 1, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.45435,
+                        "longitude": 26.251461
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0688"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 76,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-carmoto-srl",
+                    "name": "GAS ITP Statie ITP Corbeanca",
+                    "image": "https://itpgo.ro88fc80d4-0bd4-4fa4-a5b7-fc9dcd5c0937/88fc80d4-0bd4-4fa4-a5b7-fc9dcd5c0937.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "Șoseaua Unirii, Corbeanca 077065, Ilfov, România"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.592842,
+                        "longitude": 26.032004
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0806"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 77,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-diagnosys-srl",
+                    "name": "ITP DIAGNOSYS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA UNIRII NR. 325, CORBEANCA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.623342,
+                        "longitude": 26.11155
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0769"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 78,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-tahografe-srl",
+                    "name": "Statie ITP si TAHOGRAF",
+                    "image": "https://itpgo.roae210722-4c5a-4e09-94c4-412e495c6503/ae210722-4c5a-4e09-94c4-412e495c6503.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "AFUMAŢI, STR. AUREL VLAICU NR. 13, PARTER, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.578449,
+                        "longitude": 26.080884
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0597"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 79,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/iveco-truck-services-srl",
+                    "name": "IVECO TRUCK SERVICES SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SAT MANOLACHE, COM. GLINA, STR. CĂMINULUI NR. 54, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.730927,
+                        "longitude": 25.980315
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0431"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 80,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/life-concept-srl",
+                    "name": "LIFE CONCEPT SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OTOPENI, STR. FERME C NR. 2, C4, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.577488,
+                        "longitude": 26.072196
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0714"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 81,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/lowe-auto-grup-srl",
+                    "name": "LOWE AUTO GRUP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, B-DUL EROILOR, NR.19, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.670405,
+                        "longitude": 26.328538
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0178"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 82,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/medical-vision-optix-grup-srl",
+                    "name": "MEDICAL VISION OPTIX GRUP SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OLTENI, ŞOS. BUCUREŞTI-DOMNEŞTI, ANEXA GARAJ PARTER NR. 70, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.403429,
+                        "longitude": 25.955455
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0637"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 83,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/meridian-nord-srl",
+                    "name": "MERIDIAN NORD SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "B-DUL PIPERA NR. 1/IX, VOLUNTARI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.492083,
+                        "longitude": 26.124691
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0492"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 84,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/metrotehnica-international-srl",
+                    "name": "METROTEHNICA INTERNATIONAL SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOSEAUA GIURGIULUI NR. 23A, JILAVA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.341253,
+                        "longitude": 26.081363
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0122"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 85,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mevas-auto-center-srl",
+                    "name": "MEVAS AUTO CENTER SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OTOPENI, STR. AVRAM IANCU, (TARLAUA 22, PARCELA 313, LOTUL 11'1/1, 11'1/2, 10'1) NR. 22-26, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.730504,
+                        "longitude": 25.977591
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0422"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 86,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/micandy-auto-service-srl",
+                    "name": "MICANDY AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, STR. PRELUNGIREA GHENCEA, TARLA 12, PARCELA 59/35, LOT 1 NR. 79, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.410944,
+                        "longitude": 26.008802
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0592"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 87,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mihcri-auto-srl",
+                    "name": "ITP Ilfov",
+                    "image": "https://itpgo.ro87630f41-a777-4cd4-9e28-e7dd3d9e828a/87630f41-a777-4cd4-9e28-e7dd3d9e828a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞINDRILIŢA, STR. FLORILOR NR. 2, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.53216,
+                        "longitude": 26.170926
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0727"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 88,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mondo-auto-sotirescu-alex-srl",
+                    "name": "MONDO AUTO SOTIRESCU ALEX SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, SOS. ALEXANDRIEI NR. 304, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.381758,
+                        "longitude": 25.988412
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0121"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 89,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/motorhome-srl",
+                    "name": "MOTORHOME SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OTOPENI, STR. DRUMUL GĂRII OTOPENI NR. 13, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.545773,
+                        "longitude": 26.080746
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0175"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 90,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/multitop-service-srl",
+                    "name": "MULTITOP SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOS. OLTENIŢEI NR. 213, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.37083,
+                        "longitude": 26.182012
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0786"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 91,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mustang-traco-srl",
+                    "name": "MUSTANG TRACO SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "PANTELIMON, B-DUL. BIRUINŢEI NR. 125, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.366078,
+                        "longitude": 26.153612
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0515"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 92,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/novaserv-expert-tehnic-srl",
+                    "name": "NOVASERV EXPERT TEHNIC SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, STR. CRIŞUL REPEDE NR. 61, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.383499,
+                        "longitude": 26.023286
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0883"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 93,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/nrg-auto-service-itp-piese-srl",
+                    "name": "NRG AUTO SERVICE ITP PIESE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOS. OLTENIŢEI NR. 25, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.380679,
+                        "longitude": 26.1559
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0788"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 94,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/oem-car-parts-srl",
+                    "name": "OEM CAR PARTS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BERCENI, B-DUL. 1 MAI NR. 61F, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.454127,
+                        "longitude": 26.011331
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0631"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 95,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/onedia-car-service-srl",
+                    "name": "ONEDIA CAR SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "PANTELIMON, B-DUL. BIRUINŢEI NR. 227, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.36255,
+                        "longitude": 26.151332
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0363"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 96,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/papy-auto-service-srl",
+                    "name": "PAPY AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. BRĂNEŞTI, B-DUL ION C. BRĂTIANU NR. 141, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.276359,
+                        "longitude": 25.054003
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0652"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 97,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/patron-impex-srl",
+                    "name": "PATRON IMPEX SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA SPIRU HARET NR. 8, OTOPENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.536011,
+                        "longitude": 26.054317
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0809"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 98,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/petre-cezar-codrut-persoana-fizica-autorizata",
+                    "name": "PETRE CEZAR-CODRUT PERSOANA FIZICA AUTORIZATA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA MIHAIL SADOVEANU NR. 4, CIOROGARLA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.442002,
+                        "longitude": 25.867011
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0772"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 99,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/porsche-inter-auto-romania",
+                    "name": "PORSCHE INTER AUTO ROMANIA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOSEAUA DE CENTURA NR. 41, CHIAJNA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.437687,
+                        "longitude": 25.966668
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0167"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 100,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/porsche-inter-auto-romania-srl",
+                    "name": "PORSCHE INTER AUTO ROMANIA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BULEVARDUL PIPERA NR. 1/X, VOLUNTARI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.492083,
+                        "longitude": 26.124691
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0429"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 101,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ram-auto-nord-srl",
+                    "name": "ITP Corbeanca RAM AUTO NORD",
+                    "image": "https://itpgo.ro7a9ba5a5-6726-481c-a763-932ca9e2bb53/7a9ba5a5-6726-481c-a763-932ca9e2bb53.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA ANTIGUA NR. 2, CORBEANCA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.599222,
+                        "longitude": 26.059276
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0782"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 102,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rami-partener-srl",
+                    "name": "ITP Balotesti RAMI",
+                    "image": "https://itpgo.ro42722c59-8684-4a1c-b02a-328d77cc4a79/42722c59-8684-4a1c-b02a-328d77cc4a79.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOSEAUA UNIRII NR. 130, BALOTESTI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.619969,
+                        "longitude": 26.094809
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0830"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 103,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rebel-grafix-srl",
+                    "name": "REBEL GRAFIX SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "I.L.CARAGIALE NR. 91,  BL.TARLAUA 32, PARCELA 4, DUDU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0487"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 104,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/reco-planet-auto-service-srl",
+                    "name": "RECO PLANET AUTO SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. TUNARI, SAT TUNARI, CALEA BUCUREŞTI NR. 36, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.620164,
+                        "longitude": 26.069585
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0337"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 105,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/reds-general-srl",
+                    "name": "RED'S GENERAL SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SAT PERIŞ, COM. PERIŞ, STR. GĂRII NR. 3, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.458402,
+                        "longitude": 26.360497
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0346"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 106,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/red-wheel-srl",
+                    "name": "RED WHEEL SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STR. 1 DECEMBRIE 1918 NR. 1, SAT ROŞU, COM. CHIAJNA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.451036,
+                        "longitude": 26.011925
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0817"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 107,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/roadhill-automotive-srl",
+                    "name": "ROADHILL AUTOMOTIVE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOSEAUA OLTENIŢEI NR. 181, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.36911,
+                        "longitude": 26.185718
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0751"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 108,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rofin-srl",
+                    "name": "Rofin",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "Str. Alunis Nr. 34, Magurele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.348683,
+                        "longitude": 26.032712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0306"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 109,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rook-invest-srl",
+                    "name": "ROOK INVEST SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA TEILOR NR. 16 A, CAM. 4, DRAGOMIRESTI-DEAL, DRAGOMIRESTI-VALE, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.461603,
+                        "longitude": 25.925625
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0890"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 110,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rpd-auto-itp-garage-srl",
+                    "name": "RPD AUTO ITP GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA OLTULUI NR. 22A, DASCALU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.598008,
+                        "longitude": 26.236459
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0875"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 111,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sam-tardi-srl",
+                    "name": "ITP MOGOSOAIA",
+                    "image": "https://itpgo.ro3982f653-851a-4618-aa43-b1e494931ea0/3982f653-851a-4618-aa43-b1e494931ea0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOSEAUA BUCURESTI-TARGOVISTE NR. 56, MOGOSOAIA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.5249664,
+                        "longitude": 26.0043059
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0105"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 112,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sandu-servcom-srl",
+                    "name": "SANDU SERVCOM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SAT MOARA DOMNEASCA, COM. GANEASA, STR. INTRAREA NICOLAE IORGA, NR.4 JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.454355,
+                        "longitude": 25.976703
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0300"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 113,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-aic-service-network-srl",
+                    "name": "SC AIC SERVICE NETWORK SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "CHIAJNA, Str. Italia nr. 1-7, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0685"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 114,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-astoria-srl",
+                    "name": "SC ASTORIA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOSEAUA DE CENTURA NR. 5-6, CHIAJNA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.537617,
+                        "longitude": 26.080983
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0209"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 115,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-autoklass-center-srl",
+                    "name": "SC AUTOKLASS CENTER SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "CHITILA, STR. RUDENI nr. 103, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.487686,
+                        "longitude": 25.978577
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0324"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 116,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-axa-international-consulting-srl",
+                    "name": "SC AXA INTERNATIONAL CONSULTING SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ȘOSEAUA BERCENI NR. 17, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.342639,
+                        "longitude": 26.163469
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0386"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 117,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-eurial-invest-srl",
+                    "name": "SC EURIAL INVEST SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OTOPENI, CALEA BUCURESTILOR nr. 24, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.54216,
+                        "longitude": 26.068865
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 118,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-eurotest-pro-service-srl",
+                    "name": "SC EUROTEST PRO-SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "MĂGURELE, STR. LACULUI, NR. CAD. 2253/1, TARLA 31, PARCELA 112/90 NR. 3, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.382112,
+                        "longitude": 25.991442
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0135"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 119,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/schwarzmuller-romania-srl",
+                    "name": "SCHWARZMULLER ROMANIA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOSEAUA DRAGOMIREŞTI NR. DE203, DRAGOMIRESTI-DEAL, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.455497,
+                        "longitude": 25.955365
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0250"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 120,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-itp-grup-rar-srl",
+                    "name": "SC ITP GRUP RAR SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "CHITILA, Sos. Drum Centura Chitila Rudeni nr. 7, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.502198,
+                        "longitude": 25.980122
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0696"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 121,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-mirion-traco-srl",
+                    "name": "SC MIRION TRACO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "PANTELIMON, B-dul. Biruintei, Parc Logistic Mustang Traco nr. 305, C7, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.605811,
+                        "longitude": 26.22598
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0879"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 122,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/scplanner-biz-srl",
+                    "name": "S.C.PLANNER BIZ S.R.L.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STR. APEDUCTULUI 3D,SAT ROȘU,COM.CHIAJNA,JUD.ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.46773,
+                        "longitude": 25.947572
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0800"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 123,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-porsche-inter-auto-romania-srl",
+                    "name": "SC PORSCHE INTER AUTO ROMANIA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, SOS. PIPERA-TUNARI nr. 2, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.510543,
+                        "longitude": 26.139027
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0110"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 124,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-service-auto-serus-srl",
+                    "name": "SC SERVICE AUTO SERUS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "CHIAJNA, SOS. DE CENTURA nr. 17, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.538188,
+                        "longitude": 26.082906
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0186"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 125,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-simpo-trans-service-srl",
+                    "name": "SC SIMPO TRANS SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "AFUMATI, SOS. BUCURESTI-URZICENI nr. 21, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.503446,
+                        "longitude": 26.21172
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0132"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 126,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-timas-srl",
+                    "name": "SC TIMAS SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "TUNARI, Sos de Centura nr. 27, jud. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.538429,
+                        "longitude": 26.084238
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0246"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 127,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/selcar-international-srl",
+                    "name": "Selcar International",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "Str. Voinicului Nr. 74, Magurele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.178207,
+                        "longitude": 28.812558
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0827"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 128,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sgc-service-auto-srl",
+                    "name": "SGC SERVICE AUTO SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "CORNETU, ŞOS. ALEXANDRIEI NR. 287, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.377584,
+                        "longitude": 25.984185
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0881"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 129,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/skr-superbikes-srl",
+                    "name": "SKR SUPERBIKES SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOS.ALEXANDRIEI NR. 22, BRAGADIRU, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0848"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 130,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/smart-tehnic-itp-srl",
+                    "name": "SMART TEHNIC ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA DREPTĂȚII NR. 23/7/1, CLĂDIREA NR. PARCELA 14, LOT 1, CIOROGARLA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.443485,
+                        "longitude": 25.88395
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0873"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 131,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/speed-service-srl",
+                    "name": "SPEED SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BALOTEŞTI, STR. 1 DECEMBRIE 1918 NR. 28, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.448667,
+                        "longitude": 26.013991
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0518"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 132,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sper-corporatia-de-logistica-srl",
+                    "name": "SPER CORPORATIA DE LOGISTICA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. CRENGUTEI nr. 188, SAT DOMNESTI COM DOMNESTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.406621,
+                        "longitude": 25.955299
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB134"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 133,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/supergaz-autotest-srl",
+                    "name": "SUPERGAZ AUTOTEST SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "CHITILA, STR. MACULUI NR. 12, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.468976,
+                        "longitude": 26.171608
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0638"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 134,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sut-carpati-sa",
+                    "name": "SUT CARPATI SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, BD. EROILOR NR. 4, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.48336,
+                        "longitude": 26.163822
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 135,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tachomaster-srl",
+                    "name": "TACHOMASTER SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. BIRUINTEI nr. 11, SAT GLINA, COM. GLINA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.341219,
+                        "longitude": 26.233563
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB136"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 136,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tag-auto-care-srl",
+                    "name": "TAG AUTO CARE S.R.L.",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ORAŞ VOLUNTARI, B-DUL EROILOR, SPAŢIU ITP NR. 19, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.670405,
+                        "longitude": 26.328538
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0863"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 137,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tahocar-srl",
+                    "name": "TAHOCAR SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. CENTURA CHITILA-RUDENI nr. 7 cam.B7, CHITILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.502198,
+                        "longitude": 25.980122
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB123"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 138,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tahografe-lia-dor-com-srl",
+                    "name": "TAHOGRAFE LIA DOR COM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. SOS. DE CENTURA nr. 66hala 3, PANTELIMON"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.050652,
+                        "longitude": 23.570362
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB115"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 139,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tahografe-nedmar-srl",
+                    "name": "TAHOGRAFE NEDMAR SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. GIURGIULUI nr. 288, JILAVA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.645051,
+                        "longitude": 28.670999
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB114"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 140,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tahosmart-srl",
+                    "name": "ITP AUTO MOTO MĂGURELE",
+                    "image": "https://itpgo.roc632c5e8-bdb4-4d13-b4e6-494ee3484ec4/c632c5e8-bdb4-4d13-b4e6-494ee3484ec4.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "str. PRECIZIEI nr. 44, MAGURELE"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.357617,
+                        "longitude": 26.028564
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BB135"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 141,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/taho-trafic-srl",
+                    "name": "TAHO TRAFIC SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "SOSEAUA BUCURESTI NR. 24, CIOROGARLA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.442314,
+                        "longitude": 25.918493
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0749"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 142,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/technical-brothers-srl",
+                    "name": "Technical Brothers",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "Str. Preciziei Nr. 44, Magurele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.429585,
+                        "longitude": 25.973534
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0752"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 143,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tim-auto-tehnic-srl",
+                    "name": "TIM AUTO TEHNIC SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BUFTEA, STR. MILANO NR. 49, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0729"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 144,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/titan-car-tehnic-srl",
+                    "name": "TITAN CAR TEHNIC SRL",
+                    "image": "https://itpgo.roac0aa7cf-3ae3-445e-87c5-bf78372558a5/4b77ae0f-c1a0-4c05-99d2-476db5e6e6f8.jpeg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA GĂRII NR. 183, JILAVA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.342764,
+                        "longitude": 26.104746
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0750"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 145,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/top-class-auto-srl",
+                    "name": "TopClass Auto Service ITP",
+                    "image": "https://itpgo.ro2f510e32-8622-47b9-a9bd-bcb9b79afc3b/2f510e32-8622-47b9-a9bd-bcb9b79afc3b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "BRAGADIRU, STR. CRIŞUL REPEDE NR. 61, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.374516,
+                        "longitude": 26.007412
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0448"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 146,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/top-garage-srl",
+                    "name": "TOP GARAGE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, STR IZVOARELOR NR. 43, JUD. BUCUREŞTI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.493083,
+                        "longitude": 26.18502
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0640"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 147,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/toyo-motor-nord-srl",
+                    "name": "TOYO MOTOR NORD SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, B-DUL PIPERA, NR.1, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.446984,
+                        "longitude": 26.337712
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0399"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 148,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trans-at-spedition-srl",
+                    "name": "Trans At Spedition",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "Str. Atomistilor Nr. 64, Magurele"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.369974,
+                        "longitude": 26.042769
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0116"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 149,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trans-expedition-srl",
+                    "name": "TRANS EXPEDITION SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "COM. GLINA, SAT GLINA, STR. BIRUINŢEI NR. 11, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.367194,
+                        "longitude": 26.158493
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0581"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 150,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/transporturi-auto-tei-sa",
+                    "name": "TRANSPORTURI AUTO TEI SA",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "PANTELIMON, DEPOZITULUI NR. 2, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.638521,
+                        "longitude": 26.217007
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0314"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 151,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trendo-automotive-srl",
+                    "name": "TRENDO AUTOMOTIVE SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA ȘERBAN ION NR. 3, VOLUNTARI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.498346,
+                        "longitude": 26.135878
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0466"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 152,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/trucks-ganea-solutions-srl",
+                    "name": "TRUCKS GANEA SOLUTIONS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "STRADA FAGULUI NR. 17, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.369786,
+                        "longitude": 26.174064
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0842"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 153,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/unic-mon-sor-srl",
+                    "name": "UNIC MON-SOR SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "ŞOSEAUA DE CENTURĂ NR. 43, CHIAJNA, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.447032,
+                        "longitude": 25.964688
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0843"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 154,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/valmon-service-srl",
+                    "name": "VALMON SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "1 DECEMBRIE, STR. LIVIU REBREANU NR. 2K, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.644814,
+                        "longitude": 26.237536
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0168"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 155,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/verifica-inspectia-srl",
+                    "name": "VERIFICA INSPECTIA SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "DRUMUL FERMEI NR. 28, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.376303,
+                        "longitude": 26.155921
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0774"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 156,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vlay-mar-consulting-srl",
+                    "name": "VLAY MAR CONSULTING SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "OLTENIŢEI NR. 214, POPESTI-LEORDENI, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.731512,
+                        "longitude": 26.198058
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0662"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 157,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/voltest-itp-srl",
+                    "name": "VOLTEST ITP SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Ilfov",
+                        "streetAddress": "VOLUNTARI, EROILOR, SUPRAFAŢA DE 157,36 MP NR. 4, JUD. ILFOV"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.670405,
+                        "longitude": 26.328538
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "B0877"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Ilfov",
+            "alternateName": "IF"
+        }
+    }
+}

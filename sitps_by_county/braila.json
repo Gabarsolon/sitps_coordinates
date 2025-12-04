@@ -1,0 +1,795 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Braila",
+    "description": "Stații ITP autorizate RAR din județul Braila. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/braila",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Braila",
+                "item": "https://itpgo.ro/judet/braila"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 27,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/acirbue-srl",
+                    "name": "Acirbue",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "Str. Garii Nr. 2, Faurei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.082292,
+                        "longitude": 27.274988
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR004"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adi-mardare-itp-srl",
+                    "name": "ADI MARDARE ITP SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, STR. CONSTANTIN SANDU-ALDEA, C44 - HALA1, C45 - CAMERA1 NR. 1, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.257468,
+                        "longitude": 27.965665
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR044"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/adomlarido-cars-srl",
+                    "name": "Adomlarido Cars",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "Nicolae Oncescu Nr. 52b, Ianca"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.133459,
+                        "longitude": 27.47596
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/atlas-sa",
+                    "name": "Statie ITP ATLAS SA",
+                    "image": "https://itpgo.ro77db744d-501b-41df-b58d-67486dccce09/77db744d-501b-41df-b58d-67486dccce09.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "SOS. RAMNICU SARAT NR.123, BRAILA, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.269994,
+                        "longitude": 27.927592
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/aurijan-service-srl",
+                    "name": "Aurijan Service",
+                    "image": "https://itpgo.roa8881e92-e9fd-472e-8d3b-0ecb67d93c9b/a8881e92-e9fd-472e-8d3b-0ecb67d93c9b.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "Sat Gara Ianca, Oras Ianca, - Nr. Nr 1a, Ianca"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.124606,
+                        "longitude": 27.487423
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR018"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/baldum-serv-srl",
+                    "name": "Baldum Statie ITP",
+                    "image": "https://itpgo.roe03a02c3-3f75-4865-8950-8baa35de4a8c/e03a02c3-3f75-4865-8950-8baa35de4a8c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, ALEEA MARGARETELOR, PT3 OBOR, BL. N4 NR. -, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.266621,
+                        "longitude": 27.951335
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/bogmeca-itp-srl",
+                    "name": "Statie ITP Mek",
+                    "image": "https://itpgo.ro1b96eded-5007-4f65-bcc2-eea20b187216/1b96eded-5007-4f65-bcc2-eea20b187216.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, STR. GHEORGHE C. CONSTANTINESCU NR. 6, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.895859,
+                        "longitude": 24.749987
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/carteam-srl",
+                    "name": "CARTEAM SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, ŞOS. RÂMNICU SĂRAT NR. 45, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.268821,
+                        "longitude": 27.910093
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/davrada-service-srl",
+                    "name": "DAVRADA SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, STR. MIRCEA VODĂ, CONSTRUCTIA C1, CAMERA 1 NR. 50, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.242976,
+                        "longitude": 27.94507
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dungav-serv-srl",
+                    "name": "Dungav Serv",
+                    "image": "https://itpgo.rob2d86fde-4a30-4063-ad88-7ce915d720f8/b2d86fde-4a30-4063-ad88-7ce915d720f8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "Sos. Brailei Nr. 4, Insuratei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.915841,
+                        "longitude": 27.608322
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/estima-motors-srl",
+                    "name": "ESTIMA MOTORS SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRAILA, BULEVARDUL DOROBANTILOR, NR. 669, LOT 1, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.279135,
+                        "longitude": 27.960143
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR015"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gavrila-lau-com-srl",
+                    "name": "Stație ITP Gavrilă Lau Com SRL",
+                    "image": "https://itpgo.roee8141e5-726b-4993-9af2-557c9eea03ec/ee8141e5-726b-4993-9af2-557c9eea03ec.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "str. SOSEAUA DE CENTURA nr. 6, BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.23587,
+                        "longitude": 27.936122
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR012"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gavrila-lau-com-srl-d",
+                    "name": "GAVRILA",
+                    "image": "https://itpgo.ro555f1840-ed5a-4aa1-8a10-52ba0572a535/555f1840-ed5a-4aa1-8a10-52ba0572a535.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, ŞOSEAUA DE CENTURĂ NR. 6,HALA ITP, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.23767,
+                        "longitude": 27.932819
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/happy-planet-srl",
+                    "name": "HAPPY PLANET",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "VĂRSĂTURA, STR. TURCULUI NR. 5, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.305643,
+                        "longitude": 27.462883
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR022"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hozeain-prest-srl",
+                    "name": "SC Hozeain Prest SRL-Statie ITP",
+                    "image": "https://itpgo.ro611b2550-88fe-4d99-aa03-ce03ccfdc053/611b2550-88fe-4d99-aa03-ce03ccfdc053.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, STR. SIMION BĂRNUŢIU,LÂNGĂ A31 NR. -, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.246533,
+                        "longitude": 27.935346
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hyapen-distribution-srl",
+                    "name": "RAPID ITP Braila. ITP Camioane Braila. Statie ITP Auto, Moto Braila. Verificare Tahograf Braila",
+                    "image": "https://itpgo.roa28d8d02-5d3c-44fb-a59b-dc2dbac8b2a3/a28d8d02-5d3c-44fb-a59b-dc2dbac8b2a3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, STR. MIRCEA CEL MARE NR. 91, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.296171,
+                        "longitude": 27.972708
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR047"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/irmex-sa",
+                    "name": "IRMEX SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, STR. RÂMNICU SĂRAT NR. 68, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.270438,
+                        "longitude": 27.934116
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR007"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/jurusof-srl",
+                    "name": "JURUSOF SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "SAT CAZASU, COM. CAZASU, STR.EDEREI NR. 13, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.27478,
+                        "longitude": 27.886082
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/krisroserv-car-srl",
+                    "name": "Statie ITP Krisroserv Car Srl",
+                    "image": "https://itpgo.ro122412c0-c18a-4449-aaef-f24fe6c1ee44/122412c0-c18a-4449-aaef-f24fe6c1ee44.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "STR. G-RAL GHEORGHE AVRAMESCU NR. 21, BRAILA, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.541764,
+                        "longitude": 24.567395
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR053"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/mecabositp-srl-d",
+                    "name": "MECABOSITP SRL-D",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "SAT VIZIRU, COMUNA VIZIRU, STR. BRAILEI NR. 238, CONSTRUCTIA C1, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.429329,
+                        "longitude": 27.525648
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/min-trans-service-srl",
+                    "name": "Min Trans Service",
+                    "image": "https://itpgo.ro0a06f7b5-ad5d-4b1d-afc5-6d99b059e233/0a06f7b5-ad5d-4b1d-afc5-6d99b059e233.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "STR. BALDOVINESTI NR 14A, BRAILA, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.127405,
+                        "longitude": 25.109272
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/prompt-test-valrom-srl",
+                    "name": "PROMPT TEST VALROM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "SAT JIRLAU, COMUNA JIRLAU, STR. RAMNICU SARAT, NR. 85, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.270438,
+                        "longitude": 27.934116
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sermated-srl",
+                    "name": "Q-Service Sermated",
+                    "image": "https://itpgo.ro057fa8d4-3093-40e1-b85b-3f26889976ea/057fa8d4-3093-40e1-b85b-3f26889976ea.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRAILA, SOSEAUA DE CENTURA, KM.110, TARLAUA 23, PARCELA 218/4, LOT 3, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.23767,
+                        "longitude": 27.932819
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-automobile-braila-sa",
+                    "name": "Service Automobile Braila S.A.",
+                    "image": "https://itpgo.ro223a9d43-c02a-4fbf-bb16-1b77afe72da1/223a9d43-c02a-4fbf-bb16-1b77afe72da1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "ȘOSEAUA DE CENTURĂ NR.4, BRĂILA, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.23767,
+                        "longitude": 27.932819
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR005"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/station-drivetest-srl",
+                    "name": "ITP Braila - Buzaului",
+                    "image": "https://itpgo.ro9b1ea1c2-d2d4-4dbb-b6e9-5a6b48730bc7/9b1ea1c2-d2d4-4dbb-b6e9-5a6b48730bc7.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRĂILA, ŞOS. BUZĂULUI, CORP C1 NR. 11, JUD. BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.249071,
+                        "longitude": 27.93874
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/testcar-service-srl",
+                    "name": "ITP Testcar Service S.R.L.",
+                    "image": "https://itpgo.ro8421a02c-583c-477e-bdc0-e2ee3dabda2e/8421a02c-583c-477e-bdc0-e2ee3dabda2e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "STR. PICTOR THEODOR AMAN C/C STR. CARPAȚI, C/C STR.ROSIORI, BRAILA, JUDET BRĂILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.283896,
+                        "longitude": 27.970581
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR011"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/um-01359",
+                    "name": "U.M. 01359",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Braila",
+                        "streetAddress": "BRAILA, CALEA CALARASILOR NR.309, JUDETUL BRAILA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.255218,
+                        "longitude": 27.957879
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "BR024"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Braila",
+            "alternateName": "BR"
+        }
+    }
+}

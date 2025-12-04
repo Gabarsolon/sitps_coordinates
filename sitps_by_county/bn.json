@@ -1,0 +1,1546 @@
+        {
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": "Stații ITP Bistrita-Nasaud",
+            "description": "Stații ITP autorizate RAR din județul Bistrita-Nasaud. Programări rapide și informații complete despre stațiile ITP.",
+            "url": "https://itpgo.ro/judet/bistrita-nasaud",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Judete",
+                        "item": "https://itpgo.ro/judet"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Stații ITP Bistrita-Nasaud",
+                        "item": "https://itpgo.ro/judet/bistrita-nasaud"
+                    }
+                ]
+            },
+            "mainEntity": {
+                "@type": "ItemList",
+                "numberOfItems": 54,
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/alyon-plus-srl",
+                            "name": "Statie ITP Bistrita - Alyon Plus",
+                            "image": "https://itpgo.roc282a85d-0f1d-454e-96fc-4489404fc465/c282a85d-0f1d-454e-96fc-4489404fc465.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. NARCISELOR NR. 2, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.134979,
+                                "longitude": 24.482017
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN034"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/automarc-service-srl",
+                            "name": "AUTOMARC SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "LUCIAN BLAGA NR. 17A, BISTRITA, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.154397,
+                                "longitude": 24.511563
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN064"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/autotech-srl",
+                            "name": "SC Autotech SRL",
+                            "image": "https://itpgo.roe223dff0-bd69-4795-994e-b14c5ce9d6d5/e223dff0-bd69-4795-994e-b14c5ce9d6d5.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BECLEAN, STR. GHEORGHE DOJA NR. 78, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 45.856881,
+                                "longitude": 25.776658
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN025"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/candale-v-danut-persoana-fizica-autorizata",
+                            "name": "CANDALE V. DANUT PERSOANA FIZICA AUTORIZATA",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "COM. MAIERU, SAT MAIERU NR. 1H, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 44.456297,
+                                "longitude": 26.21837
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN058"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 5,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/cnc-motors-srl",
+                            "name": "CNC MOTORS SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "SAT REBRISOARA,  BL.920A, REBRISOARA, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.13605,
+                                "longitude": 24.48924
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN065"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 6,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/comautosport-sa",
+                            "name": "COMAUTOSPORT SA",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. LIBERTĂŢII NR. 62, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.121463,
+                                "longitude": 24.473811
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN001"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 7,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/complet-sabival-srl",
+                            "name": "COMPLET SABIVAL SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "ILVA MARE NR. 397A, ILVA MARE, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.13605,
+                                "longitude": 24.48924
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN063"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 8,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/desit-com-srl",
+                            "name": "Desit Com",
+                            "image": "https://itpgo.ro3381e744-dfc1-4f10-acff-bef1643422ed/3381e744-dfc1-4f10-acff-bef1643422ed.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "Str. Granicerilor Nr. 70, Nasaud"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.283221,
+                                "longitude": 24.410054
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN005"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 9,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/euro-service-srl",
+                            "name": "EURO-SERVICE SRL",
+                            "image": "https://itpgo.ro/images/og.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BECLEAN, STR. PARCULUI NR. 4, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.129442,
+                                "longitude": 24.500122
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN004"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 10,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/exmitiani-srl",
+                            "name": "Exmitiani",
+                            "image": "https://itpgo.ro80242756-129c-47ff-a734-924419e85b20/80242756-129c-47ff-a734-924419e85b20.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "Str. George Cosbuc Nr. 194, Nasaud"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.297728,
+                                "longitude": 24.376752
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN010"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 11,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/gili-motors-bistrita-srl",
+                            "name": "Gili Motors",
+                            "image": "https://itpgo.ro3c69317a-5562-4ca8-a07e-741445038299/3c69317a-5562-4ca8-a07e-741445038299.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "CONSTATIN PAVEL NR. 1,  BL.1, BISTRITA, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.152516,
+                                "longitude": 24.50209
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN039"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 12,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/gosen-auto-service-srl",
+                            "name": "Gosen Auto Service",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "Str. Republicii Nr. 1c, Sangeorz Bai"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.368484,
+                                "longitude": 24.671025
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN037"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 13,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/hora-dar-srl",
+                            "name": "ITP HORA DAR",
+                            "image": "https://itpgo.ro378ae5ad-f792-45e5-a3b2-eee67d0d6d85/378ae5ad-f792-45e5-a3b2-eee67d0d6d85.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. CRAINIMĂTULUI NR. 3, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 46.961948,
+                                "longitude": 24.197489
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN048"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 14,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/ilso-autotest-srl",
+                            "name": "ILSO AUTOTEST",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "str. LIBERTATII nr. 47, BISTRITA"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.121463,
+                                "longitude": 24.473811
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN013"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 15,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/inspect-flodan-srl",
+                            "name": "INSPECT FLODAN SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "SAT TEACA, COM. TEACA, - NR. 588, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.13605,
+                                "longitude": 24.48924
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN046"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 16,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/itp-auto-matei-service-lechinta-srl",
+                            "name": "ITP AUTO MATEI SERVICE LECHINTA SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "NR. 365, LECHINTA, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 44.456297,
+                                "longitude": 26.21837
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN059"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 17,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/lariofam-prodcom-srl",
+                            "name": "Lariofam Prodcom",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "In Intravilanul Loc. Sangeorz-bai, Ridul Scarisoara Nr. Fn, Sangeorz Bai"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 45.041177,
+                                "longitude": 24.251696
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN057"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 18,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/mario-truck-srl",
+                            "name": "MARIO TRUCK SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "NR. 1208, FELDRU, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.137863,
+                                "longitude": 24.486852
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN060"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 19,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/materom-automotive-srl",
+                            "name": "MATEROM AUTOMOTIVE SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, LOC. VIIŞOARA NR. 264, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.115909,
+                                "longitude": 24.461301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN043"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 20,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/max-com-service-srl",
+                            "name": "MAX COM-SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "SAT PRUNDU BÂRGĂULUI, COM.PRUNDU BÂRGĂULUI, NR.1277,JUDEȚ BISTRIȚA NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.142339,
+                                "longitude": 24.506928
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN053"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 21,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/mix-motor-service-srl",
+                            "name": "MIX MOTOR SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. CALEA MOLDOVEI NR. 55, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.145849,
+                                "longitude": 24.512135
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN042"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 22,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/mti-teamone-srl",
+                            "name": "Stație ITP MTI",
+                            "image": "https://itpgo.robbb58f9a-46b2-4e32-a6e3-c929944a8284/bbb58f9a-46b2-4e32-a6e3-c929944a8284.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, CART. VIIŞOARA NR. 319, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.115909,
+                                "longitude": 24.461301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN066"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 23,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/plus-filadelfia-autoservice-srl",
+                            "name": "Servoplus - Filadelfia Autoservice",
+                            "image": "https://itpgo.ro5a94daad-d691-4125-b685-66ab4baadb91/5a94daad-d691-4125-b685-66ab4baadb91.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "NR. 315, SINTEREAG, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.137863,
+                                "longitude": 24.486852
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN036"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 24,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/popovici-motosport-srl",
+                            "name": "POPOVICI MOTOSPORT SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, CARTIERUL VIIŞOARA NR. 189, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.115909,
+                                "longitude": 24.461301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN031"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 25,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/proactiv-sem-srl",
+                            "name": "PROACTIV-SEM SRL",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, CALEA CLUJULUI, NR.4, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.118882,
+                                "longitude": 24.459537
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN033"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 26,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/protaxi-service-itp-srl",
+                            "name": "PROTAXI SERVICE AUTO BISTRITA",
+                            "image": "https://itpgo.robe0ae769-a52f-4b1e-96b0-2e88ceabb212/be0ae769-a52f-4b1e-96b0-2e88ceabb212.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIȚA, STR.FALEZĂ, NR.75, JUD.BISTRȚA NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.120622,
+                                "longitude": 24.476222
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN054"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 27,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/safeoil-srl",
+                            "name": "Safeoil",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "Str. Republicii Nr. 2 E, Sangeorz Bai"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.362362,
+                                "longitude": 24.668814
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN056"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 28,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sanivan-trans-srl",
+                            "name": "SANIVAN TRANS SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "NR. 84C, SIEUT, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.13605,
+                                "longitude": 24.48924
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN061"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 29,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-automobile-service-srl",
+                            "name": "SC AUTOMOBILE SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, CALEA MOLDOVEI NR. 22, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.143812,
+                                "longitude": 24.510406
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN003"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 30,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-central-motors-srl",
+                            "name": "SC CENTRAL MOTORS SRL",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, CART. VIISOARA nr. 301A, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.115909,
+                                "longitude": 24.461301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN021"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 31,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-comsig-automobile-srl",
+                            "name": "SC COMSIG AUTOMOBILE SRL",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, STR. LIBERTATII nr. 50A, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.121262,
+                                "longitude": 24.4735
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN014"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 32,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-euro-service-srl",
+                            "name": "SC EURO-SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, STR. SUBCETATE nr. 10A, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.150166,
+                                "longitude": 24.487985
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN002"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 33,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-gili-motors-bistrita-srl",
+                            "name": "SC GILI MOTORS BISTRITA SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, Str. Constantin Pavel nr. 1, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.152516,
+                                "longitude": 24.50209
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN028"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 34,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-ilso-autotest-srl",
+                            "name": "SC ILSO AUTOTEST SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, Str. Libertatii nr. 47, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.121463,
+                                "longitude": 24.473811
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN032"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 35,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-mti-teamone-srl",
+                            "name": "SC MTI TEAMONE SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, Cart. Viisoara nr. 319, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.115909,
+                                "longitude": 24.461301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN045"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 36,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-tds-inspection-comtrans-srl",
+                            "name": "TDS ITP",
+                            "image": "https://itpgo.ro059f7793-81c4-4ec2-9071-4a423c428946/059f7793-81c4-4ec2-9071-4a423c428946.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, LOC. VIISOARA nr. 63/V, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.115909,
+                                "longitude": 24.461301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN051"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 37,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-uniplus-bistrita-srl",
+                            "name": "ITP Bistrita UniPlus",
+                            "image": "https://itpgo.ro2524d204-7503-4b2b-a96f-dec4d296cf30/2524d204-7503-4b2b-a96f-dec4d296cf30.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, Str. Valea Jelnei nr. 16, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.131996,
+                                "longitude": 24.520263
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN049"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 38,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sc-west-car-service-srl",
+                            "name": "AD Garage West Car Service",
+                            "image": "https://itpgo.ro983a8f71-fefb-4d8b-be22-01afdcef1c97/983a8f71-fefb-4d8b-be22-01afdcef1c97.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRITA, Str. Libertatii nr. 47-49, jud. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.121262,
+                                "longitude": 24.4735
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN017"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 39,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/service-center-srl",
+                            "name": "SERVICE CENTER SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "str. CART.SIGMIR, STR.SOARELUI nr. 39, BISTRITA"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 46.961948,
+                                "longitude": 24.197489
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN007"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 40,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/service-itp-trucks-srl",
+                            "name": "SERVICE ITP TRUCKS SRL",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "PARC INDUSTRIAL, CLĂDIREA NR. 30, VIISOARA, BISTRITA, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.115909,
+                                "longitude": 24.461301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN067"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 41,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/servicepro-srl",
+                            "name": "ServicePRO SRL (Statie ITP, Service auto, Vopsitorie, Vulcanizare intre Anieș si Rodna)",
+                            "image": "https://itpgo.rod6c49bd3-bb58-43ed-8527-9dbe643e676c/d6c49bd3-bb58-43ed-8527-9dbe643e676c.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "SAT RODNA, COM. RODNA, STR. PRINCIPALA NR. 1501, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.421801,
+                                "longitude": 24.783628
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN047"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 42,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/sigmireana-srl",
+                            "name": "SIGMIREANA SRL",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. PRICIPALĂ NR. 88A, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.073071,
+                                "longitude": 24.398381
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN030"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 43,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/smarttec-motors-srl",
+                            "name": "ITP Smarttec Motors",
+                            "image": "https://itpgo.rod37112cc-5240-4786-a472-53688fdc4280/d37112cc-5240-4786-a472-53688fdc4280.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. CALEA CLUJULUI NR. 73, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.118882,
+                                "longitude": 24.459537
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN023"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 44,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/taholiv-service-srl",
+                            "name": "TAHOLIV SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "str.  nr. 897, SAT REBRISOARA, COM. REBRISOARA"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 46.537565,
+                                "longitude": 24.571425
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN016"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 45,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/testline-motors-srl",
+                            "name": "TESTLINE MOTORS SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "CALEA CLUJULUI NR. 73, BISTRITA, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.118882,
+                                "longitude": 24.459537
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN062"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 46,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/tibrea-automobile-srl",
+                            "name": "ITP Bistrita Tibrea Automobile",
+                            "image": "https://itpgo.ro7641a1c5-f4e7-4521-be62-2c707a3e9249/7641a1c5-f4e7-4521-be62-2c707a3e9249.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. TĂNASE TUDORAN NR. 25, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.286461,
+                                "longitude": 24.414554
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN052"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 47,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/transineu-montana-srl",
+                            "name": "TRANSINEU MONTANA SRL",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "COM. RODNA, SAT RODNA, ARABIL ÎN DUMBRAVILE NR. -, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN026"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 48,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/trehos-bis-impex-srl",
+                            "name": "TREHOS",
+                            "image": "https://itpgo.ro0bfe128d-49f0-4533-a4dd-ca81f573d97f/0bfe128d-49f0-4533-a4dd-ca81f573d97f.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. CALEA CLUJULUI NR. 81, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.118882,
+                                "longitude": 24.459537
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN038"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 49,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/um-01371",
+                            "name": "U.M. 01371",
+                            "image": "https://itpgo.roplaceholders/1.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "COMUNA PRUNDU BÎRGĂULUI, SAT PRUNDU BÎRGĂULUI NR. 418, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.142339,
+                                "longitude": 24.506928
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN024"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 50,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/uno-totale-impex-srl",
+                            "name": "Uno Totale Impex",
+                            "image": "https://itpgo.robfa92495-3664-40e3-bcf8-fa2fba655598/bfa92495-3664-40e3-bcf8-fa2fba655598.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. MATEI EMINESCU NR. 48, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.152912,
+                                "longitude": 24.515694
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN020"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 51,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/walter-lity-com-srl",
+                            "name": "WALTER LITY COM SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "LOC. UNIREA, NR. 461, MUNICIPIUL BISTRITA, JUD. BISTRITA-NASAUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.160303,
+                                "longitude": 24.528321
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN055"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 52,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/west-car-service-srl",
+                            "name": "WEST-CAR SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/3.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "BISTRIŢA, STR. TĂRPIULUI NR. 26, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.149397,
+                                "longitude": 24.477301
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN041"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 53,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/win-speed-service-srl",
+                            "name": "WIN SPEED SERVICE SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "COM. NIMIGEA, SAT NIMIGEA DE JOS NR. 400 D, JUD. BISTRIŢA-NĂSĂUD"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 47.25342,
+                                "longitude": 24.300607
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN044"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 54,
+                        "item": {
+                            "@type": "AutoRepair",
+                            "@id": "https://itpgo.ro/statie/yulyus-travel-srl",
+                            "name": "YULYUS TRAVEL SRL",
+                            "image": "https://itpgo.roplaceholders/2.jpg",
+                            "address": {
+                                "@type": "PostalAddress",
+                                "addressCountry": "RO",
+                                "addressRegion": "Bistrita-Nasaud",
+                                "streetAddress": "str.  nr. 309K, SAT LIVEZILE, COM. LIVEZILE"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "latitude": 44.789469,
+                                "longitude": 25.255621
+                            },
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "stationCode",
+                                    "value": "BN015"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "about": {
+                "@type": "Service",
+                "name": "Inspecție Tehnică Periodică Auto",
+                "areaServed": {
+                    "@type": "AdministrativeArea",
+                    "name": "Bistrita-Nasaud",
+                    "alternateName": "BN"
+                }
+            }
+        }

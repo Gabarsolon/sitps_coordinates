@@ -1,0 +1,907 @@
+{
+  "CHITILA,STR. CARTIERULUI 10,judetul ILFOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,STR. IACOB ANDREI 30,judetul BUCURESTI, Romania": [
+    "44.38808",
+    "26.07144",
+    "OK"
+  ],
+  "BUCURESTI,BD. AVIATORILOR 14,judetul BUCURESTI, Romania": [
+    "44.4627237",
+    "26.0866848",
+    "OK"
+  ],
+  "TARGU CARBUNESTI,STR. TEILOR 9,judetul GORJ, Romania": [
+    "44.95",
+    "23.50",
+    "OK"
+  ],
+  "SANCRAIU DE MURES,STR. PRINCIPALA 54,judetul MURES, Romania": [
+    "46.55",
+    "24.49",
+    "OK"
+  ],
+  "BUCURESTI,Str. G-ral Vasile Milea 7B,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Niţu Vasile 5-7,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MOTRU,Str. Calea Severinului, Tarlaua 56, Parcela 5 -,judetul GORJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CLUJ NAPOCA,Str. Maiakovski 9,judetul CLUJ, Romania": [
+    "46.7889277",
+    "23.5781593",
+    "OK"
+  ],
+  "HATEG,Str. Nicolae Titulescu 12A,judetul HUNEDOARA, Romania": [
+    "45.6099678",
+    "22.9559532",
+    "OK"
+  ],
+  "RAMNICU VALCEA,Str. Posada 4,judetul VALCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,B-DUL TIMISOARA 10B,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TARGU SECUIESC,STR. FABRICII FN,judetul COVASNA, Romania": [
+    "46.00",
+    "26.13",
+    "OK"
+  ],
+  "Com. GILAU,Str. Lunii 2,judetul CLUJ, Romania": [
+    "46.75",
+    "23.39",
+    "OK"
+  ],
+  "BUCURESTI,Str. Parcului 55-57,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,SOS. BUCURESTI-PLOIESTI 42-44,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. RODNA,SAT RODNA, ARABIL IN DUMBRAVILE -,judetul BISTRITA-NASAUD, Romania": [
+    "47.42",
+    "24.81",
+    "OK"
+  ],
+  "CAMPENI,Str. Motlor 77,judetul ALBA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MANGALIA,Sos. Constanţei 57A-57B,judetul CONSTANTA, Romania": [
+    "43.813148",
+    "28.5829122",
+    "OK"
+  ],
+  "SAT TRESTIANA, COM GRIVITA,- 569,judetul VASLUI, Romania": [
+    "46.19",
+    "27.66",
+    "OK"
+  ],
+  "VATRA DORNEI,STR. CHILIEI 51 A,judetul SUCEAVA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. JOSENII BARGAULUI,SAT JOSENII BARGAULUI, 383,judetul BISTRITA-NASAUD, Romania": [
+    "47.20",
+    "24.67",
+    "OK"
+  ],
+  "BUCURESTI,B-DUL THEODOR PALLADY, LOT 27, CLADIRE C8, OB. 16 B 287,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BLEJOI,Tarlaua 12, Parcelele 80/1-80/43 1199,judetul PRAHOVA, Romania": [
+    "44.97",
+    "25.99",
+    "OK"
+  ],
+  "BRAILA,DN 22B, KM. 4 -,judetul BRAILA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "STREHAIA,Str. Republicii 32,judetul MEHEDINTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "RAMNICU VALCEA,Splaiul Independenţei 14A,judetul VALCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,B-dul. Expozitei 2,judetul BUCURESTI, Romania": [
+    "44.473631",
+    "26.0580704",
+    "OK"
+  ],
+  "GHIRODA,Calea Lugojului 74,judetul TIMIS, Romania": [
+    "45.76",
+    "21.30",
+    "OK"
+  ],
+  "OTOPENI,Str. Drumul Garii Otopeni 1B,judetul ILFOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SIBIU,Str. Salzburg 58,judetul SIBIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,B-DUL TIMISOARA 62,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SFANTU GHEORGHE,Str. Lunca Oltului 54,judetul COVASNA, Romania": [
+    "45.86",
+    "25.78",
+    "OK"
+  ],
+  "SAT FLORESTI, COM. FLORESTI,STR. PRINCIPALA 17 A,judetul PRAHOVA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,STR. EMANOIL PORUMBARU 35-37,judetul BUCURESTI, Romania": [
+    "44.4633325",
+    "26.0840991",
+    "OK"
+  ],
+  "BUCURESTI,DAMBOVNICULUI, SPATIU COMERCIAL IN SUPRAFATA DE 80 M.P. 34,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TULCEA,STR. BRETEAUA BARAJULUI 2,judetul TULCEA, Romania": [
+    "45.17",
+    "28.79",
+    "OK"
+  ],
+  "RAMNICU VALCEA,STR. STRANDULUI 56,judetul VALCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. CUJMIR,SAT AURORA, CADASTRU 51506,judetul MEHEDINTI, Romania": [
+    "44.19",
+    "22.93",
+    "OK"
+  ],
+  "SAT SURA MICA,Parc Industrial P5,judetul SIBIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. VARBILAU,SAT VARBILAU 307A,judetul PRAHOVA, Romania": [
+    "45.17",
+    "25.95",
+    "OK"
+  ],
+  "BUCURESTI,Soseaua Vergului, Constructe C12, Depozit in suprafaţa de 83,99 mp. 8,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SANTUHALM, DEVA,Calea Hunedoarei 3,judetul HUNEDOARA, Romania": [
+    "45.85",
+    "22.95",
+    "OK"
+  ],
+  "BUCURESTI,Str. Ardeleni 6-8,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ROVINARI,Str. 22 Decembrie 1989 33,judetul GORJ, Romania": [
+    "44.90",
+    "23.15",
+    "OK"
+  ],
+  "SAT SACALAZ,COMUNA SACALAZ 276,judetul TIMIS, Romania": [
+    "45.76",
+    "21.11",
+    "OK"
+  ],
+  "SAT HUDUM,COMUNA CURTESTI, STRADA PRINCIPALA 1,judetul BOTOSANI, Romania": [
+    "47.73",
+    "26.62",
+    "OK"
+  ],
+  "SAT ROZAVLEA, COM. ROZAVLEA,LOCUL NUMIT SESU BRANAULUI, CF 50280 ROZAVLEA-455mp, si CF 52887 ROZAVLEA-256 mp 966B,judetul MARAMURES, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "PANTELIMON,B-dul. Biruinţei 1B,judetul ILFOV, Romania": [
+    "44.447047",
+    "26.209132",
+    "OK"
+  ],
+  "SAPOCA,Str. Malinului 2Bis,judetul BUZAU, Romania": [
+    "45.23",
+    "26.75",
+    "OK"
+  ],
+  "COM. SIMIAN, SAT SIMIAN,Calea Craiovei 5,judetul MEHEDINTI, Romania": [
+    "44.63",
+    "22.75",
+    "OK"
+  ],
+  "VLADIMIRESCU,Str. Belfast 4,judetul ARAD, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BARLAD,Str. Vasile Lupu 60 BIS,judetul VASLUI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. ABRAM,SAT ABRAM 184/A,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MACIN,Str. Dorobant 1B,judetul TULCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BERCENI,B-dul. 1 Mai 61 F,judetul ILFOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "Com. URIU,Sat Uriu, Str. Principala 301 A,judetul BISTRITA-NASAUD, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "Sat Capu Codrului,Comuna Paltinoasa 773,judetul SUCEAVA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "AIUD,Str. Tudor Vladimirescu 105,judetul ALBA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "NEGRU VODA,CEREALELOR, SERVICE AUTO, STATIE ITP, IN SUPRAFATA DE 230 MP 18A,judetul CONSTANTA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ANINOASA,Str. Stadionului 23,judetul DAMBOVITA, Romania": [
+    "44.97",
+    "25.43",
+    "OK"
+  ],
+  "IASI,Str. Tudor Vladimirescu 67,judetul IASI, Romania": [
+    "47.15",
+    "27.60",
+    "OK"
+  ],
+  "COM. MARACINENI,EURO 85, SAT MARACINENI 92-94,judetul BUZAU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CRAIOVA,Bariera Vilcii 185,judetul DOLJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,STR. BERZEI 79,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "GALATI,STR. VADENI 29,judetul GALATI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ADJUD,Str. Republicii 107,judetul VRANCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "LUGOJ,Str. Ion Luca Caragiale 6,judetul TIMIS, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SAT SANTION, COMUNA BORS,- 61/A,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,B-dul. Timisoara 60-62, C4,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "IASI,Fundac OTELARIEI, CONSTRUCTIA C283 HALA INDUSTRIALA INTABULATA IN CARTEA FUNCIARÄ NR. 134338, NUMAR CADASTRAL 134338 24N,judetul IASI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SAT JIANA, COM. JIANA,CALEA SEVERINULUI 4,judetul MEHEDINTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CLUJ-NAPOCA,STR. ALEXANDRU VAIDA VOEVOD 67,judetul CLUJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Dragos Voda 65-71,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "RASNOV,Str. Predeal 150,judetul BRASOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CRAIOVA,Str. Deceneu 104,judetul DOLJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Margeanului 59,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MOVILITA,Str. Calea Bucuresti 67,judetul IALOMITA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SAT VAD, COMUNA SERCAIA,PRINCIPALA 228,judetul BRASOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,str. RADOVANU, CORP C2 SI TEREN IN SUPRAFATA DE 150 MP 33,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. SADOVA,SAT SADOVA CF33275-C1,judetul SUCEAVA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MUNICIPIUL CONSTANTA,B-dul AUREL VLAICU, LOT B -,judetul CONSTANTA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SAT CRISTESTI, COM. CRISTESTI,PRINCIPALA 806,judetul MURES, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. VADU PASII,Strada Principala, SAT GURA CALNAULUI 125,judetul BUZAU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "JIBOU,Str. Agrijului 2,judetul SALAJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MIOVENI,Str. I. C. Bratianu 59B,judetul ARGES, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CLUJ-NAPOCA,Str. Patriciu Barbu 27,judetul CLUJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SACELE,Str. Ecologistilor, Hala 1 55-57,judetul BRASOV, Romania": [
+    "45.61",
+    "25.69",
+    "OK"
+  ],
+  "MEDIAS,Sos. Sibiului 174A,judetul SIBIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "GALATI,Calea SMIRDAN 65,judetul GALATI, Romania": [
+    "45.43",
+    "28.00",
+    "OK"
+  ],
+  "BUCURESTI,Str. Fabrica de Chibrituri 24-26, C2,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SAT CRISTIAN, COM. CRISTIAN,STR XIII, inscris in CF nr. 102451 FN,judetul SIBIU, Romania": [
+    "45.78634520859436",
+    "24.050319985011928",
+    "OK"
+  ],
+  "SEGARCEA, ORAS SEGARCEA,REPUBLICII 141G,judetul DOLJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "IASI,SOS. MOARA DE FOC, parter, incaperea 5, respectiv parte incapere 1 22A,judetul IASI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "Sat TATARANI,Comuna Barcanesti, Str. Trandafirilor, 210 mp din constructa C3 171B,judetul PRAHOVA, Romania": [
+    "44.89",
+    "26.03",
+    "OK"
+  ],
+  "CONSTANTA,INTERIOARA 3 17 D,judetul CONSTANTA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BRAGADIRU,Sos. Alexandriei 304,Parter,judetul ILFOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "PIATRA NEAMT,Str. Gara Veche 8,judetul NEAMT, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. IZVORUL BARZII,SAT HALANGA D.N. 67,judetul MEHEDINTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TALMACIU,Str. Unirii 1C,judetul SIBIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ALBA IULIA,Str. ATELIERULUI 3,judetul ALBA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "RAMNICU VALCEA,Calea Bucuresti 284,judetul VALCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MICESTI, MUNICIPIUL ALBA IULIA,FAGARAS 1,judetul ALBA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "Municipiul RAMNICU VALCEA, Str. STIRBEI VODA 87,judetul VALCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "Municipiul IASI,B-dul SOCOLA 44,judetul IASI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ZARNESTI,Str. Branului F.N.,judetul BRASOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "VOLUNTARI,B-dul. Voluntari 114F,judetul ILFOV, Romania": [
+    "44.4833746",
+    "26.1739976",
+    "OK"
+  ],
+  "COM. ULMENI, SAT ULMENI,Sos. Olteniţei 464, C4,judetul CALARASI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "FLORESTI,Com. Floresti, Str. AVRAM IANCU 257,judetul CLUJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MACIN,STR. FLORILOR 70,judetul TULCEA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SFANTU GHEORGHE,STR. CIUCULUI 106,judetul COVASNA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. ION NECULCE,SAT RAZBOIENI, Tarlaua 96, Parcela 2582/41/1,judetul IASI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. BUTOIESTI,SAT RADUTESTI 6A,judetul MEHEDINTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COSTESTI,VICTORIEI 108,judetul ARGES, Romania": [
+    "44.67",
+    "24.85",
+    "OK"
+  ],
+  "BACAU,Str. Vadul Bistriţei 48,judetul BACAU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "VOLUNTARI,Str. EROU PRITOPESCU 9A,judetul ILFOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "DRAGASANI,Str. TUDOR VLADIMIRESCU 620,judetul VALCEA, Romania": [
+    "44.66",
+    "24.26",
+    "OK"
+  ],
+  "Sat CRANGURI,Comuna Singureni, Numar cadastral 32408 FN,judetul GIURGIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "FLORESTI,Com. Floresti, Str. AVRAM IANCU 148,judetul CLUJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "IASI,B-dul Chimiei 14,judetul IASI, Romania": [
+    "47.15",
+    "27.60",
+    "OK"
+  ],
+  "ANINA,Cartier Colonia Crivina cad. 32640,judetul CARAS-SEVERIN, Romania": [
+    "45.08",
+    "21.85",
+    "OK"
+  ],
+  "CRAIOVA,Str. Paltinis 33,judetul DOLJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. ADUNATII-COPACENI,SAT MOGOSESTI, SOS. VICTORIEI 17,judetul GIURGIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SFANTU GHEORGHE,Sat Chilieni, Str. Brasovului, DN 12 17,judetul COVASNA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "IASI,Str. Chisinaului 57, Parter,judetul IASI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TARGU NEAMT,B-dul. Stefan cel Mare 225,judetul NEAMT, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CLUJ-NAPOCA,STR. MARAMURESULUI 24,judetul CLUJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "PITESTI,STR. DEPOZITELOR 38-38G,judetul ARGES, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Dambovnicului 34,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "DOMNESTI,Sos. Curtea Domneasca 52,judetul ILFOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CORABIA, ORAS CORABIA,STEFAN CEL MARE 2D,judetul OLT, Romania": [
+    "43.77",
+    "24.51",
+    "OK"
+  ],
+  "RESITA,STR. TIMISOAREI 15 A,judetul CARAS-SEVERIN, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ALEXANDRIA,STRADA VIILOR 15,judetul TELEORMAN, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "URZICENI,Sos. Bucuresti-Buzau Km. 57,5,judetul IALOMITA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BRASOV,B-dul Griviţei, Corp 4 A96,judetul BRASOV, Romania": [
+    "45.65",
+    "25.60",
+    "OK"
+  ],
+  "ORADEA,Str. SANTAULUI 15/B,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SANTANDREI,Str. 1 Mai 9,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Gheorghe Tiţeica 85-87,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ROSIORII DE VEDE,Bd. SFANTA VINERI 41A,judetul TELEORMAN, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Sos. Giurgiului 258B,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "DUMBRAVITA,Sat Dumbraviţa, DJ 691, KM 8, Birou 1, Et. Parter -,judetul TIMIS, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Pogoanelor 150,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ORADEA,Calea Borsului 10A,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Valea Lunga 30, C19,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. SCHEIA, SAT SCHEIA,Str. Humorului 143,judetul SUCEAVA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI, SECTOR 6,B-DUL TIMISOARA, SPATIU DEPOZITARE, CLADIRE C22, LOT 3, SUPRAFATA DE 121,7 MP 92,judetul BUCURESTI, Romania": [
+    "44.43579",
+    "26.01649",
+    "OK"
+  ],
+  "ONESTI,Str. Marasesti 21,judetul BACAU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TIMISOARA,Str. Aristide Demetriade 28, S1+S2,judetul TIMIS, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "Oras STEI,Str. Andrei Muresanu 4/N,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ZIMNICEA,Str. Zorilor 107,judetul TELEORMAN, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ZLATNA,SAT PODU LUI PAUL 33,judetul ALBA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "GLINA,Str. Biruinţei 11,judetul ILFOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "SIBIU,Sos. Alba Iulia 69,judetul SIBIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "PITESTI,B-dul REPUBLICII 200-202,judetul ARGES, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "RASNOV,Aleea Floarea Soarelui 13,judetul BRASOV, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM.SCOARTA, SAT LINTEA,Str. Principala 5B,judetul GORJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "DOLHASCA,Str. Politei 1A,judetul SUCEAVA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "IASI,Aleea Nicolina 82,judetul IASI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Sos. Bucuresti-Ploiesti 40A, C1,judetul BUCURESTI, Romania": [
+    "44.49239",
+    "26.04831",
+    "OK"
+  ],
+  "COM. GIARMATA, SAT GIARMATA,Calea Timisoarei 14F,judetul TIMIS, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "FILIASI,MORII 7A,judetul DOLJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CLUJ-NAPOCA,Strada Calea Baciului, incinta Euro Park ,A2/1 2-4,judetul CLUJ, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "Com. VINATORI-NEAMT,Sat Lunca FN,judetul NEAMT, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BIHARIA,Str. Trandafirilor 34,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "MAXINENI,Str. Preot Ilie Postolache 54A,judetul BRAILA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "ARAD,Str. Preot Dr. Ilarion Felea 63A,judetul ARAD, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CHIAJNA,SOSEAUA DE CENTURA 7-9,judetul ILFOV, Romania": [
+    "44.45",
+    "25.97",
+    "OK"
+  ],
+  "BUCURESTI,SOS. FUNDENI, NR. 260-262-262E -,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. LETCA NOUA, SAT LETCA NOUA,Str. Gaesti 7A,judetul GIURGIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. REMETEA MARE,SAT REMETEA MARE 379,HALA 2,judetul TIMIS, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. POPESTI,SAT VOIEVOZI, 438,judetul BIHOR, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CONSTANTA,Str. Interioara 3 1,judetul CONSTANTA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Calea Vitan 281A,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TARGOVISTE,B-dul. Unirii 4A,judetul DAMBOVITA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TARGOVISTE,Calea BUCURESTI 80,judetul DAMBOVITA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "COM. FRATESTI, SAT REMUS,Str. Liliacului 2,judetul GIURGIU, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TARGU LAPUS,LIVIU REBREANU, ORAS TARGU LAPUS 98B,judetul MARAMURES, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "CONSTANTA,B-dul. Aurel Vlaicu 186,Lot2/1,judetul CONSTANTA, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,STR. PARINTELE GALERIU 12-14,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "TECUCI,Str. Tecuciul Nou 1C,judetul GALATI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ],
+  "BUCURESTI,Str. Vitejilor 16,judetul BUCURESTI, Romania": [
+    null,
+    null,
+    "NOT_FOUND"
+  ]
+}

@@ -1,0 +1,1910 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Stații ITP Maramures",
+    "description": "Stații ITP autorizate RAR din județul Maramures. Programări rapide și informații complete despre stațiile ITP.",
+    "url": "https://itpgo.ro/judet/maramures",
+    "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Judete",
+                "item": "https://itpgo.ro/judet"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Stații ITP Maramures",
+                "item": "https://itpgo.ro/judet/maramures"
+            }
+        ]
+    },
+    "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": 67,
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/alfa-prima-car-srl",
+                    "name": "Alfa Prima Car",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Sat Viile Apei Nr. 5d, Seini"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.64115,
+                        "longitude": 28.680228
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM060"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/and-viorica-company-srl",
+                    "name": "AND VIORICA COMPANY SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SAT CORNEŞTI, COM. CĂLINEŞTI, - NR. 89C, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM074"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/an-mar-impex-srl",
+                    "name": "AN-MAR IMPEX Service Auto Baia Mare. Tinichigerie,Vopsitorie Auto, Geometrie Roti, Incarcare Freon",
+                    "image": "https://itpgo.rob40bc654-22fa-44b5-b84a-a20e780571a8/b40bc654-22fa-44b5-b84a-a20e780571a8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "NR. 276 A, SATU NOU DE JOS, GROSI, JUD. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.654502,
+                        "longitude": 23.579946
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM037"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ares-mara-srl",
+                    "name": "ARES MARA S.R.L.",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SAT BOCICOEL, COM. BOGDAN VODĂ, - NR. 359, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.659294,
+                        "longitude": 24.63154
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM092"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/atp-motors-ro-srl",
+                    "name": "ATP MOTORS RO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "MUNICIPIUL BAIA MARE, BULEVARDUL REGELE MIHAI I, NR. 65, JUDET MARAMUREȘ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.649494,
+                        "longitude": 23.546436
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM035"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-prosper-sa",
+                    "name": "AUTO-PROSPER SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, BD. INDEPENDENŢEI NR. 32, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.925602,
+                        "longitude": 23.875421
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM002"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/auto-village-mihalca-srl",
+                    "name": "AUTO VILLAGE MIHALCA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SAT RUSOR, NR. 129A, COMUNA COPALNIC MANASTUR, JUDET MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM089"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/cezval-srl",
+                    "name": "CEZVAL SRL",
+                    "image": "https://itpgo.ro/images/og.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "STRADA MINERILOR NR. 2A - 2B, BAIA MARE, JUD. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.662959,
+                        "longitude": 23.582796
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM093"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/chimprod-srl",
+                    "name": "CHIMPROD SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, B-DUL. BUCUREŞTI NR. 53A, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.65931,
+                        "longitude": 23.581448
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM033"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/dea-mat-mes-srl",
+                    "name": "Stație ITP",
+                    "image": "https://itpgo.ro68606181-f96b-45d8-a3d0-586dfd670eb4/68606181-f96b-45d8-a3d0-586dfd670eb4.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "OCNA ŞUGATAG, STR. STADIONULUI NR. 2, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.448233,
+                        "longitude": 23.869129
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM076"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/diadoh-se-srl",
+                    "name": "Diadoh S.e.",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Nicolae Titulescu Nr. 40, Sighetu Marmatiei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.935128,
+                        "longitude": 23.880093
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM021"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ebi-inspect-srl",
+                    "name": "EBI Inspect",
+                    "image": "https://itpgo.ro0fa63433-7011-480a-97a3-eee5560bd048/0fa63433-7011-480a-97a3-eee5560bd048.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "STRADA SUDULUI NR. 1B, BAIA MARE, JUD. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.651006,
+                        "longitude": 23.59771
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM073"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/euro-bozga-srl",
+                    "name": "EURO BOZGA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "NR. 958B, MOISEI, JUD. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM090"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gap-auto-srl",
+                    "name": "GAP AUTO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "str. TIBLESULUI nr. 109, TARGU LAPUS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.450479,
+                        "longitude": 23.871801
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM031"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/gricon-srl",
+                    "name": "GRICON SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "TÂRGU LĂPUŞ, STR. AGRICULTORULUI NR. 3, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.208512,
+                        "longitude": 26.635561
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM019"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 16,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hagero-solution-srl",
+                    "name": "HAGERO Service si ITP",
+                    "image": "https://itpgo.rof22416a8-7773-4cdf-b55c-d9a152125791/f22416a8-7773-4cdf-b55c-d9a152125791.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "str. INDEPENDENTEI nr. 4-6, SAT SARBI COM. FARCASA"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.584997,
+                        "longitude": 23.329559
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM029"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 17,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hagero-srl",
+                    "name": "HAGERO SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SÂRBI, STR. INDEPENDENŢEI NR. 4-6, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.411557,
+                        "longitude": 23.863327
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM059"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 18,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/handels-srl",
+                    "name": "HANDELS SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, B-DUL UNIRII NR. 43, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.645744,
+                        "longitude": 23.571754
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM055"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 19,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/hd-atel-service-srl",
+                    "name": "H.D. ATEL- SERVICE SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA SPRIE, STR. PETRARULUI NR. 6, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.468761,
+                        "longitude": 26.022144
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM039"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 20,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/itp-trade-auto-biz-srl",
+                    "name": "I.t.p. Trade Auto Biz",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Sat Arduzel Nr. 1/a, Ulmeni"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM075"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 21,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/menten-srl",
+                    "name": "AD Garage Menten Service SRL",
+                    "image": "https://itpgo.ro660bfecb-a368-4692-a7f3-e7d0f6e6ae90/660bfecb-a368-4692-a7f3-e7d0f6e6ae90.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. LUMINIŞULUI NR. 6A, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.411557,
+                        "longitude": 23.863327
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM016"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 22,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/ran-impex-srl",
+                    "name": "Ran Impex",
+                    "image": "https://itpgo.ro71d976cb-009e-417a-849a-48a2260a178f/71d976cb-009e-417a-849a-48a2260a178f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Bogdan Voda Nr. 40, Viseu de Sus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.710587,
+                        "longitude": 24.415478
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM008"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 23,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/rodec-nord-srl",
+                    "name": "Statie ITP",
+                    "image": "https://itpgo.ro87b99933-8a3b-4072-8fce-7720dc834dc7/87b99933-8a3b-4072-8fce-7720dc834dc7.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BULEVARDUL REGELE MIHAI I NR. 49E, BAIA MARE, JUD. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.649494,
+                        "longitude": 23.546436
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM068"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 24,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-aco-distribution-srl",
+                    "name": "SC A.C.O. DISTRIBUTION SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, BD. BUCURESTI nr. 104A, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.653188,
+                        "longitude": 23.561221
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM014"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 25,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-adetrans-itptlv-srl",
+                    "name": "Adetrans Itp&tlv",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Dragos Voda Nr. 176, Sighetu Marmatiei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.930121,
+                        "longitude": 23.894337
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM082"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 26,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-kaya-srl",
+                    "name": "SC AUTO KAYA SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SAT ROZAVLEA, COM. ROZAVLEA, LOCUL NUMIT SESU BRANAULUI, CF 50280 ROZAVLEA-455mp, si CF 52887 ROZAVLEA-256 mp nr. 966B, jud. MARAMURES"
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM079"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 27,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-test-george-srl",
+                    "name": "Autotest George",
+                    "image": "https://itpgo.roc633bf24-6945-442c-8b84-39bf2a5067e0/c633bf24-6945-442c-8b84-39bf2a5067e0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, Str. Fabricii nr. 7, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.499663,
+                        "longitude": 23.340987
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM066"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 28,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-tom-inspect-srl",
+                    "name": "Auto Tom Inspect",
+                    "image": "https://itpgo.roabd3fae2-b3fc-486f-b9a7-1b1efb5025c0/abd3fae2-b3fc-486f-b9a7-1b1efb5025c0.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Mierlei Nr. 70/b, Viseu de Sus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.717796,
+                        "longitude": 24.405071
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM086"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 29,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-autotrics-global-srl",
+                    "name": "Autotrics Global",
+                    "image": "https://itpgo.ro8c72b797-d978-4113-8350-5c14fe28237c/8c72b797-d978-4113-8350-5c14fe28237c.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. DUMBRAVEI, HALA ITP 107 MP nr. 2B, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.636684,
+                        "longitude": 23.580897
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM070"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 30,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-ventel-srl",
+                    "name": "Auto Venţel S.R.L.",
+                    "image": "https://itpgo.rocaf6fbce-b674-43b6-ac32-4e8a063bd68a/caf6fbce-b674-43b6-ac32-4e8a063bd68a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BORSA, STR. ENERGIEI nr. 28, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.588856,
+                        "longitude": 26.046918
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM024"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 31,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-auto-village-mihalca-srl",
+                    "name": "SC AUTO VILLAGE MIHALCA SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, B-dul. Independentei nr. 17, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.925542,
+                        "longitude": 23.875462
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM084"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 32,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-barbul-zetea-srl",
+                    "name": "Barbul Zetea",
+                    "image": "https://itpgo.ro2cdd798b-0a2c-493b-bb76-3d707ed8d587/2cdd798b-0a2c-493b-bb76-3d707ed8d587.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Industriilor Nr. 1, Seini"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.433549,
+                        "longitude": 26.187666
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM064"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 33,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-corema-design-srl",
+                    "name": "SC COREMA DESIGN SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BORSA, Str. Dragos Voda nr. 3, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.653249,
+                        "longitude": 23.546205
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM081"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 34,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-deluxe-auto-cars-srl",
+                    "name": "Noi Station-Statie ITP",
+                    "image": "https://itpgo.ro3eaf857a-5ddb-42fd-8e4a-40a4afc722d8/3eaf857a-5ddb-42fd-8e4a-40a4afc722d8.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, B-DUL INDEPENDENTEI nr. 30B, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.926417,
+                        "longitude": 23.875315
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM088"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 35,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-diesel-service-srl",
+                    "name": "Diesel Service S.R.L.",
+                    "image": "https://itpgo.ro9c2d7ef2-2311-4ccb-8df9-2194b00a5f58/9c2d7ef2-2311-4ccb-8df9-2194b00a5f58.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. MARGEANULUI nr. 2, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 44.403869,
+                        "longitude": 26.057769
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM013"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 36,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-dorita-vet-srl",
+                    "name": "Dorita Vet",
+                    "image": "https://itpgo.roe4fc9886-1d50-49d5-8c39-6dc1c2acb4b2/e4fc9886-1d50-49d5-8c39-6dc1c2acb4b2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Vasile Alecsandri Nr. 14-16, Sighetu Marmatiei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.929807,
+                        "longitude": 23.888922
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM080"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 37,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-dracard-com-serv-srl",
+                    "name": "SC DRACARD COM SERV SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BORSA, Str. Libertatii nr. 91, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.70552,
+                        "longitude": 24.429919
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM042"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 38,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-dudu-trans-srl",
+                    "name": "Dudu Trans",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Dragos Voda Nr. 173/a, Sighetu Marmatiei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.930121,
+                        "longitude": 23.894337
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM087"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 39,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-fortuna-motor-sa",
+                    "name": "SC FORTUNA MOTOR SA",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, B-dul. Independentei nr. 126, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.653508,
+                        "longitude": 23.5184
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM032"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 40,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-gap-auto-srl",
+                    "name": "Gap Auto",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Tiblesului Nr. 109, Targu Lapus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.450821,
+                        "longitude": 23.868054
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM041"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 41,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-gry-inspect-srl",
+                    "name": "SC GRY INSPECT SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "COM. ONCESTI, SAT ONCESTI nr. 1H, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM078"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 42,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-gtj-2424-truck-service-srl",
+                    "name": "ITP BUSAG GTJ 24 TRUCK SERVICE SRL",
+                    "image": "https://itpgo.roa03d63b1-9ac4-4178-83c1-98283630e78f/a03d63b1-9ac4-4178-83c1-98283630e78f.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BUSAG, TAUTII-MAGHERUS, STR. 112 nr. 32 A, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.411557,
+                        "longitude": 23.863327
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM057"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 43,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-itp-automar-srl",
+                    "name": "ITP Automar",
+                    "image": "https://itpgo.ro30a73ea1-0679-47a7-9ad3-93deedfbb033/30a73ea1-0679-47a7-9ad3-93deedfbb033.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. HOREA nr. 57, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.709997,
+                        "longitude": 24.437967
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM045"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 44,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-itp-automat-serv-srl",
+                    "name": "SC ITP AUTOMAT SERV SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, Str. Horea nr. 57A, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.709997,
+                        "longitude": 24.437967
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM054"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 45,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-itp-trade-auto-biz-srl",
+                    "name": "ITP Auto Baia Sprie",
+                    "image": "https://itpgo.ro7a0c9e0a-a076-4af0-8fc2-7da7be7f6331/7a0c9e0a-a076-4af0-8fc2-7da7be7f6331.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA SPRIE, Str. Ignisului nr. 3, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.929361,
+                        "longitude": 23.903173
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM063"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 46,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-lou-reton-mary-srl",
+                    "name": "Lou Reton Mary",
+                    "image": "https://itpgo.roe7695e73-dcf2-4a0d-b857-ce2e1473dd7d/e7695e73-dcf2-4a0d-b857-ce2e1473dd7d.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, Str. Fabricii nr. 11, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.499244,
+                        "longitude": 23.340632
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM049"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 47,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-mara-sim-serv-itp-srl",
+                    "name": "Mara Sim Serv Itp",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. 1 Decembrie 1918 Nr. 134b, Dragomiresti"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.663756,
+                        "longitude": 24.301061
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM071"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 48,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-marco-tim-srl",
+                    "name": "SC MARCO-TIM SRL",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BORSA, STR. ENERGIEI nr. 28, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.588856,
+                        "longitude": 26.046918
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM046"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 49,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-mocerneac-florina-melisa-intreprindere-individuala",
+                    "name": "SC MOCERNEAC FLORINA-MELISA INTREPRINDERE INDIVIDUALA",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SAT SARASAU, COM. SARASAU, - nr. 804A, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM085"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 50,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-mono-artkon-srl",
+                    "name": "Mono Artkon",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Dragos Voda Nr. 173 A, Sighetu Marmatiei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.930121,
+                        "longitude": 23.894337
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM052"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 51,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-ready2go-itp-srl",
+                    "name": "Ready2go Itp",
+                    "image": "https://itpgo.roc9085761-3545-460b-b03c-02b33b19b66e/c9085761-3545-460b-b03c-02b33b19b66e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Faget Nr. 110a, Sighetu Marmatiei"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.917678,
+                        "longitude": 23.929218
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM069"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 52,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-rok-family-united-srl",
+                    "name": "Rok Family United",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Aleea Eroilor Nr. 109a, Viseu de Sus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.697151,
+                        "longitude": 24.444573
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM050"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 53,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-rotsin-com-srl",
+                    "name": "SC ROTSIN COM SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "COM. LEORDINA, SAT LEORDINA nr. 520A, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM058"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 54,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-service-emisar-srl",
+                    "name": "Service Emisar",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. 112 Nr. 28, Tautii Magheraus"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.99625,
+                        "longitude": 22.086651
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM048"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 55,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-service-enga-srl",
+                    "name": "SC SERVICE ENGA SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, Str. Barajului nr. 39, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.601841,
+                        "longitude": 25.739162
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM043"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 56,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-serv-sind-srl",
+                    "name": "SC SERV SIND SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, Bd. Bucuresti nr. 124, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.650705,
+                        "longitude": 23.55084
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM025"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 57,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-tahogelu-srl",
+                    "name": "SC TAHOGELU SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SAT SATU NOU DE JOS, Str. Republicii nr. 13A, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 45.914451,
+                        "longitude": 27.08589
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM072"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 58,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-trans-duralimar-srl",
+                    "name": "Trans Duralimar",
+                    "image": "https://itpgo.roplaceholders/3.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "Str. Nicolae Balcescu Nr. 127, Somcuta Mare"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.50662,
+                        "longitude": 23.463973
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM036"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 59,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-unimotortech-srl",
+                    "name": "SC UNIMOTORTECH SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BORSA, Str. Victoriei nr. 100, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.657702,
+                        "longitude": 23.54724
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM083"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 60,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/sc-urbis-sa",
+                    "name": "ITP Urbis",
+                    "image": "https://itpgo.ro0ab0bde7-8b65-4754-9d41-d116cd4f6b0e/0ab0bde7-8b65-4754-9d41-d116cd4f6b0e.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. 8 MARTIE nr. 3, jud. MARAMURES"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 46.516663,
+                        "longitude": 24.522542
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM006"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 61,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/seneca-prod-srl",
+                    "name": "SENECA PROD SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. MĂRGEANULUI NR. 11B, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.411557,
+                        "longitude": 23.863327
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM040"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 62,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-emisar-srl",
+                    "name": "SERVICE EMISAR SRL",
+                    "image": "https://itpgo.roplaceholders/1.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "str. 112 nr. 28, TAUTII-MAGHERAUS"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.66616,
+                        "longitude": 23.466864
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM028"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 63,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/service-station-srl",
+                    "name": "SERVICE STATION SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "SAT COPALNIC-MĂNĂȘTUR, COMUNA COPALNIC-MĂNĂȘTUR, NR. 306A, JUDET MARAMUREȘ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM091"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 64,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/tahogelu-srl",
+                    "name": "TAHOGELU SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "str. REPUBLICII nr. 13 A, SATU NOU DE JOS COM GROSI"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.616992,
+                        "longitude": 23.566605
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM030"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 65,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/t-d-auto-trink-srl",
+                    "name": "T & D AUTO TRINK SRL",
+                    "image": "https://itpgo.roplaceholders/2.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "COM. BOCICOIU MARE, SAT TISA NR. 383C, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.456758,
+                        "longitude": 23.849371
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM067"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 66,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/van-wu-trans-srl",
+                    "name": "Van Wu Trans",
+                    "image": "https://itpgo.ro5767ba72-9309-4147-925a-cd1c174abd9a/5767ba72-9309-4147-925a-cd1c174abd9a.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. OBORULUI NR. 45, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.711069,
+                        "longitude": 24.42503
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM056"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 67,
+                "item": {
+                    "@type": "AutoRepair",
+                    "@id": "https://itpgo.ro/statie/vreau-itp-auto-srl",
+                    "name": "Vreau ITP Baia Mare",
+                    "image": "https://itpgo.ro995b873e-6780-4824-8648-23b9bebcc801/995b873e-6780-4824-8648-23b9bebcc801.jpg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "RO",
+                        "addressRegion": "Maramures",
+                        "streetAddress": "BAIA MARE, STR. ARIEŞULUI NR. 25, JUD. MARAMUREŞ"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 47.63876,
+                        "longitude": 23.397828
+                    },
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "stationCode",
+                            "value": "MM077"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "about": {
+        "@type": "Service",
+        "name": "Inspecție Tehnică Periodică Auto",
+        "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "Maramures",
+            "alternateName": "MM"
+        }
+    }
+}
